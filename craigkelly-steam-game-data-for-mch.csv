@@ -1,0 +1,1776 @@
+QueryID,ResponseID,QueryName,ResponseName,ReleaseDate,Metacritic,RecommendationCount,ScreenshotCount,SteamSpyOwners,AchievementCount, PriceInitial 
+10,10,Counter-Strike,Counter-Strike,Nov 1 2000,88,68991,13,13033334,0,9.99
+30,30,Day of Defeat,Day of Defeat,May 1 2003,79,2319,5,7621102,0,4.99
+70,70,Half-Life,Half-Life,Nov 8 1998,96,12486,11,5927504,0,9.99
+80,80,Counter-Strike: Condition Zero,Counter-Strike: Condition Zero,Mar 1 2004,65,7067,8,10489261,0,9.99
+130,130,Half-Life: Blue Shift,Half-Life: Blue Shift,Jun 1 2001,71,2219,5,5368650,0,4.99
+220,220,Half-Life 2,Half-Life 2,Nov 16 2004,96,35792,9,9901173,33,9.99
+240,240,Counter-Strike: Source,Counter-Strike: Source,Nov 1 2004,88,53931,5,15433570,147,19.99
+300,300,Day of Defeat: Source,Day of Defeat: Source,Jul 12 2010,80,7185,5,6400269,54,9.99
+380,380,Half-Life 2: Episode One,Half-Life 2: Episode One,Jun 1 2006,87,4437,5,6298399,13,7.99
+400,400,Portal,Portal,Oct 10 2007,90,27535,11,9795716,15,9.99
+420,420,Half-Life 2: Episode Two,Half-Life 2: Episode Two,Oct 10 2007,90,6104,5,5735062,22,7.99
+500,500,Left 4 Dead,Left 4 Dead,Nov 17 2008,89,9980,12,4473517,73,19.99
+550,550,Left 4 Dead 2,Left 4 Dead 2,Nov 16 2009,89,140726,17,15574539,70,19.99
+440,440,Team Fortress 2,Team Fortress 2,Oct 10 2007,92,383949,11,37878812,520,0
+620,620,Portal 2,Portal 2,Apr 18 2011,95,73128,12,8741499,51,19.99
+730,730,Counter-Strike: Global Offensive,Counter-Strike: Global Offensive,Aug 21 2012,83,1427633,15,25833156,167,14.99
+1200,1200,Red Orchestra: Ostfront 41-45,Red Orchestra: Ostfront 41-45,Mar 14 2006,81,1220,37,940689,44,9.99
+1250,1250,Killing Floor,Killing Floor,May 14 2009,72,44364,39,3496958,285,19.99
+1300,1300,SiN Episodes: Emergence,SiN Episodes: Emergence,May 10 2006,75,385,5,219883,0,9.99
+1500,1500,Darwinia,Darwinia,Jul 14 2005,84,444,5,674354,0,9.99
+1510,1510,Uplink,Uplink,Aug 23 2006,75,1240,4,728339,0,9.99
+1520,1520,DEFCON,DEFCON,Sep 29 2006,84,1655,5,811736,22,9.99
+1530,1530,Multiwinia,Multiwinia,Sep 19 2008,76,340,16,619832,12,9.99
+1600,1600,Dangerous Waters,Dangerous Waters,Feb 7 2006,82,112,8,53087,0,14.99
+1630,1630,Disciples II: Rise of the Elves,Disciples II: Rise of the Elves,Jul 6 2006,80,299,13,106175,0,6.49
+1640,1640,Disciples II: Gallean's Return,Disciples II: Galleans Return,Jul 6 2006,84,400,4,113708,0,6.49
+1670,1670,Iron Warriors: T-72 Tank Command,Iron Warriors: T - 72 Tank Command,Jul 26 2006,56,210,5,43403,0,4.99
+1690,1690,Space Empires V,Space Empires V,Oct 16 2006,68,204,5,69408,0,14.99
+1700,1700,Arx Fatalis,Arx Fatalis,Apr 3 2007,77,389,10,119806,0,4.99
+1900,1900,Earth 2160,Earth 2160,Apr 1 2006,73,412,9,236024,0,4.99
+1930,1930,Two Worlds: Epic Edition,Two Worlds Epic Edition,Apr 30 2009,65,2399,16,942661,0,9.99
+2100,2100,Dark Messiah of Might & Magic Single Player,Dark Messiah of Might & Magic,Oct 25 2006,72,2776,6,966156,0,9.99
+2210,2210,Quake 4,Quake IV,Aug 4 2011,81,509,15,173790,0,14.99
+2300,2300,DOOM II: Hell on Earth,DOOM II,Aug 3 2007,83,1279,5,443890,0,4.99
+2310,2310,Quake,QUAKE,Aug 3 2007,94,1266,5,340047,0,4.99
+2400,2400,The Ship,The Ship: Murder Party,Jul 11 2006,76,5026,19,1364671,0,9.99
+2450,2450,Bloody Good Time,Bloody Good Time,Oct 29 2010,73,716,8,116936,12,4.99
+2500,2500,Shadowgrounds,Shadowgrounds,May 8 2006,74,973,5,565669,0,6.99
+570,570,Dota 2,Dota 2,Jul 9 2013,90,590480,16,90687580,0,0
+2590,2590,Alpha Prime,Alpha Prime,Nov 7 2007,59,984,11,312427,0,4.99
+2600,2600,Vampire: The Masquerade - Bloodlines,Vampire: The Masquerade - Bloodlines,Mar 22 2007,80,3983,10,544326,0,19.99
+2610,2610,GUN,GUN(tm),Oct 13 2006,76,351,5,70664,0,19.99
+2620,2620,Call of Duty,Call of Duty(r),Oct 13 2006,91,851,5,223470,0,19.99
+2630,2630,Call of Duty 2,Call of Duty(r) 2,Oct 13 2006,86,1307,5,340226,0,19.99
+2640,2640,Call of Duty: United Offensive,Call of Duty: United Offensive,Oct 13 2006,87,318,5,189034,0,19.99
+2700,2700,RollerCoaster Tycoon 3: Platinum!,RollerCoaster Tycoon(r) 3: Platinum,Mar 12 2008,81,2579,8,799182,0,19.99
+2710,2710,Act of War: Direct Action,Act of War: Direct Action,Mar 12 2008,82,109,12,22598,0,2.99
+2780,2780,Arma: Combat Operations,ARMA: Combat Operations,Mar 12 2008,74,181,20,45196,0,7.99
+2800,2800,X2: The Threat,X2: The Threat,Jul 21 2006,72,183,5,231540,0,4.99
+2810,2810,X3: Reunion,X3: Reunion,Jul 21 2006,71,280,11,357802,0,9.99
+2820,2820,X3: Terran Conflict,X3: Terran Conflict,Oct 16 2008,73,1262,12,544147,33,15.99
+2840,2840,X: Beyond the Frontier,X: Beyond the Frontier,Oct 8 2010,67,136,6,206611,0,4.99
+2870,2870,X Rebirth,X Rebirth,Nov 15 2013,33,5637,10,218806,69,29.99
+2990,2990,FlatOut 2,FlatOut 2(tm),Dec 21 2006,76,2870,10,417346,0,9.99
+3010,3010,Xpand Rally,Xpand Rally,Aug 24 2006,82,116,8,48245,0,4.99
+3020,3020,Call of Juarez,Call of Juarez(tm),Nov 8 2007,72,501,10,104381,0,9.99
+3130,3130,Men of War: Red Tide,Men of War: Red Tide,Nov 1 2009,77,228,14,243198,0,4.99
+3170,3170,King's Bounty: Armored Princess,Kings Bounty: Armored Princess,Nov 19 2009,82,308,20,369998,0,9.99
+3230,3230,Genesis Rising,Genesis Rising,Aug 6 2007,57,103,5,30669,0,4.99
+3260,3260,Safecracker: The Ultimate Puzzle Adventure,Safecracker: The Ultimate Puzzle Adventure,Aug 29 2007,69,321,5,89854,0,4.99
+3270,3270,Painkiller Overdose,Painkiller Overdose,Oct 30 2007,65,374,15,256111,0,4.99
+3540,3540,Peggle Nights,Peggle(tm) Nights,Oct 15 2008,76,248,12,209839,0,4.99
+3590,3590,Plants vs. Zombies: Game of the Year,Plants vs. Zombies GOTY Edition,May 5 2009,87,6207,10,1169180,21,4.99
+3620,3620,Zuma's Revenge,Zumas Revenge!,Sep 15 2009,78,225,12,102767,14,4.99
+3700,3700,Sniper Elite,Sniper Elite,Jul 16 2009,76,866,14,421292,0,9.99
+3710,3710,Judge Dredd: Dredd vs Death,Judge Dredd: Dredd vs. Death,Mar 26 2009,55,425,6,62772,0,7.99
+3720,3720,Evil Genius,Evil Genius,Jun 22 2009,75,1195,10,220241,0,9.99
+3800,3800,Advent Rising,Advent Rising,Sep 14 2006,70,226,5,47169,0,9.99
+3810,3810,BloodRayne,BloodRayne,Sep 14 2006,65,307,4,66718,0,9.99
+3820,3820,BloodRayne 2,BloodRayne 2,Sep 14 2006,67,224,5,67256,0,9.99
+3830,3830,Psychonauts,Psychonauts,Oct 11 2006,87,5130,7,1413633,37,9.99
+3900,3900,Sid Meier's Civilization IV,Sid Meiers Civilization(r) IV,Oct 25 2006,94,887,5,1422601,0,19.99
+3910,3910,Sid Meier's Civilization III: Complete,Sid Meiers Civilization(r) III Complete,Oct 25 2006,90,1328,5,1097619,0,4.99
+3920,3920,Sid Meier's Pirates!,Sid Meiers Pirates!,Jul 11 2005,88,1641,5,800437,0,9.99
+3980,3980,CivCity: Rome,CivCity: Rome,Apr 6 2007,67,143,13,75686,0,9.99
+4500,4500,S.T.A.L.K.E.R.: Shadow of Chernobyl,S.T.A.L.K.E.R.: Shadow of Chernobyl,Mar 20 2007,82,4657,17,1029825,0,19.99
+4520,4520,Full Spectrum Warrior,Full Spectrum Warrior,Jul 17 2007,80,104,9,111376,0,9.99
+630,630,Alien Swarm,Alien Swarm,Jul 19 2010,77,14625,10,4819841,66,0
+2570,2570,Vigil: Blood Bitterness,Vigil: Blood Bitterness(tm),Jun 29 2007,61,129,11,63310,0,0
+4560,4560,Company of Heroes,Company of Heroes,Jul 17 2007,93,3856,7,2972719,0,19.99
+4570,4570,"Warhammer 40,000: Dawn of War - Game of the Year Edition",Warhammer(r) 40000: Dawn of War(r) - Game of the Year Edition,Aug 7 2007,86,2212,13,1596749,0,12.99
+4580,4580,"Warhammer 40,000: Dawn of War – Dark Crusade",Warhammer(r) 40000: Dawn of War(r) - Dark Crusade,Aug 7 2007,87,1715,10,1023010,0,12.99
+4700,4700,Medieval II: Total War,Medieval II: Total War(tm),Nov 27 2007,88,5418,10,1794751,0,19.99
+4720,4720,Condemned: Criminal Origins,Condemned: Criminal Origins,Oct 29 2012,78,891,5,482988,0,14.95
+4760,4760,Rome: Total War,Rome: Total War(tm) - Collection,Aug 28 2007,92,5160,16,1632799,0,9.99
+4770,4770,Rome: Total War - Alexander,Rome: Total War(tm) - Alexander,Aug 28 2007,79,266,8,760442,0,4.99
+4800,4800,Heroes of Annihilated Empires,Heroes of Annihilated Empires,Nov 22 2006,65,153,16,51832,0,14.99
+4850,4850,Cossacks: Back to War,Cossacks: Back to War,Sep 2 2010,60,726,13,164284,0,4.99
+4880,4880,Cossacks: European Wars,Cossacks: European Wars,Aug 26 2011,74,135,2,100436,0,4.99
+4890,4890,Cossacks II: Battle for Europe,Cossacks II: Battle for Europe,Aug 26 2011,69,223,22,101691,0,4.99
+4920,4920,Natural Selection 2,Natural Selection 2,Oct 30 2012,80,7873,17,1680326,60,9.99
+6000,6000,STAR WARS™ Republic Commando,STAR WARS(tm) Republic Commando(tm),Jul 8 2009,78,3763,14,1206485,0,9.99
+6020,6020,STAR WARS™ Jedi Knight: Jedi Academy™,STAR WARS(tm) Jedi Knight - Jedi Academy(tm),Sep 16 2009,81,3535,12,1536488,0,9.99
+6030,6030,STAR WARS™ Jedi Knight II: Jedi Outcast™,STAR WARS(tm) Jedi Knight II - Jedi Outcast(tm),Sep 16 2009,89,1433,14,1217963,0,9.99
+6060,6060,STAR WARS™ Battlefront™ II,STAR WARS(tm) Battlefront(tm) II,Jul 8 2009,78,16580,13,2466416,0,9.99
+6080,6080,Thrillville: Off the Rails,Thrillville(r): Off the Rails(tm),Jul 8 2009,70,151,8,17935,0,9.99
+6120,6120,Shank,Shank,Oct 25 2010,67,1232,10,525494,12,9.99
+6200,6200,Ghost Master,Ghost Master(r),Dec 21 2006,81,846,11,166257,0,4.99
+6220,6220,FlatOut,FlatOut,Feb 2 2007,72,1241,20,309737,0,7.49
+6250,6250,Making History: The Calm & The Storm,Making History: The Calm & the Storm,Mar 13 2007,70,453,6,67077,0,4.99
+6270,6270,Ducati World Championship,Ducati World Championship,Sep 21 2007,35,161,11,41609,0,4.99
+6300,6300,Dreamfall: The Longest Journey,Dreamfall: The Longest Journey,Jan 12 2007,75,397,19,148143,0,19.99
+6310,6310,The Longest Journey,The Longest Journey,May 1 2007,91,737,30,220421,0,9.99
+4540,4540,Titan Quest,Titan Quest,Jun 26 2007,77,2218,16,1594238,0,0
+6420,6420,Nexus: The Jupiter Incident,Nexus - The Jupiter Incident,Jul 3 2007,77,333,10,81604,0,9.99
+6510,6510,Lost Planet: Extreme Condition,Lost Planet(tm): Extreme Condition,Jun 26 2007,66,499,10,460570,0,14.99
+6550,6550,Devil May Cry 3: Special Edition,Devil May Cry(r) 3 Special Edition,Jun 12 2007,66,1401,7,225442,0,19.99
+6830,6830,Commandos 2: Men of Courage,Commandos 2: Men of Courage,Mar 15 2007,87,877,9,534103,0,3.99
+6840,6840,Commandos 3: Destination Berlin,Commandos 3: Destination Berlin,Mar 15 2007,72,415,10,499489,0,3.99
+6850,6850,Hitman 2: Silent Assassin,Hitman 2: Silent Assassin,Mar 15 2007,87,1144,5,1309073,0,6.99
+6860,6860,Hitman: Blood Money,Hitman: Blood Money,Mar 15 2007,82,3895,8,1454166,0,8.99
+6870,6870,Battlestations: Midway,Battlestations: Midway,Mar 15 2007,76,214,29,364259,0,6.99
+6880,6880,Just Cause,Just Cause,Mar 15 2007,75,1565,10,1269616,0,6.99
+6900,6900,Hitman: Codename 47,Hitman: Codename 47,Mar 15 2007,73,1049,5,1134565,0,6.99
+6910,6910,Deus Ex: Game of the Year Edition,Deus Ex: Game of the Year Edition,Mar 29 2007,90,3706,11,1198773,0,6.99
+6920,6920,Deus Ex: Invisible War,Deus Ex: Invisible War,Mar 29 2007,80,679,7,876302,0,6.99
+6980,6980,Thief: Deadly Shadows,Thief: Deadly Shadows,Mar 29 2007,85,860,9,678121,0,8.99
+7000,7000,Tomb Raider: Legend,Tomb Raider: Legend,Mar 29 2007,82,921,12,860519,0,6.99
+7010,7010,Project: Snowblind,Project: Snowblind,Mar 29 2007,76,110,10,67615,0,5.99
+7020,7020,Rogue Trooper,Rogue Trooper,Mar 29 2007,69,157,9,70484,0,9.99
+7110,7110,Jade Empire: Special Edition,Jade Empire(tm): Special Edition,Feb 27 2007,81,721,15,198002,0,14.99
+7200,7200,TrackMania United,Trackmania United Forever Star Edition,Apr 16 2008,80,633,15,129849,0,29.99
+7210,7210,Runaway: A Road Adventure,Runaway A Road Adventure,Mar 14 2007,74,212,10,120344,0,9.99
+7510,7510,X-Blades,X-Blades,Apr 30 2009,54,1846,10,547734,0,9.99
+7520,7520,Two Worlds II,Two Worlds II,Feb 3 2011,76,3331,10,945172,0,19.99
+7600,7600,Sid Meier's Railroads!,Sid Meiers Railroads!,May 4 2007,77,1097,8,531772,0,9.99
+7610,7610,Railroad Tycoon 3,Railroad Tycoon 3,May 4 2007,80,273,14,226877,0,9.99
+7620,7620,Railroad Tycoon 2: Platinum,Railroad Tycoon II Platinum,May 4 2007,89,296,8,175763,0,4.99
+7670,7670,BioShock,BioShock(tm),Aug 21 2007,96,16260,9,3635595,0,19.99
+7770,7770,X-COM: Enforcer,X-COM: Enforcer,Sep 4 2008,65,201,7,585756,0,4.99
+7830,7830,Men of War,Men of War(tm),May 6 2009,80,1203,8,338074,0,4.99
+7860,7860,NecroVisioN,NecroVision,May 20 2009,63,506,10,112990,0,4.99
+7940,7940,Call of Duty 4: Modern Warfare,Call of Duty(r) 4: Modern Warfare(r),Nov 12 2007,92,5983,14,1056728,0,19.99
+8000,8000,Tomb Raider: Anniversary,Tomb Raider: Anniversary,Jun 5 2007,83,1111,6,904281,0,8.99
+8080,8080,Kane & Lynch: Dead Men,Kane and Lynch: Dead Men(tm),Dec 13 2007,67,1136,7,429722,0,6.99
+8140,8140,Tomb Raider: Underworld,Tomb Raider: Underworld,Nov 21 2008,80,1079,16,936922,0,8.99
+8170,8170,Battlestations: Pacific,Battlestations Pacific,May 13 2009,74,897,16,276557,0,8.99
+8190,8190,Just Cause 2,Just Cause 2,Mar 23 2010,84,27899,10,4240721,50,14.99
+8340,8340,Strong Bad Episode 1: Homestar Ruiner,Strong Bads Cool Game for Attractive People: Season 1,Dec 18 2008,82,175,10,165181,0,19.99
+8400,8400,Geometry Wars: Retro Evolved,Geometry Wars: Retro Evolved,Jun 18 2007,76,507,22,167333,0,3.99
+8500,8500,EVE Online,EVE Online,Dec 15 2010,88,4269,22,592571,0,19.99
+8600,8600,RACE 07,RACE 07,Oct 15 2007,83,1637,9,1139587,0,3.99
+8800,8800,Sid Meier's Civilization IV: Beyond the Sword,Civilization IV: Beyond the Sword,Jul 24 2007,86,780,10,1193213,0,9.99
+8850,8850,BioShock 2,BioShock(r) 2,Feb 9 2010,88,7624,7,3219325,68,19.99
+8870,8870,BioShock Infinite,BioShock Infinite,Mar 25 2013,94,55512,9,4619328,80,29.99
+8880,8880,Freedom Force,Freedom Force,May 29 2009,90,242,11,252524,0,4.99
+8930,8930,Sid Meier's Civilization V,Sid Meiers Civilization(r) V,Sep 21 2010,90,85750,5,9711421,287,29.99
+8980,8980,Borderlands,Borderlands,Oct 26 2009,81,15545,10,3134313,80,19.99
+9010,9010,Return to Castle Wolfenstein,Return to Castle Wolfenstein,Aug 3 2007,88,1533,9,356188,0,4.99
+9050,9050,DOOM 3,DOOM 3,Aug 3 2007,87,1645,8,412863,0,4.99
+9200,9200,RAGE,RAGE,Oct 3 2011,79,8176,11,1325035,60,9.99
+9340,9340,Company of Heroes: Opposing Fronts,Company of Heroes: Opposing Fronts,Sep 24 2007,87,457,10,2384453,0,19.99
+9350,9350,Supreme Commander,Supreme Commander,Sep 28 2011,86,782,11,829851,0,14.99
+9420,9420,Supreme Commander: Forged Alliance,Supreme Commander: Forged Alliance,Sep 28 2011,81,2834,2,905357,0,14.99
+9460,9460,Frontlines: Fuel of War,Frontlines(tm): Fuel of War(tm),Feb 29 2008,73,438,24,219165,0,19.99
+9480,9480,Saints Row 2,Saints Row 2,Jan 7 2009,72,6867,8,2305360,0,9.99
+9500,9500,Gish,Gish,Jul 20 2007,80,219,13,307943,11,9.99
+9800,9800,Death to Spies,Death to Spies,Mar 12 2008,69,450,19,81066,0,4.99
+9870,9870,Ghostbusters: The Video Game,Ghostbusters: The Videogame,Jun 16 2009,74,1518,8,229747,0,9.99
+4550,4550,Titan Quest: Immortal Throne,Titan Quest - Immortal Throne,Mar 5 2007,80,2216,9,1047402,0,0
+6370,6370,Bloodline Champions,Bloodline Champions,Oct 28 2011,79,1381,13,682066,0,0
+9930,9930,Test Drive Unlimited 2,Test Drive Unlimited 2,11-Feb,72,5972,11,419499,57,19.99
+9940,9940,Blade Kitten,Blade Kitten,May 22 2014,52,670,14,64387,20,2.99
+9990,9990,Ghostbusters: Sanctum of Slime,Ghostbusters: Sanctum of Slime,Mar 23 2011,43,105,6,20805,12,9.99
+10090,10090,Call of Duty: World at War,Call of Duty: World at War,Nov 18 2008,83,13072,19,1526265,0,19.99
+10130,10130,TimeShift,TimeShift(tm),Jul 23 2009,71,571,18,113349,0,19.99
+10150,10150,Prototype,Prototype(tm),Jun 10 2009,79,2122,10,482271,0,19.99
+10180,10180,Call of Duty: Modern Warfare 2,Call of Duty(r): Modern Warfare(r) 2,Nov 11 2009,86,22223,15,5137828,50,19.99
+10220,10220,Postal 3,Postal III,Feb 17 2012,24,1045,5,74251,38,14.99
+10500,10500,Empire: Total War,Empire: Total War(tm),Mar 3 2009,90,11234,14,3604030,30,19.99
+10680,10680,Aliens vs. Predator,Aliens vs. Predator(tm),Feb 16 2010,68,7194,8,1099413,50,14.99
+11050,11050,Dracula: Origin,Dracula Origin,Aug 7 2008,70,109,14,46810,0,9.99
+9880,9880,Champions Online,Champions Online,Jun 14 2011,72,2160,18,777480,713,0
+11140,11140,Sherlock Holmes: The Awakened - Remastered,Sherlock Holmes: The Awakened - Remastered Edition,Aug 6 2009,72,131,13,96669,0,9.99
+11190,11190,Sherlock Holmes versus Jack the Ripper,Sherlock Holmes versus Jack the Ripper,Dec 23 2009,73,257,11,99898,0,9.99
+11200,11200,Shadowgrounds: Survivor,Shadowgrounds Survivor,Nov 14 2007,79,465,6,501103,0,9.99
+11340,11340,Larva Mortus,Larva Mortus,Mar 19 2009,64,619,15,143300,25,4.99
+11370,11370,Nikopol: Secrets of the Immortals,Nikopol: Secrets of the Immortals,Jul 30 2009,68,236,14,159621,0,4.99
+11450,11450,Overlord,Overlord(tm),Nov 12 2009,81,2050,14,1184604,0,4.99
+11480,11480,Soldiers: Heroes of World War II,Soldiers: Heroes of World War II,Jul 3 2014,77,166,9,65283,0,4.99
+11590,11590,Hospital Tycoon,Hospital Tycoon,Feb 13 2009,51,349,14,208046,0,4.99
+12100,12100,Grand Theft Auto III,Grand Theft Auto III,Jan 6 2011,93,2768,12,1579711,0,9.99
+12110,12110,Grand Theft Auto: Vice City,Grand Theft Auto: Vice City,Jan 10 2011,94,4866,12,1830263,0,9.99
+12120,12120,Grand Theft Auto: San Andreas,Grand Theft Auto: San Andreas,Jan 6 2011,93,14209,10,2796598,0,14.99
+12130,12130,Manhunt,Manhunt,Jan 4 2008,75,555,5,114784,0,9.99
+12140,12140,Max Payne,Max Payne,Jan 4 2008,89,2214,15,549527,0,9.99
+12150,12150,Max Payne 2: The Fall of Max Payne,Max Payne 2: The Fall of Max Payne,Jan 4 2008,86,1404,4,565848,0,9.99
+12160,12160,Midnight Club II,Midnight Club 2,Jan 4 2008,81,384,16,212888,0,9.99
+12200,12200,Bully: Scholarship Edition,Bully: Scholarship Edition,Oct 21 2008,72,5797,15,838101,0,14.99
+12210,12210,Grand Theft Auto IV,Grand Theft Auto IV,Dec 2 2008,90,36012,14,4174362,0,19.99
+12320,12320,Sacred Gold,Sacred Gold,Jul 9 2008,74,951,8,193339,0,9.99
+12330,12330,DarkStar One,Darkstar One,Feb 13 2008,71,219,13,92365,0,7.99
+12360,12360,FlatOut: Ultimate Carnage,FlatOut: Ultimate Carnage,Aug 26 2008,79,1450,14,329106,0,19.99
+12470,12470,Port Royale 2,Port Royale 2,Jun 16 2009,75,179,8,69050,0,4.99
+12500,12500,Puzzle Quest,PuzzleQuest: Challenge of the Warlords,Jan 29 2008,84,437,7,111017,0,9.99
+12640,12640,Drakensang,Drakensang,Mar 9 2009,75,148,18,78376,0,9.99
+12750,12750,GRID,GRID(tm),Jun 4 2008,87,2893,11,734257,0,14.99
+12770,12770,Rise of the Argonauts,Rise of the Argonauts,Jan 7 2009,59,375,37,371433,0,9.99
+12790,12790,Damnation,Damnation,May 22 2009,41,239,6,69229,0,9.99
+12810,12810,Overlord II,Overlord II,Jun 24 2009,79,1349,13,1033592,0,9.99
+12830,12830,Operation Flashpoint: Dragon Rising,Operation Flashpoint: Dragon Rising,Oct 6 2009,76,1084,8,706637,0,9.99
+12900,12900,Audiosurf,AudioSurf,Feb 15 2008,85,8181,20,1412737,19,9.99
+9900,9900,Star Trek Online,Star Trek Online,Jan 31 2012,76,7304,35,1604461,0,0
+13200,13200,Unreal II: The Awakening,Unreal 2: The Awakening,Mar 17 2008,75,188,10,274943,0,14.99
+13210,13210,Unreal Tournament 3: Black Edition,Unreal Tournament 3 Black,Mar 5 2009,83,1888,24,662159,57,19.99
+13230,13230,Unreal Tournament 2004,Unreal Tournament 2004: Editors Choice Edition,Mar 17 2004,93,1318,10,386140,0,14.99
+13240,13240,Unreal Tournament: Game of the Year Edition,Unreal Tournament: Game of the Year Edition,Mar 17 2008,92,1140,10,352960,0,9.99
+13500,13500,Prince of Persia: Warrior Within,Prince of Persia: Warrior Within(tm),Nov 21 2008,83,396,16,214861,0,9.99
+13520,13520,Far Cry,Far Cry(r),Apr 1 2008,89,2318,5,860878,0,9.99
+13530,13530,Prince of Persia: The Two Thrones,Prince of Persia: The Two Thrones(tm),Nov 21 2008,85,237,5,206073,0,9.99
+13540,13540,Tom Clancy's Rainbow Six: Vegas,Tom Clancys Rainbow Six(r) Vegas,Apr 9 2008,85,260,6,267410,0,9.99
+13560,13560,Tom Clancy's Splinter Cell,Tom Clancys Splinter Cell(r),Apr 1 2008,91,586,5,251627,0,9.99
+13570,13570,Tom Clancy's Splinter Cell: Chaos Theory,Tom Clancys Splinter Cell Chaos Theory(r),Aug 27 2009,92,1230,5,344889,0,9.99
+13580,13580,Tom Clancy's Splinter Cell: Double Agent,Tom Clancys Splinter Cell Double Agent(r),Feb 13 2009,80,492,7,247861,0,9.99
+13600,13600,Prince of Persia: The Sands of Time,Prince of Persia(r): The Sands of Time,Nov 21 2008,89,558,8,239432,0,9.99
+15000,15000,Tom Clancy's Rainbow Six: Lockdown,Tom Clancys Rainbow Six Lockdown(tm),May 13 2008,59,110,6,74968,0,9.99
+15080,15080,Rayman: Raving Rabbids,Rayman Raving Rabbids(tm),Jun 13 2008,58,133,6,14886,0,9.99
+15100,15100,Assassin's Creed,Assassins Creed(tm): Directors Cut Edition,Apr 9 2008,79,4031,11,812095,0,19.99
+15120,15120,Tom Clancy's Rainbow Six: Vegas 2,Tom Clancys Rainbow Six(r) Vegas 2,Apr 16 2008,78,2133,26,507021,0,9.99
+15170,15170,Heroes of Might & Magic V,Heroes of Might & Magic V,May 13 2008,77,772,6,354933,0,9.99
+15190,15190,Brothers in Arms: Road to Hill 30,Brothers in Arms: Road to Hill 30(tm),May 13 2008,87,349,12,98822,0,9.99
+15200,15200,Silent Hunter: Wolves of the Pacific,Silent Hunter(r): Wolves of the Pacific,Jun 13 2008,79,199,16,77479,0,9.99
+15210,15210,Silent Hunter III,Silent Hunter(r) III,Jun 13 2008,90,382,6,116219,0,9.99
+15270,15270,Cold Fear,Cold Fear(tm),May 13 2008,66,150,9,15424,0,9.99
+15320,15320,IL-2 Sturmovik: 1946,IL-2 Sturmovik: 1946,Jun 13 2008,86,878,15,233693,0,9.99
+15300,15300,Tom Clancy's Ghost Recon,Tom Clancys Ghost Recon(r),Jul 15 2008,80,327,6,124110,0,9.99
+15370,15370,Heroes of Might & Magic V: Tribes of the East,Heroes of Might & Magic V: Tribes of the East,Oct 10 2008,70,404,4,275481,0,9.99
+15390,15390,Brothers in Arms: Hell's Highway,Brothers in Arms: Hells Highway(tm),Oct 8 2008,79,485,11,112093,0,9.99
+15520,15520,AaAaAA!!! - A Reckless Disregard for Gravity,AaAaAA!!! - A Reckless Disregard for Gravity,Sep 3 2009,81,579,15,173969,7,9.99
+15620,15620,"Warhammer® 40,000™: Dawn of War® II",Warhammer(r) 40000(tm): Dawn of War(r) II,Feb 18 2009,85,4541,9,2683249,73,19.99
+16450,16450,F.E.A.R. 2: Project Origin,F.E.A.R. 2: Project Origin,Feb 12 2009,79,2524,16,1910790,0,14.99
+16710,16710,Insecticide Part 1,Insecticide Part 1,Jul 1 2008,65,376,11,118191,0,1.99
+16720,16720,Velvet Assassin,Velvet Assassin,May 1 2009,61,1710,23,289291,0,4.99
+16730,16730,Legendary,Legendary,Dec 1 2008,50,1794,21,288035,0,2.99
+16810,16810,Sid Meier's Civilization IV: Colonization,Sid Meiers Civilization IV: Colonization,Sep 23 2008,83,255,13,1180838,0,19.99
+11130,11130,Sherlock Holmes: The Mystery of The Mummy,Sherlock Holmes: The Mystery of the Mummy,Aug 6 2009,61,125,8,122854,0,0
+17100,17100,Children of the Nile,Children of the Nile: Enhanced Edition,Jul 8 2008,75,129,12,51832,16,7.99
+17140,17140,Hinterland,Hinterland,Sep 30 2008,65,115,17,34256,9,9.99
+17300,17300,Crysis,Crysis,Sep 17 2008,91,3881,5,1001129,0,19.99
+17330,17330,Crysis Warhead,Crysis Warhead(r),Sep 17 2008,84,1131,21,847606,0,19.99
+17390,17390,Spore,SPORE(tm),Dec 19 2008,84,8853,11,1512993,0,19.99
+17410,17410,Mirror's Edge,Mirrors Edge(tm),Jan 14 2009,81,14960,13,2800364,0,19.99
+17430,17430,Need for Speed: Undercover,Need for Speed Undercover,Dec 19 2008,65,1726,20,301666,0,9.99
+17450,17450,Dragon Age: Origins,Dragon Age: Origins,Nov 5 2009,91,4146,8,842943,0,19.99
+17460,17460,Mass Effect,Mass Effect,Dec 19 2008,89,6793,12,1551374,0,19.99
+17470,17470,Dead Space,Dead Space,Jan 9 2009,86,5984,20,2261060,0,19.99
+17480,17480,Command and Conquer: Red Alert 3,Command & Conquer: Red Alert 3,Jan 8 2009,82,2511,14,693007,0,19.99
+17710,17710,Nuclear Dawn,Nuclear Dawn,Sep 26 2011,71,1706,33,417167,58,9.99
+18040,18040,DeathSpank,DeathSpank,Oct 25 2010,77,419,10,127876,12,14.99
+18050,18050,DeathSpank: Thongs Of Virtue,DeathSpank: Thongs of Virtue,Nov 30 2010,78,115,10,93082,13,14.99
+18070,18070,The Baconing,The Baconing,Aug 31 2011,63,154,22,125365,12,14.99
+18120,18120,Unstoppable Gorg,Unstoppable Gorg,Jan 19 2012,73,187,13,68512,30,9.99
+18400,18400,Crazy Machines 2,Crazy Machines 2,Jun 20 2008,72,168,10,142224,0,24.99
+18500,18500,Defense Grid: The Awakening,Defense Grid: The Awakening,Dec 8 2008,81,2729,25,582707,87,9.99
+18700,18700,And Yet It Moves,And Yet It Moves,Apr 2 2009,75,938,10,549886,30,9.99
+19000,19000,Silent Hill: Homecoming,Silent Hill Homecoming,Nov 6 2008,64,409,5,79273,0,39.99
+13140,13140,America's Army 3,Americas Army 3,Jun 17 2009,70,2053,10,915938,71,0
+19800,19800,Brothers in Arms: Earned in Blood,Brothers in Arms: Earned in Blood(tm),Oct 10 2008,84,154,7,92903,0,9.99
+19830,19830,Tom Clancy's Rainbow Six 3: Gold Edition,Tom Clancys Rainbow Six(r) 3 Gold,Sep 25 2008,85,556,9,139534,0,9.99
+19900,19900,Far Cry 2,Far Cry(r) 2: Fortunes Edition,Oct 22 2008,85,4267,13,1272844,0,9.99
+19930,19930,The Settlers: Rise of an Empire Gold Edition  ,The Settlers(r): Rise Of An Empire Gold Edition,Oct 10 2008,66,132,17,46452,0,19.99
+19980,19980,Prince of Persia,Prince of Persia(r),Dec 10 2008,82,783,7,264720,0,9.99
+20500,20500,Red Faction: Guerrilla Steam Edition,Red Faction Guerrilla Steam Edition,Sep 15 2009,82,5452,20,1034488,60,19.99
+20510,20510,S.T.A.L.K.E.R.: Clear Sky,S.T.A.L.K.E.R.: Clear Sky,Sep 15 2008,75,2701,25,657854,0,9.99
+20530,20530,Red Faction,Red Faction,Aug 5 2009,78,945,8,542532,0,9.99
+20540,20540,Company of Heroes: Tales of Valor,Company of Heroes: Tales of Valor,Apr 8 2009,70,1088,48,2162597,0,19.99
+20550,20550,Red Faction II,Red Faction II,Aug 6 2009,64,446,18,512222,0,9.99
+20570,20570,"Warhammer® 40,000™: Dawn of War® II - Chaos Rising™",Warhammer(r) 40000: Dawn of War(r) II Chaos Rising,Mar 10 2010,85,1333,7,1864877,73,19.99
+20820,20820,Shatter,Shatter,Mar 15 2010,84,904,11,410890,30,9.99
+20900,20900,The Witcher: Enhanced Edition,The Witcher: Enhanced Edition Directors Cut,Sep 19 2008,86,15728,18,3165161,0,9.99
+20920,20920,The Witcher 2: Assassins of Kings Enhanced Edition,The Witcher 2: Assassins of Kings Enhanced Edition,Apr 16 2012,88,25180,23,4424016,52,19.99
+21000,21000,LEGO Batman: The Videogame,LEGO Batman,Sep 29 2008,80,550,5,221317,0,19.99
+21010,21010,Watchmen: The End Is Nigh,Watchmen: The End is Nigh,Mar 4 2009,61,294,9,40533,0,4.99
+21030,21030,Watchmen: The End Is Nigh Part 2,Watchmen: The End is Nigh Part 2,Jul 29 2009,44,110,11,34076,0,4.99
+21090,21090,F.E.A.R.,F.E.A.R.,May 21 2010,88,3981,10,1230518,0,9.99
+21100,21100,F.E.A.R. 3,F.E.A.R. 3,Jun 21 2011,74,5010,16,1844431,50,19.99
+21130,21130,Lego Harry Potter,LEGO Harry Potter: Years 1-4,Jun 29 2010,79,970,10,298796,0,19.99
+21640,21640,FLOCK!,Flock!,Apr 7 2009,65,110,20,35691,13,4.99
+21660,21660,Street Fighter IV,Street Fighter(r) IV,Jul 7 2009,91,343,17,108865,0,19.99
+21670,21670,Bionic Commando,Bionic Commando,Jul 28 2009,69,589,6,162491,0,9.99
+21680,21680,Bionic Commando Rearmed,Bionic Commando: Rearmed,Jul 28 2009,86,570,10,437792,0,9.99
+21690,21690,Resident Evil 5 / Biohazard 5,Resident Evil(tm) 5/ Biohazard 5(r),Sep 15 2009,86,5145,60,839535,70,19.99
+21780,21780,Driver: Parallel Lines,Driver(r) Parallel Lines,Feb 13 2009,61,197,5,23136,0,9.99
+21800,21800,Tom Clancy's EndWar,Tom Clancys EndWar(tm),Feb 25 2009,68,243,6,87164,0,9.99
+21980,21980,Call of Juarez: Bound in Blood,Call of Juarez(r): Bound in Blood,Jul 2 2009,78,828,8,211453,0,9.99
+22000,22000,World of Goo,World of Goo,Oct 13 2008,90,2685,11,1035206,8,9.99
+22100,22100,Mount & Blade,Mount & Blade,Nov 3 2008,72,2086,11,1003999,0,9.99
+22120,22120,Penumbra: Black Plague,Penumbra: Black Plague Gold Edition,Jan 23 2009,78,930,7,357085,0,9.99
+22130,22130,Hearts of Iron II: Complete,Hearts of Iron 2 Complete,Jan 23 2009,83,149,6,83039,0,14.99
+17080,17080,Tribes: Ascend,Tribes: Ascend,Jun 27 2012,86,7269,14,1883350,0,0
+22180,22180,Penumbra: Overture,Penumbra Overture,Mar 6 2009,73,1096,17,477429,0,9.99
+22200,22200,Zeno Clash,Zeno Clash,Apr 21 2009,77,1800,21,485320,22,9.99
+22230,22230,Rock of Ages,Rock of Ages,Sep 7 2011,74,2278,13,464515,19,9.99
+22300,22300,Fallout 3,Fallout 3,Oct 28 2008,91,8031,19,752730,0,9.99
+22310,22310,Rogue Warrior,Rogue Warrior,Dec 1 2009,29,364,5,87523,45,4.99
+22320,22320,The Elder Scrolls III: Morrowind,The Elder Scrolls III: Morrowind(r) Game of the Year Edition,Jun 16 2009,89,5428,11,1105690,0,14.99
+22330,22330,The Elder Scrolls IV: Oblivion ,The Elder Scrolls IV: Oblivion(r) Game of the Year Edition,Jun 16 2009,94,7792,29,1728033,0,14.99
+22340,22340,Call of Cthulhu: Dark Corners of the Earth,Call of Cthulhu(r): Dark Corners of the Earth,Jun 16 2009,76,970,6,199078,0,4.99
+22350,22350,BRINK,BRINK,May 9 2011,70,2880,20,656778,43,7.99
+22370,22370,Fallout 3 - Game of the Year Edition,Fallout 3: Game of the Year Edition,Dec 17 2009,91,15420,22,2300338,0,19.99
+22380,22380,Fallout: New Vegas,Fallout: New Vegas,Oct 19 2010,84,41001,12,4637980,75,9.99
+22450,22450,Hunted: The Demon's Forge,Hunted: The Demons Forge(tm),May 30 2011,61,342,14,119806,0,4.99
+22600,22600,Worms Reloaded,Worms Reloaded,Aug 26 2010,79,2172,14,898362,61,19.99
+22610,22610,Alien Breed: Impact,Alien Breed: Impact,Jun 3 2010,64,722,10,408917,13,9.99
+22650,22650,Alien Breed 2: Assault,Alien Breed 2: Assault,Sep 22 2010,63,536,10,480657,13,9.99
+22670,22670,Alien Breed 3: Descent,Alien Breed 3: Descent,Nov 17 2010,64,213,10,297362,13,9.99
+23310,23310,The Last Remnant,The Last Remnant(tm),Apr 9 2009,66,2466,14,884911,0,9.99
+23380,23380,Gyromancer,Gyromancer,Nov 18 2009,71,171,9,191904,0,5.99
+23400,23400,Imperium Romanum: Gold Edition,Imperium Romanum Gold Edition,Nov 25 2008,63,162,38,140969,0,9.99
+23450,23450,Grand Ages: Rome,Grand Ages: Rome,Mar 20 2009,72,339,18,207687,0,9.99
+23490,23490,Tropico 3 - Steam Special Edition,Tropico 3 - Steam Special Edition,Oct 20 2009,79,1266,6,1407356,0,9.99
+23500,23500,Puzzle Quest: Galactrix,Puzzle Quest: Galactrix,Feb 24 2009,72,234,9,41250,0,9.99
+23530,23530,Earth Defense Force: Insect Armageddon,Earth Defense Force: Insect Armageddon,Dec 14 2011,69,617,5,66359,50,9.99
+22140,22140,Penumbra: Requiem,Penumbra: Requiem, ,67,186,2,357085,0,0
+24240,24240,PAYDAY: The Heist,PAYDAY(tm) The Heist,Oct 20 2011,76,34196,15,4355863,56,14.99
+24420,24420,Aquaria,Aquaria,Dec 15 2008,82,808,14,348656,27,9.99
+24480,24480,King Arthur II - The Role-playing Wargame,King Arthur II: The Role-Playing Wargame,Jan 27 2012,66,271,10,162491,23,9.99
+24720,24720,Spore: Galactic Adventures,SPORE(tm) Galactic Adventures,Jun 23 2009,70,1363,10,718474,0,19.99
+24740,24740,Burnout Paradise: The Ultimate Box,Burnout Paradise: The Ultimate Box,Mar 12 2009,87,7919,12,2048172,0,19.99
+24790,24790,Command and Conquer 3: Tiberium Wars,Command & Conquer 3: Tiberium Wars,Nov 13 2009,85,1378,6,432233,0,14.99
+24810,24810,Command and Conquer 3: Kane's Wrath,Command & Conquer 3: Kanes Wrath,Nov 13 2009,77,518,10,216116,0,19.99
+24840,24840,Medal of Honor: Airborne,Medal of Honor: Airborne,Oct 6 2009,78,1145,10,180964,0,9.99
+24870,24870,Need for Speed: SHIFT,Need for Speed: Shift,Oct 6 2009,83,749,10,200872,0,19.99
+24960,24960,Battlefield: Bad Company 2,Battlefield: Bad Company(tm) 2,Mar 2 2010,87,14553,8,1846583,0,19.99
+24980,24980,Mass Effect 2,Mass Effect 2,Jan 26 2010,94,7263,10,1718886,0,19.99
+25600,25600,Eschalon: Book 1,Eschalon: Book I,Feb 10 2009,75,106,10,40892,0,5.99
+25700,25700,Madballs in...Babo: Invasion,Madballs in Babo:Invasion,Sep 17 2009,79,203,15,101512,17,4.99
+25800,25800,Europa Universalis III,Europa Universalis III Complete,Feb 4 2009,83,1043,15,435819,0,14.99
+25830,25830,Knights of Honor,Knights of Honor,Feb 4 2009,77,537,12,91827,0,9.99
+42890,42890,Sword of the Stars Complete Collection,Sword of the Stars: Complete Collection,Jun 4 2010,75,293,17,127518,0,9.99
+25890,25890,Hearts of Iron III,Hearts of Iron III,Aug 7 2009,77,3002,5,509712,0,9.99
+25900,25900,King's Bounty: The Legend,Kings Bounty: The Legend,May 1 2009,79,781,10,402999,0,6.99
+25910,25910,Supreme Ruler 2020: Gold,Supreme Ruler 2020 Gold,Jul 9 2009,65,135,8,52729,0,9.99
+25980,25980,Majesty 2,Majesty 2,Sep 17 2009,72,309,5,106534,0,9.99
+26000,26000,The Maw,The Maw,Mar 9 2009,75,162,11,60261,15,9.99
+26500,26500,Cogs,Cogs,Apr 14 2009,73,614,5,635974,18,9.99
+26800,26800,Braid,Braid,Apr 10 2009,90,5069,18,1202539,12,14.99
+26900,26900,Crayon Physics Deluxe,Crayon Physics Deluxe,May 6 2009,79,623,10,620908,0,19.99
+27000,27000,The Path,The Path,Mar 18 2009,79,546,14,119447,0,9.99
+27330,27330,Blacklight: Tango Down,Blacklight: Tango Down,Jul 14 2010,65,314,5,61338,12,0.99
+27400,27400,Dangerous High School Girls in Trouble!,Dangerous High School Girls in Trouble!(tm),Feb 23 2009,81,121,9,40892,0,19.99
+28000,28000,Kane & Lynch 2: Dog Days,Kane & Lynch 2: Dog Days,Aug 17 2010,66,2723,28,764567,59,9.99
+29160,29160,Blueberry Garden,Blueberry Garden,9-Jun,68,104,9,47886,0,4.99
+29180,29180,Osmos,Osmos,Aug 18 2009,80,761,10,563516,11,9.99
+29900,29900,Dark Sector,Dark Sector,Mar 24 2009,66,288,13,73533,0,9.99
+31170,31170,Tales of Monkey Island: Chapter 1 - Launch of the Screaming Narwhal,Tales of Monkey Island Complete Pack,Jul 7 2009,79,310,8,216296,0,19.99
+31270,31270,Puzzle Agent,Puzzle Agent,10-Jul,70,1148,22,534462,0,4.99
+31280,31280,Poker Night at the Inventory,Poker Night at the Inventory,Nov 22 2010,71,5551,7,1037358,20,4.99
+31290,31290,Back to the Future: Ep 1 - It's About Time,Back to the Future: The Game,Dec 23 2010,74,1619,13,572305,0,19.99
+24200,24200,DC Universe Online,DC Universe(tm) Online,Nov 2 2011,72,9610,14,2414763,146,0
+32330,32330,LEGOⓇ Indiana Jones™: The Original Adventures,LEGO(r) Indiana Jones(tm): The Original Adventures,Jul 8 2009,78,132,10,47169,0,19.99
+32350,32350,STAR WARS™ Starfighter™,STAR WARS(tm) Starfighter(tm),Jul 8 2009,71,320,16,738920,0,5.99
+32360,32360,The Secret of Monkey Island: Special Edition,The Secret of Monkey Island: Special Edition,Jul 15 2009,86,1201,18,534641,0,9.99
+32380,32380,STAR WARS™ Jedi Knight: Dark Forces II,STAR WARS(tm) Jedi Knight: Dark Forces II,Sep 16 2009,91,735,5,1095467,0,5.99
+32420,32420,STAR WARS™: The Clone Wars - Republic Heroes™,STAR WARS(tm) The Clone Wars(tm) - Republic Heroes(tm),Oct 6 2009,46,280,7,473124,0,19.99
+32430,32430,STAR WARS™: The Force Unleashed™ Ultimate Sith Edition,STAR WARS(tm) - The Force Unleashed(tm) Ultimate Sith Edition,Dec 15 2009,65,2351,8,1137794,0,19.99
+32440,32440,LEGO® Star Wars™: The Complete Saga,LEGO(r) Star Wars(tm) - The Complete Saga,Nov 12 2009,77,1426,8,432950,0,19.99
+32460,32460,Monkey Island 2: Special Edition,Monkey Island(tm) 2 Special Edition: LeChucks Revenge(tm),Jul 7 2010,87,695,12,421292,12,9.99
+32500,32500,STAR WARS™: The Force Unleashed™ II,STAR WARS(tm): The Force Unleashed(tm) II,Oct 26 2010,59,2061,11,1044353,0,19.99
+32510,32510,LEGO® Star Wars™ III: The Clone Wars™,LEGO(r) Star Wars(tm) III - The Clone Wars(tm),Mar 22 2011,76,459,9,125724,0,19.99
+32800,32800,The Lord of the Rings: War in the North,Lord of the Rings: War in the North,Nov 1 2011,66,5499,13,1562135,46,19.99
+32900,32900,Restaurant Empire II,Restaurant Empire II,May 27 2009,64,120,15,57213,0,19.99
+33210,33210,Dawn of Discovery,Dawn of Discovery(tm),Jun 23 2009,82,142,14,93082,0,9.99
+33220,33220,Tom Clancy's Splinter Cell: Conviction,Tom Clancys Splinter Cell Conviction(tm) Deluxe Edition,Apr 29 2010,83,1329,27,583604,0,19.99
+33230,33230,Assassin's Creed II,Assassins Creed 2 Deluxe Edition,Mar 9 2010,86,8656,8,1222267,0,19.99
+33320,33320,Prince of Persia: The Forgotten Sands,Prince of Persia: The Forgotten Sands(tm),Jun 8 2010,75,540,7,224187,0,9.99
+33420,33420,Call of Juarez: The Cartel,Call of Juarez(r): The Cartel,Sep 13 2011,51,742,5,187600,50,9.99
+33440,33440,Driver San Francisco,Driver San Francisco,Sep 27 2011,80,2186,14,221676,0,19.99
+33460,33460,From Dust,From Dust,Aug 17 2011,76,1667,7,454472,0,14.99
+33570,33570,Patrician III,Patrician III,Nov 18 2010,75,230,7,135588,0,4.99
+33610,33610,Broken Sword 3 - the Sleeping Dragon,Broken Sword 3 - the Sleeping Dragon,Dec 2 2009,82,207,6,148322,0,5.99
+33670,33670,Disciples III: Renaissance,Disciples III - Renaissance Steam Special Edition,Jul 16 2010,56,225,12,166436,57,14.99
+33900,33900,Arma 2,Arma 2,Jun 29 2009,77,1928,20,1165234,0,12.99
+33930,33930,Arma 2: Operation Arrowhead,Arma 2: Operation Arrowhead,Jun 29 2010,73,15312,46,4131318,0,19.99
+33990,33990,AlternativA,Alternativa,Nov 5 2010,63,141,8,20805,0,12.99
+34010,34010,Alpha Protocol,Alpha Protocol(tm),Jun 1 2010,72,2593,10,481195,0,14.99
+34030,34030,Napoleon: Total War,Napoleon: Total War(tm),Feb 23 2010,81,5919,11,2265365,71,19.99
+34190,34190,Sonic and SEGA All Stars Racing,Sonic & SEGA All-Stars Racing,Mar 3 2010,65,451,5,223828,0,9.99
+34410,34410,Death to Spies: Moment of Truth,Death to Spies: Moment of Truth,Aug 7 2009,73,233,12,85012,0,9.99
+34600,34600,Order of War,Order of War(tm),Sep 17 2009,69,225,10,182578,0,7.99
+34830,34830,Sniper: Ghost Warrior,Sniper: Ghost Warrior,Jun 24 2010,55,2105,42,984988,24,7.99
+34870,34870,Sniper Ghost Warrior 2,Sniper: Ghost Warrior 2,Mar 11 2013,52,3682,15,843302,38,19.99
+34920,34920,Razor2: Hidden Skies,Razor2: Hidden Skies,Jul 19 2010,61,195,22,67256,10,9.99
+35000,35000,Mini Ninjas,Mini Ninjas,Sep 8 2009,74,711,10,363721,0,9.99
+35140,35140,Batman: Arkham Asylum GOTY Edition,Batman: Arkham Asylum Game of the Year Edition,Mar 26 2010,91,13356,8,2817761,47,19.99
+35130,35130,Lara Croft and the Guardian of Light,Lara Croft and the Guardian of Light,Sep 28 2010,82,1991,18,976738,12,9.99
+35310,35310,Clutch,Clutch,Jul 20 2009,51,102,17,23853,0,9.99
+35450,35450,Rising Storm/Red Orchestra 2 Multiplayer,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,Sep 13 2011,76,20235,72,2752478,140,19.99
+35460,35460,The Ball,The Ball,Oct 26 2010,68,674,11,297362,17,9.99
+35700,35700,Trine,Trine Enchanted Edition,Jul 2 2009,80,6891,8,1533260,33,14.99
+35720,35720,Trine 2,Trine 2: Complete Story,Jun 6 2013,84,12617,12,2645586,97,19.99
+31700,31700,Iron Grip: Warlord,Iron Grip: Warlord,Dec 5 2008,59,305,20,157648,18,0
+37010,37010,Ninja Blade,Ninja Blade,Nov 19 2009,61,114,16,15783,0,9.99
+37030,37030,UFO: Extraterrestrials Gold,UFO: Extraterrestrials Gold,Feb 17 2010,68,124,17,96490,0,9.99
+37400,37400,"Time Gentlemen, Please!",Time Gentlemen Please! and Ben There Dan That! Special Edition  Double Pack,Aug 25 2009,84,527,14,449450,0,4.99
+37700,37700,Darkest of Days,Darkest of Days,9-Sep,51,149,29,15245,0,19.99
+38210,38210,Roogoo,Roogoo,Dec 17 2009,72,330,6,75686,0,1.99
+100,80,Counter-Strike: Condition Zero Deleted Scenes,Counter-Strike: Condition Zero,Mar 1 2004,65,7073,8,10489261,0,9.99
+1309,1300,SiN Multiplayer,SiN Episodes: Emergence,May 10 2006,75,386,5,219883,0,9.99
+1313,1300,SiN,SiN Episodes: Emergence,May 10 2006,75,386,5,219883,0,9.99
+2130,2100,Dark Messiah of Might & Magic Multi-Player,Dark Messiah of Might & Magic,Oct 25 2006,72,2777,6,966336,0,9.99
+10190,10180,Call of Duty: Modern Warfare 2 - Multiplayer,Call of Duty(r): Modern Warfare(r) 2,Nov 11 2009,86,22245,15,5137828,50,19.99
+15280,15320,Pacific Fighters,IL-2 Sturmovik: 1946,Jun 13 2008,86,879,15,2870,0,9.99
+17340,17330,Crysis Wars,Crysis Warhead(r),Sep 17 2008,84,1131,21,847606,0,19.99
+21110,21090,F.E.A.R.: Extraction Point,F.E.A.R.,May 21 2010,88,3985,10,1230338,0,9.99
+21120,21090,F.E.A.R.: Perseus Mandate,F.E.A.R.,May 21 2010,88,3985,10,1230338,0,9.99
+25860,42890,Sword of the Stars,Sword of the Stars: Complete Collection,Jun 4 2010,75,294,17,16680,0,9.99
+35010,35140,Batman: Arkham Asylum,Batman: Arkham Asylum Game of the Year Edition,Mar 26 2010,91,13358,8,93620,47,19.99
+37420,37400,"Ben There, Dan That!",Time Gentlemen Please! and Ben There Dan That! Special Edition  Double Pack,Aug 25 2009,84,529,14,449450,0,4.99
+38400,38400,Fallout,Fallout: A Post Nuclear Role Playing Game,Aug 19 2009,89,2648,5,837921,0,9.99
+38410,38410,Fallout 2,Fallout 2: A Post Nuclear Role Playing Game,Aug 19 2009,86,2294,6,861057,0,9.99
+38420,38420,Fallout Tactics,Fallout Tactics: Brotherhood of Steel,Aug 19 2009,82,596,5,739279,0,9.99
+38440,38440,Sacrifice,Sacrifice,Aug 19 2009,89,234,15,54702,0,9.99
+38700,38700,Toki Tori,Toki Tori,Jan 28 2010,80,1606,16,490162,38,4.99
+38720,38720,RUSH,RUSH,Dec 3 2010,73,1081,11,403178,25,4.99
+38740,38740,EDGE,EDGE,Aug 11 2011,74,1555,10,426493,47,7.99
+36620,36620,Forsaken World ,Forsaken World,Jun 14 2011,69,821,16,425238,0,0
+38830,38830,CrimeCraft GangWars,CrimeCraft: GangWars,Aug 22 2011,68,1844,10,835052,46,0
+39160,39160,Dungeon Siege III,Dungeon Siege III,Jun 20 2011,72,1262,26,730312,54,14.99
+39190,39190,Dungeon Siege,Dungeon Siege,Apr 5 2011,86,796,5,390085,0,6.99
+39200,39200,Dungeon Siege 2,Dungeon Siege II,Aug 16 2005,80,536,3,410352,0,6.99
+39210,39210,FINAL FANTASY XIV: A Realm Reborn,FINAL FANTASY(r) XIV: A Realm Reborn(tm),Feb 18 2014,83,5022,10,499309,0,19.99
+39500,39500,Gothic 3,Gothic(r) 3,Dec 2 2009,63,1707,15,428287,0,9.99
+39510,39510,Gothic II: Gold Edition,Gothic II: Gold Edition, ,79,1541,10,376813,0,9.99
+39520,39520,The Guild Gold Edition,The Guild Gold Edition,Sep 9 2014,82,105,16,115501,0,9.99
+39540,39540,SpellForce: Platinum Edition,SpellForce - Platinum Edition,Nov 3 2009,74,405,14,165719,0,9.99
+39550,39550,SpellForce 2: Gold Edition,SpellForce 2: Gold Edition,Oct 29 2009,80,247,24,177915,0,14.99
+39560,39560,Painkiller: Resurrection,Painkiller: Resurrection,Oct 27 2009,38,169,11,181502,0,9.99
+39630,39630,AquaNox,AquaNox,Apr 20 2010,67,156,6,132539,0,4.99
+39650,39650,The Guild II,The Guild II,Jun 24 2010,61,403,6,476532,0,9.99
+39670,39670,Chaser,Chaser,Jul 16 2010,66,590,10,81963,0,4.99
+39680,39680,The Guild II: Renaissance,The Guild II Renaissance,Jul 28 2010,56,1188,5,350270,0,9.99
+39690,39690,ArcaniA,ArcaniA,Oct 15 2010,63,958,23,382732,0,19.99
+40100,40100,Supreme Commander 2,Supreme Commander 2,Mar 1 2010,77,4468,10,1190702,47,12.99
+40300,40300,Risen,Risen,Oct 2 2009,77,2622,21,872536,0,9.99
+40350,40350,Lost Horizon,Lost Horizon,Sep 24 2010,77,145,13,34794,0,9.99
+40380,40380,Nail'd,naild,Nov 30 2010,69,852,10,88778,0,4.99
+40390,40390,Risen 2 - Dark Waters,Risen 2: Dark Waters,Apr 26 2012,69,2682,13,1229262,49,9.99
+40400,40400,AI War: Fleet Command,AI War: Fleet Command,Oct 21 2009,80,848,15,306508,322,9.99
+40420,40420,Tidalis,Tidalis,Jul 16 2010,75,164,10,158007,64,4.99
+40700,40700,Machinarium,Machinarium,Oct 16 2009,85,2748,8,725828,0,9.99
+40800,40800,Super Meat Boy,Super Meat Boy,Nov 30 2010,87,18033,13,2558063,48,14.99
+40930,40930,The Misadventures of P.B. Winterbottom,The Misadventures of P.B. Winterbottom,Apr 20 2010,79,315,10,169665,12,4.99
+40950,40950,Stronghold HD,Stronghold HD,Oct 21 2013,81,1702,12,954319,0,5.99
+40960,40950,Stronghold 2,Stronghold HD,Oct 21 2013,81,1702,12,339509,0,5.99
+40970,40970,Stronghold Crusader HD,Stronghold Crusader HD,Oct 21 2013,78,1732,12,773714,0,9.99
+40980,40950,Stronghold Legends,Stronghold HD,Oct 21 2013,81,1702,12,343813,0,5.99
+41000,41000,Serious Sam HD: The First Encounter,Serious Sam HD: The First Encounter,Nov 24 2009,68,2450,9,1110174,35,14.99
+41050,41050,Serious Sam Classic: The First Encounter,Serious Sam Classic: The First Encounter,Mar 22 2010,87,766,6,711480,0,99.99
+41060,41060,Serious Sam Classic: The Second Encounter,Serious Sam Classic: The Second Encounter,Sep 22 2010,85,445,5,711480,0,99.99
+41070,41070,Serious Sam 3: BFE,Serious Sam 3: BFE,Nov 22 2011,72,11601,14,1974460,62,39.99
+39120,39120,RIFT,RIFT,Mar 1 2011,84,8009,63,2640923,0,0
+41500,41500,Torchlight,Torchlight,Oct 27 2009,83,3175,12,1408253,66,14.99
+41700,41700,S.T.A.L.K.E.R.: Call of Pripyat,S.T.A.L.K.E.R.: Call of Pripyat,Feb 11 2010,80,4515,20,851731,0,19.99
+41800,41800,Gratuitous Space Battles,Gratuitous Space Battles,Nov 16 2009,72,574,12,561902,0,14.99
+41900,41900,The Bard's Tale,The Bards Tale,Dec 11 2009,70,467,16,354036,0,9.99
+42120,42120,Lead and Gold - Gangs of the Wild West,Lead and Gold: Gangs of the Wild West,Apr 8 2010,70,1216,22,378248,82,9.99
+42140,42140,Hamilton's Great Adventure,Hamiltons Great Adventure,May 31 2011,77,229,10,88419,26,9.99
+41300,41300,Altitude,Altitude,Dec 4 2009,79,1406,12,453754,52,0
+42170,42170,Krater,Krater,Jun 12 2012,52,656,16,211094,41,14.99
+42650,42650,Transformers: War for Cybertron,Transformers(tm): War for Cybertron(tm),Jun 22 2010,75,1266,14,216834,0,19.99
+42670,42670,Singularity,Singularity(tm),Jun 30 2010,76,1677,7,149040,0,29.99
+42700,42700,Call of Duty: Black Ops,Call of Duty(r): Black Ops,Nov 9 2010,81,11095,12,3628063,68,39.99
+42710,42700,Call of Duty: Black Ops - Multiplayer,Call of Duty(r): Black Ops,Nov 9 2010,81,11095,12,3628063,68,39.99
+42910,42910,Magicka,Magicka,Jan 25 2011,74,17631,15,3643666,88,9.99
+42960,42960,Victoria II,Victoria II,Aug 30 2010,75,2640,13,401743,0,19.99
+42990,42990,Sword of the Stars II: Enhanced Edition,Sword of the Stars II: Enhanced Edition,Nov 30 2012,65,643,17,161235,14,19.99
+43000,43000,Front Mission Evolved,Front Mission Evolved,Sep 28 2010,63,569,6,282117,27,9.99
+43110,43110,Metro 2033,Metro 2033,Mar 15 2010,81,15639,41,4710079,48,14.99
+43190,43190,The Haunted: Hells Reach,The Haunted: Hells Reach,Oct 24 2011,51,398,12,59903,28,8.99
+43500,43500,M.U.D. TV,M.U.D. TV,Apr 19 2010,53,131,14,45017,0,9.99
+44200,44200,Galcon Fusion,Galcon Fusion,Feb 11 2010,68,146,8,173431,136,9.99
+44310,44310,F1 2010™,F1 2010(tm),Sep 21 2010,84,250,6,86626,0,9.99
+44340,44340,Operation Flashpoint: Red River,Operation Flashpoint: Red River,Jun 6 2011,67,991,9,625392,0,9.99
+44350,44350,GRID 2,GRID 2,May 27 2013,80,9495,20,1053858,60,29.99
+44360,44360,F1 2011,F1 2011,Sep 19 2011,83,171,12,69588,0,14.99
+44690,44690,GT Legends,GT Legends,Nov 28 2012,84,171,6,128594,0,7.99
+45000,45000,Sol Survivor,Sol Survivor,Mar 15 2010,75,250,10,96849,26,9.99
+45300,45300,Wings of Prey,Wings of Prey,Jan 8 2010,78,338,10,156931,45,9.99
+45410,45410,Ignite,Ignite,Oct 28 2011,59,228,12,68332,28,9.99
+45450,45450,Fortix 2,Fortix 2,May 6 2011,74,442,10,90751,26,1.99
+45700,45700,Devil May Cry 4,Devil May Cry 4,Dec 22 2009,78,1545,10,300411,0,19.99
+45710,45710,Dark Void,Dark Void(tm),Jan 19 2010,57,352,11,44479,0,9.99
+45720,45720,Lost Planet: Extreme Condition - Colonies Edition,Lost Planet: Extreme Condition Colonies Edition,Feb 11 2010,70,147,10,49680,0,19.99
+45740,45740,Dead Rising 2,Dead Rising(r) 2,Sep 27 2010,78,2262,35,480836,50,19.99
+45750,45750,Lost Planet 2,Lost Planet(r) 2,Oct 15 2010,63,921,14,163387,0,19.99
+45770,45770,Dead Rising 2: Off the Record,Dead Rising 2: Off the Record,Oct 11 2011,66,901,27,249296,50,19.99
+46290,46290,Theatre of War,Theatre of War,Jul 9 2010,66,137,10,95773,0,3.99
+46370,46370,Rig 'n' Roll,Rig n Roll,Jul 9 2010,61,268,18,69408,0,9.99
+46410,46410,Avencast,Avencast: Rise of the Mage,Mar 17 2010,68,377,10,257008,0,9.99
+46450,46450,Grotesque Tactics: Evil Heroes,Grotesque Tactics: Evil Heroes,Oct 15 2010,65,275,16,136664,10,9.99
+46480,46480,Still Life,Still Life,Jun 1 2011,75,353,12,118191,0,7.99
+46490,46490,Still Life 2,Still Life 2,Jun 1 2011,67,176,8,102767,0,7.99
+46500,46500,Syberia,Syberia,May 19 2011,82,1302,10,342020,0,12.99
+46510,46510,Syberia 2,Syberia II,May 19 2011,80,515,9,317987,0,12.99
+46540,46540,Trapped Dead,Trapped Dead,Jul 15 2011,50,581,8,135230,0,4.99
+46550,46550,Post Mortem,Post Mortem,Aug 26 2011,71,132,11,121061,0,7.99
+46560,46560,Robin Hood,Robin Hood: The Legend of Sherwood,Aug 26 2011,80,443,10,108506,0,7.99
+46570,46570,Grotesque Tactics 2 - Dungeons and Donuts,Grotesque Tactics 2 - Dungeons and Donuts,Nov 21 2011,48,138,9,97387,13,9.99
+46750,46750,Dark Fall: Lost Souls,Dark Fall: Lost Souls,Apr 21 2010,75,142,15,43582,0,12.99
+46770,46770,Making History II: The War of the World,Making History II: The War of the World,Aug 27 2010,38,194,21,38740,1,14.99
+42160,42160,War of the Roses,War of the Roses,Feb 6 2013,73,4417,8,1264953,21,0
+47540,47540,Puzzle Quest 2,Puzzle Quest 2,Aug 12 2010,83,259,16,68870,53,9.99
+47700,47700,Command and Conquer 4: Tiberian Twilight,Command & Conquer 4: Tiberian Twilight,Mar 16 2010,64,1110,12,269383,0,19.99
+47780,47780,Dead Space 2,Dead Space(tm) 2,Jan 25 2011,87,5375,10,1329160,0,19.99
+47790,47790,Medal of Honor(TM) Single Player,Medal of Honor(tm),Oct 12 2010,72,3099,12,1623652,0,19.99
+47800,47800,RISK Factions,RISK(tm): Factions,Mar 8 2011,77,317,10,62952,12,9.99
+47810,47810,Dragon Age: Origins - Ultimate Edition,Dragon Age: Origins - Ultimate Edition,Oct 26 2010,91,6848,8,1137794,0,29.99
+47830,47790,Medal of Honor(TM) Multiplayer,Medal of Honor(tm),Oct 12 2010,72,3099,12,1623652,0,19.99
+47870,47870,Need for Speed: Hot Pursuit,Need For Speed: Hot Pursuit,Dec 14 2010,86,6554,10,838997,0,19.99
+47890,47890,The Sims(TM) 3,The Sims(tm) 3,Jan 27 2011,86,6191,13,1124701,0,19.99
+47920,47920,Shift 2 Unleashed,Shift 2 Unleashed,Mar 29 2011,84,1172,18,193339,0,19.99
+48000,48000,LIMBO,LIMBO,Aug 2 2011,88,17808,7,3967572,13,9.99
+48110,48110,Silent Hunter 5: Battle of the Atlantic,Silent Hunter 5(r): Battle of the Atlantic,10-Mar,62,686,14,81245,0,9.99
+48190,48190,Assassin's Creed Brotherhood,Assassins Creed(r) Brotherhood,Mar 22 2011,88,4337,13,872536,0,19.99
+48220,48220,Might & Magic: Heroes VI,Might & Magic: Heroes VI,Oct 13 2011,77,4277,26,631669,0,19.99
+48240,48240,Anno 2070,Anno 2070(tm),Nov 17 2011,83,7284,16,865541,0,19.99
+48700,48700,Mount & Blade: Warband,Mount & Blade: Warband,Mar 31 2010,78,43319,6,2434133,80,19.99
+48720,48720,Mount & Blade: With Fire and Sword,Mount & Blade: With Fire & Sword,May 3 2011,68,4221,9,1285398,21,9.99
+48800,48800,Ship Simulator Extremes,Ship Simulator Extremes,Aug 27 2010,49,1009,15,191187,0,19.99
+48950,48950,Greed Corp,Greed Corp,Dec 10 2010,76,401,9,270639,13,9.99
+49300,49300,Commander: Conquest of the Americas,Commander: Conquest of the Americas,Jul 30 2010,68,108,11,90751,51,9.99
+49330,49330,Pirates of Black Cove,Pirates of Black Cove,Aug 2 2011,56,104,22,69946,44,9.99
+49470,49470,Magic: The Gathering — Duels of the Planeswalkers 2012,Magic: The Gathering - Duels of the Planeswalkers 2012,Jun 15 2011,77,682,9,341482,26,19.99
+49520,49520,Borderlands 2,Borderlands 2,Sep 17 2012,89,86362,17,6969346,69,19.99
+49540,49540,Aliens: Colonial Marines,Aliens: Colonial Marines Collection, ,45,6035,10,434385,60,29.99
+49600,49600,Beat Hazard,Beat Hazard,Apr 15 2010,70,5250,16,573022,63,9.99
+49810,49810,CreaVures,CreaVures,Feb 23 2011,55,101,15,43761,21,4.99
+49900,49900,Plain Sight,Plain Sight,Apr 5 2010,76,227,9,180964,24,4.99
+50000,50000,Nimbus,Nimbus,Oct 25 2010,80,166,9,57930,18,9.99
+50130,50130,Mafia II,Mafia II,Mar 22 2011,77,19403,23,2541742,67,29.99
+50300,50300,Spec Ops: The Line,Spec Ops: The Line,Jun 25 2012,76,19624,11,1681044,50,29.99
+50510,50510,Burn Zombie Burn,Burn Zombie Burn!,Aug 12 2010,72,138,10,87523,15,9.99
+50620,50620,Darksiders,Darksiders(tm),Sep 22 2010,83,7445,10,2506769,43,19.99
+47410,47410,Stronghold Kingdoms,Stronghold Kingdoms,Feb 27 2012,75,6647,10,1426905,0,0
+55000,55000,Flotilla,Flotilla,10-Apr,72,158,9,102409,0,9.99
+55040,55040,Atom Zombie Smasher ,Atom Zombie Smasher,Mar 14 2011,75,1337,6,422368,41,9.99
+55100,55100,Homefront,Homefront,Mar 14 2011,70,2489,32,816041,47,19.99
+55110,55110,Red Faction: Armageddon,Red Faction(r): Armageddon(tm),Jun 6 2011,75,2775,11,1735028,58,19.99
+55150,55150,"Warhammer 40,000 Space Marine",Warhammer 40000: Space Marine,Sep 5 2011,74,6203,20,1137435,60,29.99
+55230,55230,Saints Row: The Third,Saints Row: The Third,Nov 14 2011,84,30053,14,3952506,83,14.99
+57200,57200,Puzzle Dimension,Puzzle Dimension,Jun 21 2010,79,393,19,109403,25,2.99
+57300,57300,Amnesia: The Dark Descent,Amnesia: The Dark Descent,Sep 8 2010,85,14322,6,3235825,0,19.99
+57620,57620,Patrician IV: Steam Special Edition,Patrician IV - Steam Special Edition,Sep 17 2010,66,191,13,178273,0,14.99
+57650,57650,DUNGEONS - Steam Special Edition,DUNGEONS - Steam Special Edition,Feb 10 2011,65,339,13,201768,0,9.99
+57680,57680,The First Templar,The First Templar - Steam Special Edition,May 12 2011,57,454,20,117833,50,9.99
+57690,57690,Tropico 4,Tropico 4: Steam Special Edition,Sep 1 2011,78,6855,16,2291908,70,14.99
+57700,57700,Who's That Flying?!,Whos That Flying?!,Jan 31 2011,76,132,10,32642,12,5.99
+57740,57740,Jagged Alliance - Back in Action,Jagged Alliance - Back in Action,Feb 8 2012,62,846,11,262747,60,19.99
+57800,57800,Doc Clock: The Toasted Sandwich of Time,Doc Clock: The Toasted Sandwich of Time,Oct 15 2010,62,152,10,114784,12,4.99
+57900,57900,Duke Nukem Forever,Duke Nukem Forever,Jun 13 2011,54,4451,11,1051347,62,19.99
+58200,58200,Jolly Rover,Jolly Rover,Jun 7 2010,71,241,14,108506,16,9.99
+58400,58400,Turba,Turba,10-Jul,76,107,9,52011,21,4.99
+58520,58520,Blood Bowl: Legendary Edition,Blood Bowl(r) Legendary Edition,Oct 28 2010,73,742,13,504331,0,19.99
+58560,58560,Runaway: A Twist of Fate,Runaway: A Twist of Fate,Apr 21 2011,79,137,9,115501,0,9.99
+58570,58570,The Next BIG Thing,The Next BIG Thing,Apr 21 2011,75,252,7,84115,0,9.99
+58610,58610,Wargame: European Escalation,Wargame: European Escalation,Feb 22 2012,81,1948,20,811557,29,9.99
+61220,61220,Battle: Los Angeles,Battle: Los Angeles,Mar 11 2011,38,105,9,9326,0,9.99
+61520,61520,Age of Wonders: Shadow Magic,Age of Wonders Shadow Magic,10-Oct,82,162,12,97387,0,9.99
+61700,61700,Might & Magic: Clash of Heroes,Might & Magic: Clash of Heroes,Sep 22 2011,76,979,18,255394,14,9.99
+63000,63000,HOARD,HOARD,Apr 4 2011,65,691,13,396004,129,9.99
+63110,63110,Alter Ego,Alter Ego,Aug 3 2010,59,106,10,27261,0,9.99
+63200,63200,Monday Night Combat,Monday Night Combat,Jan 24 2011,82,744,17,314220,51,4.99
+63380,63380,Sniper Elite V2,Sniper Elite V2,Apr 30 2012,66,20555,26,3607976,47,29.99
+63600,63600,realMyst,realMYST,Aug 4 2010,66,185,10,85191,0,5.99
+63610,63610,Riven,Riven: The Sequel to MYST,Aug 4 2010,83,222,8,96131,0,5.99
+63910,63910,King's Bounty: Crossworlds,Kings Bounty: Crossworlds,Sep 17 2010,78,273,11,311172,0,19.99
+63940,63940,Men of War: Vietnam,Men of War: Vietnam,Sep 8 2011,68,408,10,155855,22,7.99
+63950,63950,IL-2 Sturmovik: Cliffs of Dover,IL-2 Sturmovik: Cliffs of Dover,Jul 19 2011,60,555,4,209480,0,9.99
+64000,64000,Men of War: Assault Squad,Men of War: Assault Squad,Feb 24 2011,77,2473,12,503255,110,9.99
+65300,65300,Dustforce,Dustforce DX,Jan 17 2012,79,1535,13,522445,1,9.99
+65500,65500,Aura: Fate of the Ages,Aura: Fate of the Ages,Oct 4 2010,63,115,10,82680,0,4.99
+65530,65530,SpellForce 2 - Faith in Destiny,SpellForce 2: Faith in Destiny,Jun 19 2012,55,159,10,309916,0,14.99
+65540,65540,Gothic,Gothic 1,Mar 15 2001,81,1469,11,314220,0,19.99
+65560,65560,Painkiller: Redemption,Painkiller Redemption,Feb 25 2011,43,280,26,213785,0,4.99
+65730,65730,Take On Helicopters,Take On Helicopters,Oct 27 2011,70,511,44,321036,0,19.99
+65800,65800,Dungeon Defenders,Dungeon Defenders,Oct 18 2011,81,10059,11,1988987,106,14.99
+65930,65930,The Bureau: XCOM Declassified,The Bureau: XCOM Declassified,Aug 19 2013,66,5556,9,1099054,41,19.99
+65980,65980,Sid Meier's Civilization: Beyond Earth,Sid Meiers Civilization(r): Beyond Earth(tm),Oct 23 2014,81,15657,7,1458112,90,39.99
+67370,67370,The Darkness II,The Darkness II,Feb 6 2012,77,6337,10,1166310,50,29.99
+70000,70000,Dino D-Day,Dino D-Day,Apr 8 2011,53,12517,10,1525906,77,9.99
+70300,70300,VVVVVV,VVVVVV,Sep 7 2010,81,5603,5,958803,19,4.99
+70400,70400,Recettear: An Item Shop's Tale,Recettear: An Item Shops Tale,Sep 10 2010,82,3970,10,458418,0,19.99
+70420,70420,Chantelise,Chantelise - A Tale of Two Sisters,Jul 29 2011,62,470,11,174866,0,9.99
+70600,70600,Worms Ultimate Mayhem,Worms Ultimate Mayhem,Sep 28 2011,66,1401,12,629696,38,14.99
+70650,70650,Worms Blast,Worms Blast,Oct 19 2011,73,150,8,406944,0,7.99
+71000,71000,Evochron Mercenary,Evochron Mercenary,Jan 16 2012,70,372,24,95055,0,19.99
+71340,71340,Sonic Generations,Sonic Generations Collection,Nov 3 2011,77,4707,13,680632,49,19.99
+72000,72000,Closure,Closure,Sep 7 2012,78,659,12,405151,8,9.99
+72200,72200,Universe Sandbox,Universe Sandbox,Apr 29 2011,83,2648,11,766899,16,9.99
+72850,72850,The Elder Scrolls V: Skyrim,The Elder Scrolls V: Skyrim,Nov 10 2011,94,182587,14,11428873,75,19.99
+73010,73010,Cities in Motion,Cities in Motion,Feb 22 2011,70,601,12,258084,47,19.99
+73170,73170,Darkest Hour: A Hearts of Iron Game,Darkest Hour: A Hearts of Iron Game,Apr 8 2011,81,703,14,150474,0,9.99
+73210,73210,Sengoku,Sengoku,Sep 15 2011,70,232,7,109583,0,9.99
+73220,73220,Supreme Ruler Cold War,Supreme Ruler: Cold War,Jul 29 2011,63,151,14,37663,0,9.99
+78000,78000,Bejeweled 3,Bejeweled(r) 3,Dec 7 2010,82,1687,18,410711,65,4.99
+80000,80000,APOX,APOX,Jan 20 2011,48,136,11,47348,47,14.99
+80200,80200,Fate of the World,Fate of the World,Feb 28 2011,70,263,10,80528,32,9.99
+80310,80310,Gemini Rue,Gemini Rue,Oct 26 2011,82,1001,16,239790,15,9.99
+80330,80330,The Blackwell Legacy,The Blackwell Legacy,Jan 13 2012,80,669,5,143838,8,4.99
+80360,80360,Blackwell Deception,Blackwell Deception,Jan 13 2012,73,232,9,100077,18,9.99
+90500,90500,Guardians of Graxia,Guardians of Graxia,Nov 10 2010,55,135,10,66897,14,4.99
+91100,91100,SkyDrift,SkyDrift,Nov 21 2011,73,670,15,213067,12,9.99
+91200,91200,Anomaly Warzone Earth,Anomaly: Warzone Earth,Apr 8 2011,80,3434,7,917552,42,9.99
+91330,91330,Iron Front : Liberation 1944,Iron Front: Digital War Edition,May 25 2012,55,511,12,83218,0,14.99
+91600,91600,Sanctum,Sanctum,Apr 15 2011,70,2422,4,1207919,100,9.99
+91900,91900,Post Apocalyptic Mayhem,Post Apocalyptic Mayhem,Mar 17 2011,44,1401,10,237100,51,9.99
+92000,92000,Hydrophobia: Prophecy,Hydrophobia: Prophecy,May 9 2011,64,1872,8,330362,13,4.99
+92300,92300,A.R.E.S.,A.R.E.S.: Extinction Agenda,Jan 19 2011,68,725,13,120882,24,4.99
+92600,92600,Xotic,Xotic,Sep 16 2011,67,132,11,91468,46,9.99
+92800,92800,SpaceChem,SpaceChem,Mar 2 2011,84,3233,6,1028211,20,9.99
+93200,93200,Revenge of the Titans,Revenge of the Titans,Mar 16 2011,79,848,13,488010,77,9.99
+94200,94200,Jamestown,Jamestown,Jun 8 2011,81,1788,5,642251,42,9.99
+94300,94300,The Dream Machine,The Dream Machine: Chapter 1 & 2,May 11 2012,77,524,6,120882,0,3.99
+94400,94400,Nidhogg,Nidhogg,Jan 13 2014,81,5040,8,648169,12,14.99
+94590,94590,Puzzle Agent 2,Puzzle Agent 2,Jun 30 2011,63,422,9,428646,52,9.99
+94620,94620,Hector: Ep 3,Hector: Badge of Carnage - Full Series,Apr 27 2011,75,122,9,265079,0,19.99
+95000,95000,Super Splatters,Super Splatters,Jun 26 2013,73,134,8,134512,23,9.99
+95300,95300,Capsized,Capsized,Apr 29 2011,80,760,10,503972,18,9.99
+95400,95400,ibb & obb,ibb & obb,May 26 2014,83,1358,6,232258,10,11.99
+95900,95900,Air Conflicts - Secret Wars,Air Conflicts: Secret Wars,Sep 30 2011,65,201,12,78196,25,7.99
+96000,96000,The Tiny Bang Story,The Tiny Bang Story,Apr 22 2011,63,1816,8,168051,0,4.99
+96200,96200,Steel Storm: Burning Retribution,Steel Storm: Burning Retribution,May 11 2011,55,252,20,385064,0,14.99
+96800,96800,Nexuiz,Nexuiz,May 10 2012,54,204,5,300231,12,9.99
+97000,97000,Solar 2,Solar 2,Jun 17 2011,72,1492,9,444070,25,9.99
+97100,97100,Section 8: Prejudice,Section 8(r): Prejudice(tm),May 4 2011,77,764,12,215578,0,9.99
+97330,97330,Magic: The Gathering - Duels of the Planeswalkers 2013,Magic: The Gathering - Duels of the Planeswalkers 2013,Jun 20 2012,77,897,5,406227,25,9.99
+98100,98100,TRAUMA,Trauma,Aug 8 2011,62,529,6,250731,0,6.99
+98200,98200,Frozen Synapse,Frozen Synapse,May 26 2011,85,2192,7,707175,16,24.99
+98300,98300,Toy Soldiers,Toy Soldiers,Apr 27 2012,71,911,14,222573,17,9.99
+98400,98400,Hard Reset,Hard Reset Extended Edition,Jul 12 2012,73,2684,25,496619,115,14.99
+98500,98500,Naval Warfare,Naval Warfare,May 25 2011,57,217,10,120702,0,2.99
+98800,98800,Dungeons of Dredmor,Dungeons of Dredmor,Jul 13 2011,79,3386,9,567821,124,4.99
+51100,51100,Tactical Intervention,Tactical Intervention,Oct 8 2013,47,13219,9,2549634,112,0
+99300,99300,Renegade Ops,Renegade Ops,Oct 26 2011,76,1441,20,725648,16,15
+99400,99400,Garshasp: The Monster Slayer,Garshasp: The Monster Slayer,May 9 2011,49,267,10,68153,36,4.99
+99700,99700,NightSky,NightSky,Mar 1 2011,78,692,15,559212,22,9.99
+99810,99810,Bulletstorm,Bulletstorm(tm),Feb 21 2011,82,3545,5,367129,0,19.99
+99200,99200,YOU DON'T KNOW JACK,YOU DONT KNOW JACK(r),Feb 8 2011,71,107,10,16500,33,0
+102200,102200,Runespell: Overture,Runespell: Overture,Jul 20 2011,69,299,9,118012,35,9.99
+102500,102500,Kingdoms of Amalur: Reckoning™,Kingdoms of Amalur: Reckoning(tm),Feb 7 2012,81,6628,11,834334,61,19.99
+102600,102600,Orcs Must Die!,Orcs Must Die!,Oct 11 2011,83,4412,10,1478199,27,9.99
+102840,102840,Shank 2,Shank 2,Feb 7 2012,72,1277,7,606022,20,9.99
+99900,99900,Spiral Knights,Spiral Knights,Jun 14 2011,64,15519,23,2751402,54,0
+105000,105000,A New Beginning - Final Cut,A New Beginning - Final Cut,Dec 11 2012,72,961,13,266513,28,9.99
+105100,105100,Lume,Lume,May 9 2011,69,408,5,97925,0,5.99
+105300,105300,Critical Mass,Critical Mass,Jun 20 2011,81,354,5,116936,27,1.99
+105450,105450,Age of Empires® III: Complete Collection,Age of Empires(r) III: Complete Collection,Jan 5 2012,81,7658,16,1876355,0,39.99
+105600,105600,Terraria,Terraria,May 16 2011,83,139819,12,8165607,88,9.99
+105700,105700,Tobe's Vertical Adventure,Tobes Vertical Adventure,Jul 18 2011,75,115,10,81245,13,4.99
+105800,105800,PixelJunk Eden,PixelJunk(tm) Eden,Feb 2 2012,81,625,15,306508,61,9.99
+107100,107100,Bastion,Bastion,Aug 16 2011,86,19633,13,2339436,24,14.99
+107200,107200,Space Pirates and Zombies,Space Pirates and Zombies,Aug 15 2011,74,2187,12,659648,48,9.99
+107310,107310,Cthulhu Saves the World ,Cthulhu Saves the World,Jul 13 2011,78,2731,15,631849,0,2.99
+107410,107410,Arma 3,Arma 3,Sep 12 2013,74,63534,15,2785120,74,39.99
+107600,107600,Waves,Waves,Nov 16 2011,82,924,12,101691,54,4.99
+107800,107800,Rochard,Rochard,Nov 15 2011,81,1198,10,459852,18,9.99
+108500,108500,Vessel,Vessel,Mar 1 2012,81,493,14,360672,20,19.99
+108710,108710,Alan Wake,Alan Wake,Feb 16 2012,83,14262,7,1723908,67,29.99
+104700,104700,Super Monday Night Combat,Super MNC,Apr 19 2012,76,4379,20,1382247,4,0
+110400,110400,inMomentum,inMomentum,Oct 31 2011,59,138,11,75686,37,9.99
+110800,110800,L.A. Noire,L.A. Noire,Nov 8 2011,83,10103,14,1510124,60,19.99
+111800,111800,Blocks That Matter,Blocks That Matter,Aug 19 2011,72,642,6,267769,32,4.99
+111900,111900,Guardians of Middle-earth,Guardians of Middle-earth,Aug 29 2013,56,1175,5,625392,29,19.99
+112100,112100,Avadon: The Black Fortress,Avadon: The Black Fortress,Aug 17 2011,75,320,8,230106,30,9.99
+113020,113020,Monaco,Monaco: Whats Yours Is Mine,Apr 24 2013,83,6222,6,1340459,13,14.99
+113200,113200,The Binding of Isaac,The Binding of Isaac,Sep 28 2011,84,39367,12,2968594,99,4.99
+109600,109600,Neverwinter,Neverwinter,Dec 5 2013,74,18128,10,4486609,0,0
+115110,115110,Stacking,Stacking,Mar 6 2012,80,1101,9,431156,21,9.99
+115120,115120,Iron Brigade,Iron Brigade,Aug 13 2012,75,470,5,146708,23,14.99
+115200,115200,Cossacks II: Napoleonic Wars,Cossacks II: Napoleonic Wars,Aug 26 2011,73,205,4,107968,0,4.99
+115210,115210,American Conquest,American Conquest,Aug 26 2011,76,173,5,104740,0,4.99
+115220,115220,American Conquest - Fight Back,American Conquest: Fight Back,Aug 26 2011,66,128,9,87881,0,4.99
+115320,115320,PROTOTYPE 2,Prototype 2,Jul 24 2012,76,4130,7,520472,43,39.99
+200010,200010,Quantum Conundrum,Quantum Conundrum,Jun 21 2012,77,1063,16,280682,25,8.99
+200020,200020,Global Ops: Commando Libya,Global Ops: Commando Libya,Oct 26 2011,37,241,17,53805,24,4.99
+200050,200050,Naval War: Arctic Circle,Naval War: Arctic Circle,Apr 10 2012,64,148,10,67077,51,19.99
+200170,200170,Worms Revolution,Worms Revolution,Oct 10 2012,73,3320,11,1040048,34,14.99
+113420,113420,Fallen Earth,Fallen Earth Free2Play,Feb 22 2012,71,6303,11,1947736,650,0
+200230,200230,Off-Road Drive,Off-Road Drive,Sep 29 2011,60,333,9,65642,0,6.99
+200260,200260,Batman: Arkham City GOTY,Batman: Arkham City - Game of the Year Edition,Sep 7 2012,91,16418,11,3396164,64,19.99
+200370,200370,A Game of Dwarves,A Game of Dwarves,Oct 23 2012,60,395,14,103843,29,9.99
+200390,200390,Oil Rush,Oil Rush,Jan 25 2012,67,293,13,365694,40,7.99
+200510,200510,XCOM: Enemy Unknown,XCOM: Enemy Unknown,Oct 8 2012,89,31794,15,3498393,85,29.99
+200550,200550,DUNGEONS - The Dark Lord (Steam Special Edition),Dungeons - The Dark Lord,Sep 27 2011,72,126,9,158186,27,19.99
+200630,200630,Gettysburg: Armored Warfare,Gettysburg: Armored Warfare,Mar 27 2012,22,188,10,36767,33,9.99
+200710,200710,Torchlight II,Torchlight II,Sep 20 2012,88,23667,18,3352402,119,19.99
+200900,200900,Cave Story+,Cave Story+,Nov 22 2011,83,4006,13,745915,75,14.99
+200910,200910,Before the Echo,Before the Echo,Oct 20 2011,70,1107,11,178632,21,4.99
+200210,200210,Realm of the Mad God,Realm of the Mad God,Feb 20 2012,82,22224,12,2768440,31,0
+201290,201290,Sins of a Solar Empire: Trinity,Sins of a Solar Empire(r): Trinity,Nov 16 2011,87,415,6,193339,0,19.99
+201480,201480,Serious Sam: The Random Encounter,Serious Sam: The Random Encounter,Oct 24 2011,64,500,10,491059,0,4.99
+201490,201490,Airline Tycoon 2,Airline Tycoon 2,Oct 24 2011,57,351,14,113887,0,9.99
+201700,201700,DiRT Showdown,DiRT Showdown,May 23 2012,72,2680,15,764567,49,14.99
+201790,201790,Orcs Must Die! 2,Orcs Must Die! 2,Nov 22 2012,83,11166,11,2295854,27,24.99
+201810,201810,Wolfenstein: The New Order,Wolfenstein: The New Order,May 19 2014,81,17822,6,1352475,50,19.99
+201830,201830,Jurassic Park: The Game,Jurassic Park: The Game,Nov 15 2011,54,1087,10,204638,51,19.99
+201870,201870,Assassin's Creed Revelations,Assassins Creed(r) Revelations,Nov 29 2011,80,4225,6,810839,0,19.99
+202070,202070,Choplifter HD,Choplifter HD,Jan 11 2012,65,157,14,43761,12,9.99
+202130,202130,Impire,Impire,Feb 14 2013,45,313,10,124469,48,19.99
+201230,201230,EverQuest II,EverQuest(r) II Free-To-Play. Your Way.(tm),Dec 7 2011,83,819,4,598848,0,0
+202200,202200,Galactic Civilizations II: Ultimate Edition,Galactic Civilizations(r) II: Ultimate Edition,Dec 2 2011,92,827,17,604767,0,19.99
+202310,202310,Ridge Racer™ Unbounded,Ridge Racer(tm) Unbounded,Mar 29 2012,72,692,20,177377,50,9.99
+202710,202710,Demigod,Demigod,Dec 14 2011,76,566,8,208763,0,9.99
+202750,202750,Alan Wake's American Nightmare,Alan Wakes American Nightmare,May 22 2012,73,3236,8,1191957,12,9.99
+202970,202970,Call of Duty: Black Ops II,Call of Duty(r): Black Ops II,Nov 12 2012,74,23400,14,2960344,35,59.99
+202990,202970,Call of Duty: Black Ops II - Multiplayer,Call of Duty(r): Black Ops II,Nov 12 2012,74,23400,14,2960344,35,59.99
+203140,203140,Hitman: Absolution,Hitman: Absolution(tm),Nov 19 2012,79,18213,8,3058269,47,19.99
+203160,203160,Tomb Raider,Tomb Raider,Mar 4 2013,86,55844,10,4453968,50,19.99
+203350,203350,King's Bounty: Warriors of the North,Kings Bounty: Warriors of the North,Oct 25 2012,74,574,10,196926,64,12.99
+203630,203630,Warlock - Master of the Arcane,Warlock - Master of the Arcane,May 8 2012,71,1809,5,803307,0,24.99
+203650,203650,SONIC THE HEDGEHOG 4 Episode II,Sonic the Hedgehog 4 - Episode II,May 15 2012,54,551,10,222393,12,9.99
+203680,203680,F1 Race Stars,F1 RACE STARS(tm),Nov 13 2012,62,451,13,74071,64,14.99
+203750,203750,Binary Domain,Binary Domain,Apr 27 2012,68,3404,14,682425,49,14.99
+203770,203770,Crusader Kings II,Crusader Kings II,Feb 14 2012,82,16341,10,1359649,116,39.99
+203810,203810,Dear Esther,Dear Esther,Feb 14 2012,75,5542,17,807432,0,9.99
+203830,203830,The Dark Eye: Chains of Satinav,The Dark Eye: Chains of Satinav,Jun 22 2012,75,873,7,261312,36,159.99
+204030,204030,Fable - The Lost Chapters,Fable - The Lost Chapters,Dec 19 2011,83,3473,10,689958,0,9.99
+204080,204080,The Showdown Effect,The Showdown Effect,Mar 5 2013,67,1357,10,491418,25,9.99
+204100,204100,Max Payne 3,Max Payne 3,May 31 2012,87,18737,16,1764621,67,19.99
+204120,204120,LEGO Harry Potter: Years 5-7,LEGO Harry Potter: Years 5-7,Jan 5 2012,80,329,5,261312,0,19.99
+204180,204180,Waveform,Waveform,Mar 20 2012,81,1727,12,474738,65,1.99
+204220,204220,Snapshot,Snapshot,Aug 30 2012,74,202,6,312786,36,9.99
+204240,204240,The Bridge,The Bridge,Feb 22 2013,74,2208,16,407841,20,9.99
+204300,204300,Awesomenauts,Awesomenauts,Aug 1 2012,78,17240,20,1689652,58,9.99
+204340,204340,Serious Sam 2,Serious Sam 2,Jan 31 2012,74,3532,15,841150,0,9.99
+204390,204390,Pineapple Smash Crew ,Pineapple Smash Crew,Feb 2 2012,62,102,15,24930,0,9.99
+204450,204450,Call of Juarez Gunslinger,Call of Juarez(r) Gunslinger,May 22 2013,79,9891,10,965798,26,14.99
+204530,204530,Infested Planet,Infested Planet,Mar 6 2014,75,1284,13,118550,36,14.99
+204560,204560,Confrontation,Confrontation,Apr 4 2012,51,260,10,366591,52,19.99
+204760,204760,Deep Black : Reloaded,Deep Black: Reloaded,Apr 18 2012,39,178,17,13272,20,29.99
+204860,204860,Men of War: Condemned Heroes,Men of War: Condemned Heroes,Apr 12 2012,57,185,8,125186,14,7.99
+204880,204880,Sins of a Solar Empire: Rebellion,Sins of a Solar Empire(r): Rebellion,Jun 12 2012,82,5723,12,857829,68,39.99
+205020,205020,Lumino City,Lumino City,Dec 2 2014,70,548,12,187062,0,19.99
+205100,205100,Dishonored,Dishonored,Oct 8 2012,91,25429,6,2918556,80,9.99
+205190,205190,Rocksmith,Rocksmith(tm),Oct 16 2012,78,781,11,211633,60,29.99
+205230,205230,Hell Yeah!,Hell Yeah! Wrath of the Dead Rabbit,Oct 3 2012,64,2312,9,1635130,12,14.99
+205650,205650,The Testament of Sherlock Holmes,The Testament of Sherlock Holmes,Sep 25 2012,73,1468,13,301128,32,19.99
+205730,205730,Insanely Twisted Shadow Planet,Insanely Twisted Shadow Planet,Apr 17 2012,76,522,10,252345,17,14.99
+205810,205810,Jagged Alliance: Crossfire,Jagged Alliance: Crossfire,Aug 24 2012,63,145,6,116936,22,14.99
+202170,202170,Sleeping Dogs™,Sleeping Dogs, ,81,14510,13,1554602,59,0
+205910,205910,Tiny and Big: Grandpa's Leftovers,Tiny and Big: Grandpas Leftovers,Jun 19 2012,75,3154,10,612120,53,9.99
+205990,205990,Warlock 2: the Exiled,Warlock 2: The Exiled,Apr 10 2014,73,646,11,81245,74,19.99
+206190,206190,Gunpoint,Gunpoint,Jun 3 2013,83,8584,6,753448,42,9.99
+206370,206370,Tales from Space: Mutant Blobs Attack,Tales From Space: Mutant Blobs Attack,Aug 15 2012,83,485,10,172893,14,7.99
+206420,206420,Saints Row IV,Saints Row IV,Aug 19 2013,86,39363,9,3107232,73,14.99
+206440,206440,To the Moon,To the Moon,Sep 7 2012,81,23170,14,1114120,1,9.99
+206760,206760,Painkiller: Recurring Evil,Painkiller: Recurring Evil,Feb 29 2012,38,136,10,166436,0,9.99
+207040,207040,Sine Mora,Sine Mora,Nov 9 2012,77,744,12,239970,10,9.99
+207140,207140,SpeedRunners,SpeedRunners,Apr 19 2016,84,15156,24,1231414,29,14.99
+207150,207150,Stellar Impact,Stellar Impact,Apr 12 2012,74,484,10,98284,0,9.99
+207170,207170,Legend of Grimrock,Legend of Grimrock,Apr 11 2012,82,3898,13,980325,40,14.99
+207190,207190,Fireburst,Fireburst,Apr 25 2012,59,111,10,30310,12,9.99
+207250,207250,Cubemen,Cubemen,Mar 16 2012,74,443,12,191904,44,3.99
+207320,207320,Ys: The Oath in Felghana,Ys: The Oath in Felghana,Mar 19 2012,73,694,16,151371,33,14.99
+207350,207350,Ys Origin,Ys Origin,May 31 2012,76,1342,17,243736,46,19.99
+207420,207420,Wizorb,Wizorb,Mar 14 2012,81,638,10,259519,20,2.99
+207490,207490,Rayman Origins,Rayman(r) Origins,Mar 29 2012,86,1142,6,207687,0,19.99
+207530,207530,Noitu Love 2 Devolution,Noitu Love 2: Devolution,Apr 23 2012,80,381,4,61517,0,4.99
+207610,207610,The Walking Dead,The Walking Dead,Apr 24 2012,82,28241,6,2112200,48,24.99
+207650,207650,A Virus Named TOM,A Virus Named TOM,Aug 1 2012,65,612,18,400846,47,9.99
+207690,207690,Botanicula,Botanicula,May 7 2012,82,2268,9,394569,53,9.99
+207750,207750,Symphony,Symphony,Aug 6 2012,75,1186,9,223111,31,8.99
+207930,207930,Sacred Citadel,Sacred Citadel,Apr 16 2013,61,689,11,503076,35,9.99
+205890,205890,Chronicle: RuneScape Legends,Chronicle: RuneScape Legends,May 26 2016,76,1405,12,325161,44,0
+208140,208140,Endless Space,Endless Space(r) - Emperor Edition,Jul 4 2012,77,5037,8,1029646,93,29.99
+208400,208400,Avernum: Escape From the Pit,Avernum: Escape From the Pit,Apr 11 2012,76,481,5,95593,35,9.99
+208480,208480,Assassin's Creed® III,Assassins Creed(r) III,Nov 20 2012,80,8592,5,1031439,0,19.99
+208500,208500,F1 2012,F1 2012(tm),Sep 17 2012,80,1042,6,324981,49,19.99
+208580,208580,STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™,STAR WARS(tm) Knights of the Old Republic(tm) II - The Sith Lords(tm),Aug 23 2012,85,5213,7,2066645,57,9.99
+208670,208670,Blades of Time,Blades of Time,Apr 20 2012,63,1240,11,247144,35,9.99
+208730,208730,Game of Thrones ,Game of Thrones,Jun 7 2012,58,1601,11,509712,50,19.99
+208750,208750,Apotheon,Apotheon,Feb 3 2015,78,1612,28,146349,30,14.99
+209000,209000,Batman™: Arkham Origins,Batman(tm): Arkham Origins,Oct 24 2013,74,17773,5,2163315,60,19.99
+209060,209060,Drunken Robot Pornography,Drunken Robot Pornography,Feb 19 2014,66,548,21,55240,11,14.99
+209080,209080,Guns of Icarus Online,Guns of Icarus Online,Oct 29 2012,64,11169,20,1370231,568,9.99
+209100,209100,Resident Evil™: Operation Raccoon City,Resident Evil: Operation Raccoon City,May 18 2012,48,1173,9,121958,0,29.99
+209120,209120,Street Fighter X Tekken,Street Fighter X Tekken,May 11 2012,79,904,19,129132,0,29.99
+209160,209160,Call of Duty: Ghosts,Call of Duty(r): Ghosts,Mar 25 2014,68,23993,6,1428161,40,59.99
+209170,209160,Call of Duty: Ghosts - Multiplayer,Call of Duty(r): Ghosts,Mar 25 2014,68,23993,6,1428161,40,59.99
+209190,209190,Stealth Bastard Deluxe,Stealth Bastard Deluxe,Nov 28 2012,80,751,18,278351,27,9.99
+209270,209270,Hero Academy,Hero Academy,Aug 10 2012,75,643,5,208225,69,4.99
+209330,209330,A Valley Without Wind,A Valley Without Wind,Apr 24 2012,54,424,11,206611,98,14.99
+209370,209370,Analogue: A Hate Story,Analogue: A Hate Story,Apr 27 2012,62,1701,9,157290,14,9.99
+209540,209540,Strike Suit Zero,Strike Suit Zero,Jan 23 2013,66,1365,10,479222,27,19.99
+209650,209650,Call of Duty: Advanced Warfare,Call of Duty(r): Advanced Warfare - Gold Edition,Nov 3 2014,78,20533,20,1085244,45,59.99
+209660,209650,Call of Duty: Advanced Warfare - Multiplayer,Call of Duty(r): Advanced Warfare - Gold Edition,Nov 3 2014,78,20533,20,1085244,45,59.99
+209670,209670,Cortex Command,Cortex Command,Sep 28 2012,44,1412,18,180246,11,19.99
+209790,209790,Splice,Splice,Jun 13 2012,70,458,4,243557,16,9.99
+209830,209830,Lone Survivor: The Director's Cut,Lone Survivor: The Directors Cut,Apr 23 2012,81,1031,12,593826,0,14.99
+208090,208090,Loadout,Loadout,Jan 31 2014,72,40106,17,5482896,28,0
+210770,210770,Sanctum 2,Sanctum 2,May 15 2013,77,9939,5,1555858,50,14.99
+210870,210870,Cloudberry Kingdom,Cloudberry Kingdom(tm),Aug 2 2013,67,150,7,25109,16,9.99
+210970,210970,The Witness,The Witness,Jan 26 2016,87,2111,6,156213,2,39.99
+211180,211180,Unmechanical,Unmechanical,Aug 8 2012,74,317,6,90392,17,9.99
+211260,211260,They Bleed Pixels,They Bleed Pixels,Aug 29 2012,74,1738,15,195850,150,9.99
+211360,211360,Offspring Fling!,Offspring Fling!,May 11 2012,79,481,10,293775,10,7.99
+211400,211400,Deadlight,Deadlight,Oct 25 2012,78,9380,12,978890,31,14.99
+211420,211420,Dark Souls: Prepare to Die Edition,DARK SOULS(tm): Prepare To Die(tm) Edition,Aug 23 2012,85,47180,24,2864930,41,19.99
+211600,211600,Thief Gold,Thief(tm) Gold,May 22 2012,92,1116,13,814785,0,6.99
+211740,211740,Thief 2,Thief(tm) II: The Metal Age,May 22 2012,87,500,13,499130,0,6.99
+211780,211780,Conflict Desert Storm,Conflict Desert Storm(tm),May 28 2012,56,190,12,23674,0,6.99
+211820,211820,Starbound,Starbound,Jul 22 2016,82,57493,9,2562188,51,14.99
+212050,212050,Resonance,Resonance,Jul 25 2012,76,303,6,56495,38,9.99
+209870,209870,Blacklight: Retribution,Blacklight: Retribution,Jul 2 2012,75,14567,25,2896137,25,0
+212070,212070,Star Conflict,Star Conflict,Feb 27 2013,75,8394,28,1959394,213,0
+212480,212480,Sonic & All-Stars Racing Transformed,Sonic & All-Stars Racing Transformed,Jan 31 2013,79,8242,25,805638,50,19.99
+212160,212160,Vindictus,Vindictus,Jun 22 2012,76,3784,7,933515,0,0
+212630,212630,Tom Clancy's Ghost Recon Future Soldier,Tom Clancys Ghost Recon: Future Soldier(tm),Jun 26 2012,71,2265,7,284986,0,19.99
+212680,212680,FTL: Faster Than Light,FTL: Faster Than Light,Sep 14 2012,84,31184,12,2601286,0,9.99
+214170,214170,Divine Divinity,Divine Divinity,Jul 5 2012,81,816,12,465233,0,5.99
+214190,214190,Minimum,Minimum,Sep 10 2014,69,4050,33,204638,7,9.99
+214250,214250,I Am Alive,I Am Alive,Sep 6 2012,66,1499,12,255573,0,14.99
+214340,214340,Deponia,Deponia,Aug 6 2012,74,4759,12,801872,19,159.99
+214360,214360,Tower Wars,Tower Wars,Aug 14 2012,59,1509,8,406227,35,7.99
+214490,214490,Alien: Isolation,Alien: Isolation,Oct 6 2014,81,16116,8,946966,50,39.99
+214510,214510,LEGO® The Lord of the Rings™,LEGO The Lord of the Rings,Nov 27 2012,80,2653,19,561364,48,19.99
+214560,214560,Mark of the Ninja,Mark of the Ninja,Oct 16 2012,91,11059,13,1603923,38,14.99
+214700,214700,Thirty Flights of Loving,Thirty Flights of Loving,Aug 20 2012,88,1151,5,92724,0,4.99
+214730,214730,Space Rangers HD: A War Apart,Space Rangers HD: A War Apart,Oct 17 2013,68,1663,12,155496,82,14.99
+214770,214770,Guacamelee! Gold Edition,Guacamelee! Gold Edition,Aug 8 2013,88,4568,11,736947,60,14.99
+214830,214830,Half Minute Hero: Super Mega Neo Climax Ultimate Boy,Half Minute Hero: Super Mega Neo Climax Ultimate Boy,Sep 27 2012,75,1147,13,469717,35,9.99
+214870,214870,Painkiller Hell & Damnation,Painkiller Hell & Damnation,Oct 31 2012,64,2214,11,515451,107,19.99
+214950,214950,Total War: ROME II - Emperor Edition,Total War(tm): ROME II - Emperor Edition,Sep 2 2013,76,29200,22,2457986,150,44.99
+214970,214970,Intrusion 2,Intrusion 2,Sep 11 2012,80,929,13,368563,14,9.99
+212500,212500,The Lord of the Rings Online™,The Lord of the Rings Online,Jun 6 2012,86,5405,13,2129597,0,0
+215080,215080,WAKFU,WAKFU,Sep 18 2014,76,3373,7,1186039,146,0
+215160,215160,The Book of Unwritten Tales,The Book of Unwritten Tales,Jul 31 2012,82,1159,19,231720,0,19.99
+215280,215280,The Secret World,The Secret World,Aug 8 2012,74,3131,17,418961,0,29.99
+215470,215470,Primal Carnage,Primal Carnage,Oct 29 2012,67,5121,6,483526,69,7.99
+215510,215510,Rocketbirds: Hardboiled Chicken,Rocketbirds: Hardboiled Chicken,Oct 15 2012,74,1591,5,470972,29,9.99
+215530,215530,The Incredible Adventures of Van Helsing,The Incredible Adventures of Van Helsing,May 22 2013,72,5036,10,814785,95,14.99
+215670,215670,Home,Home,Aug 31 2012,69,1372,8,294671,12,2.99
+215710,215710,Fieldrunners 2,Fieldrunners 2,Jan 10 2013,73,272,8,117833,59,9.99
+215790,215790,Dream Pinball 3D,Dream Pinball 3D,Sep 19 2012,61,429,11,106713,0,6.99
+216110,216110,Tiny Troopers,Tiny Troopers,Aug 24 2012,57,577,12,95773,25,4.99
+216130,216130,Gemini Wars,Gemini Wars,Nov 2 2012,53,109,16,38201,30,14.99
+216290,216290,Gateways,Gateways,Sep 13 2012,72,140,12,41071,18,4.99
+216390,216390,Fallen Enchantress,Fallen Enchantress,Oct 23 2012,78,244,22,106892,0,39.99
+216910,216910,Of Orcs And Men,Of Orcs And Men,Oct 11 2012,69,804,5,177915,45,29.99
+217100,217100,Dementium II HD,Dementium II HD,Dec 17 2013,37,779,9,66180,23,4.99
+217140,217140,Rise of the Triad,Rise of the Triad,Jul 31 2013,67,1944,19,207328,95,14.99
+217270,217270,Karateka ,Karateka,Dec 3 2012,48,144,8,32821,12,9.99
+217290,217290,Din's Curse,Dins Curse,Aug 22 2012,76,111,7,16680,51,9.99
+217690,217690,Anna - Extended Edition,Anna - Extended Edition,Apr 12 2013,75,1171,14,244633,35,9.99
+217860,217860,Special Forces: Team X,Special Forces: Team X,Feb 6 2013,48,258,5,17038,12,9.99
+217920,217920,Alien Rage - Unlimited,Alien Rage - Unlimited,Sep 24 2013,52,1268,29,192801,49,19.99
+218060,218060,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,Feb 26 2013,85,2564,10,493570,26,14.99
+218090,218090,Unity of Command,Unity of Command: Stalingrad Campaign,Oct 17 2012,84,439,9,93082,0,19.99
+215100,215100,Ragnarok,Ragnarok Online,Oct 31 2013,79,980,26,486934,0,0
+218130,218130,Dungeonland,Dungeonland,Nov 12 2013,67,1866,10,1007407,53,0
+218620,218620,PAYDAY 2,PAYDAY 2,Aug 13 2013,79,219763,62,7278903,414,19.99
+218640,218640,Lucius,Lucius,Oct 26 2012,59,4551,8,633463,58,9.99
+218680,218680,Scribblenauts Unlimited,Scribblenauts Unlimited,Nov 19 2012,75,5684,6,1524292,25,19.99
+218740,218740,Pid ,Pid,Oct 31 2012,63,2171,10,637767,12,9.99
+218820,218820,Mercenary Kings,Mercenary Kings,Mar 25 2014,76,1714,10,349911,26,19.99
+219150,219150,Hotline Miami,Hotline Miami,Oct 23 2012,85,30833,7,2037232,35,9.99
+218230,218230,PlanetSide 2,PlanetSide 2,Nov 20 2012,84,32759,40,7027275,0,0
+219600,219600,NBA 2K13,NBA 2K13,Oct 30 2012,90,451,5,108686,0,29.99
+219640,219640,Chivalry: Medieval Warfare,Chivalry: Medieval Warfare,Oct 16 2012,79,42478,21,4135801,49,24.99
+219680,219680,Proteus,Proteus,Jan 30 2013,80,2230,13,409455,0,9.99
+219740,219740,Don't Starve,Dont Starve, ,79,43420,10,3900853,0,14.99
+219760,219760,Beyond Divinity,Beyond Divinity,Oct 29 2012,73,125,5,379324,0,5.99
+219830,219830,King Arthur's Gold,King Arthurs Gold,Nov 5 2013,81,3042,12,307046,64,9.99
+219890,219890,Antichamber,Antichamber,Jan 31 2013,82,9307,10,1045249,0,19.99
+219910,219910,Edna & Harvey: Harvey's New Eyes,Edna & Harvey: Harveys New Eyes,Oct 16 2012,75,1091,18,361210,29,159.99
+219990,219990,Grim Dawn,Grim Dawn,Feb 25 2016,83,10412,25,758828,80,24.99
+220090,220090,The Journey Down: Chapter One,The Journey Down: Chapter One,Jan 9 2013,72,683,8,157469,0,8.99
+220160,220160,Trials Evolution Gold Edition,Trials Evolution: Gold Edition,Mar 21 2013,85,1651,12,257546,0,19.99
+220200,220200,Kerbal Space Program,Kerbal Space Program,Apr 27 2015,88,31719,20,1647326,0,39.99
+220240,220240,Far Cry® 3,Far Cry 3,Dec 4 2012,88,36011,18,3048584,0,19.99
+220440,220440,DmC Devil May Cry,DmC: Devil May Cry,Jan 24 2013,85,8547,13,903025,58,29.99
+220660,220660,StarDrive,StarDrive,Apr 26 2013,61,1163,18,197105,0,29.99
+220740,220740,Chaos on Deponia,Chaos on Deponia,Nov 6 2012,78,876,15,356009,34,159.99
+220780,220780,Thomas Was Alone,Thomas Was Alone,Nov 12 2012,77,6777,5,839535,35,9.99
+220860,220860,McPixel,McPixel,Sep 25 2012,76,3167,13,472766,0,4.99
+221040,221040,Resident Evil 6 / Biohazard 6,Resident Evil 6 / Biohazard 6,Mar 22 2013,69,10113,25,987140,70,29.99
+221260,221260,Little Inferno,Little Inferno,Nov 19 2012,68,5572,5,775149,0,9.99
+221380,221380,Age of Empires II: HD Edition,Age of Empires II HD,Apr 9 2013,68,26738,6,3784276,265,19.99
+221540,221540,Defense Grid 2,DG2: Defense Grid 2,Sep 23 2014,81,1615,8,161415,65,14.99
+221640,221640,Super Hexagon,Super Hexagon,Nov 27 2012,88,17556,6,910917,6,2.99
+221810,221810,The Cave,The Cave,Jan 23 2013,68,1379,6,273867,27,14.99
+221830,221830,The Book of Unwritten Tales: The Critter Chronicles,The Book of Unwritten Tales: The Critter Chronicles,Dec 5 2012,73,225,10,113708,34,19.99
+221910,221910,The Stanley Parable,The Stanley Parable,Oct 17 2013,88,24879,8,2061623,10,14.99
+222480,222480,Resident Evil Revelations / Biohazard Revelations,Resident Evil Revelations / Biohazard Revelations,May 20 2013,77,3977,18,615528,50,29.99
+222640,222640,Aarklash: Legacy,Aarklash: Legacy,Sep 12 2013,72,450,9,46990,29,19.99
+222730,222730,Reus,Reus,May 16 2013,75,3207,10,873253,123,9.99
+222750,222750,Wargame: AirLand Battle,Wargame: Airland Battle,May 29 2013,80,3282,8,578044,0,19.99
+222880,222880,Insurgency,Insurgency,Jan 22 2014,74,48918,13,3102568,100,9.99
+223100,223100,Homefront: The Revolution,Homefront(r): The Revolution,May 17 2016,54,3541,15,115142,50,39.99
+223220,223220,Giana Sisters: Twisted Dreams,Giana Sisters: Twisted Dreams,Oct 22 2012,77,1353,29,626289,25,14.99
+223430,223430,Miner Wars 2081,Miner Wars 2081,Nov 28 2012,52,244,15,97925,12,9.99
+223450,223450,Dyad,Dyad,Apr 24 2013,80,208,18,38740,27,14.99
+223470,223470,POSTAL 2,POSTAL 2,Nov 2 2012,59,19784,18,1454525,89,9.99
+223510,223510,Miasmata,Miasmata,Nov 28 2012,76,744,18,124110,27,14.99
+219340,219340,The Banner Saga: Factions,The Banner Saga: Factions,Feb 25 2013,67,704,13,459494,42,0
+223670,223670,F1 2013,F1 2013,Oct 3 2013,77,3188,10,260416,45,24.99
+223730,223730,FLY'N,FlyN,Nov 9 2012,80,355,9,94697,19,9.99
+223830,223830,Xenonauts,Xenonauts,Jun 16 2014,77,1917,16,219345,0,24.99
+224060,224060,Deadpool,Deadpool,Jun 25 2013,63,2759,8,314220,50,39.99
+224220,224220,Pressure,Pressure,Mar 26 2013,64,1121,12,540022,22,7.99
+224300,224300,Legacy of Kain: Defiance,Legacy of Kain: Defiance,Dec 6 2012,70,278,12,274226,0,6.99
+224460,224460,Contrast,Contrast,Nov 15 2013,62,3140,5,224546,22,9.99
+224480,224480,Octodad: Dadliest Catch,Octodad: Dadliest Catch,Jan 30 2014,69,5754,12,535538,32,14.99
+224600,224600,Defiance,Defiance,Jun 4 2014,64,9269,11,3409615,0,0
+224760,224760,FEZ,FEZ,May 1 2013,91,8516,14,1421884,12,9.99
+224820,224820,Super House of Dead Ninjas,Super House of Dead Ninjas,Feb 18 2013,79,997,6,121240,46,6.99
+224860,224860,Arma Tactics,Arma Tactics,Oct 1 2013,47,572,8,275122,0,8.99
+224940,224940,Legacy of Kain: Soul Reaver 2,Legacy of Kain: Soul Reaver 2,Dec 6 2012,77,215,11,272253,0,6.99
+225080,225080,Brothers - A Tale of Two Sons,Brothers - A Tale of Two Sons,Sep 3 2013,90,22471,7,1244507,12,14.99
+225260,225260,Brütal Legend,Brutal Legend,Feb 26 2013,80,6720,6,1179762,59,14.99
+225360,225360,DARK,DARK,Jul 3 2013,41,686,19,83936,31,14.99
+225420,225420,Cities in Motion 2,Cities in Motion 2,Apr 2 2013,72,1535,10,689420,51,19.99
+225540,225540,Just Cause 3,Just Cause(tm) 3,Nov 30 2015,74,18741,10,906074,66,59.99
+225600,225600,Blade Symphony,Blade Symphony,May 7 2014,72,3592,12,324264,1,9.99
+226100,226100,Nom Nom Galaxy,PixelJunk(tm) Nom Nom Galaxy,Aug 3 2015,68,428,15,57930,32,9.99
+226120,226120,Weird Worlds: Return to Infinite Space,Weird Worlds: Return to Infinite Space,Mar 19 2013,79,434,14,307764,0,4.99
+226320,226320,Marvel Heroes 2016,Marvel Heroes 2016,Jun 3 2013,81,11337,25,5098371,91,0
+226560,226560,Escape Dead Island,Escape Dead Island,Nov 18 2014,52,574,11,56674,60,14.99
+226580,226580,F1 2014,F1 2014,Oct 16 2014,61,1096,10,136844,49,29.99
+226620,226620,Desktop Dungeons,Desktop Dungeons,Nov 7 2013,82,846,17,105099,35,14.99
+226840,226840,Age of Wonders III,Age of Wonders III,Mar 31 2014,80,3499,7,539125,74,29.99
+226860,226860,Galactic Civilizations III,Galactic Civilizations III,May 14 2015,81,5401,8,300949,52,39.99
+226960,226960,Ironclad Tactics,Ironclad Tactics,Sep 18 2013,69,515,8,90751,1,14.99
+226980,226980,Pinball FX2,Pinball FX2,May 10 2013,84,2631,14,475276,132,0
+227000,227000,Primordia,Primordia,Dec 5 2012,72,975,14,109045,29,9.99
+227020,227020,Rise of Venice,Rise of Venice,Sep 27 2013,66,259,12,64207,56,24.99
+227080,227080,Papo & Yo,Papo & Yo,Apr 18 2013,70,2035,18,375379,10,14.99
+227100,227100,Sniper Elite: Nazi Zombie Army,Sniper Elite: Nazi Zombie Army,Feb 28 2013,62,3101,8,483526,26,14.99
+227200,227200,Waking Mars,Waking Mars,Dec 13 2012,79,835,7,178632,17,9.99
+227220,227220,Sang-Froid - Tales of Werewolves,Sang-Froid - Tales of Werewolves,Apr 5 2013,79,1397,15,245171,33,14.99
+227300,227300,Euro Truck Simulator 2,Euro Truck Simulator 2,Jan 16 2013,79,68021,26,3293576,36,22.99
+227480,227480,God Mode,God Mode,Apr 19 2013,58,2097,6,304715,25,9.99
+227580,227580,"10,000,000",10000000,Jan 15 2013,67,1394,10,131643,14,4.99
+227700,227700,Firefall,Firefall,Jul 29 2014,60,8313,30,3018095,117,0
+227760,227760,March of the Eagles,March of the Eagles,Feb 18 2013,71,143,10,71919,0,19.99
+227800,227800,Retrovirus,Retrovirus,Jan 31 2013,70,146,18,25647,14,9.99
+228260,228260,Fallen Enchantress: Legendary Heroes,Fallen Enchantress: Legendary Heroes,May 22 2013,80,1458,14,352960,55,24.99
+228280,228280,Baldur's Gate: Enhanced Edition,Baldurs Gate: Enhanced Edition,Jan 16 2013,78,2914,8,573560,129,19.99
+228300,228300,Remember Me,Remember Me,Jun 3 2013,65,7310,15,732105,50,29.99
+228320,228320,A Valley Without Wind 2,A Valley Without Wind 2,Feb 18 2013,68,184,14,206611,210,14.99
+228400,228400,ACE COMBAT™ ASSAULT HORIZON Enhanced Edition,Ace Combat Assault Horizon - Enhanced Edition,Jan 24 2013,77,3393,13,287139,50,19.99
+228440,228440,Cubemen 2,Cubemen 2,Apr 8 2013,68,186,7,93979,59,7.99
+228760,228760,TrackMania² Canyon,TrackMania2 Canyon,Feb 27 2013,81,916,13,170920,0,19.99
+228880,228880,Ashes of the Singularity,Ashes of the Singularity,Mar 31 2016,69,1381,6,100794,39,39.99
+228960,228960,Skulls of the Shogun,Skulls of the Shogun,Jul 29 2013,72,422,14,201589,27,9.99
+229520,229520,Dungeon Hearts,Dungeon Hearts,Mar 28 2013,73,478,6,107072,17,2.99
+229580,229580,Dream,Dream,Jul 31 2015,59,805,14,83577,30,16.99
+229600,229600,Bientôt l'été,Bientot lete,Feb 6 2013,62,224,16,25647,0,9.99
+229810,229810,A Fistful of Gun,A Fistful of Gun,Sep 23 2015,60,350,18,135050,20,12.99
+229870,229870,ShootMania Storm,ShootMania Storm,Apr 10 2013,76,659,11,71022,0,19.99
+230070,230070,The Age of Decadence,The Age of Decadence,Oct 14 2015,81,973,21,52370,109,29.99
+230150,230150,Incredipede,Incredipede,Mar 18 2013,74,301,12,160159,6,9.99
+230190,230190,War for the Overworld,War for the Overworld,Apr 2 2015,65,2508,19,177556,74,29.99
+230230,230230,Divinity: Original Sin (Classic),Divinity: Original Sin (Classic),Jun 30 2014,87,11048,5,1206305,63,0
+230310,230310,Akaneiro: Demon Hunters,Akaneiro: Demon Hunters,Nov 25 2014,53,244,10,71740,41,0
+230410,230410,Warframe,Warframe,Mar 25 2013,68,97562,8,14497544,132,0
+230650,230650,Lords of Football,Lords of Football,Apr 5 2013,52,215,10,41609,32,14.99
+230700,230700,La-Mulana,La-Mulana,Apr 15 2013,80,1359,7,246785,64,14.99
+230820,230820,The Night of the Rabbit,The Night of the Rabbit,May 28 2013,75,1010,18,283731,17,159.99
+230840,230840,Daylight,Daylight,Apr 29 2014,51,1517,10,87881,16,9.99
+234900,234900,Anodyne,Anodyne,Mar 22 2013,75,807,5,191187,6,9.99
+234920,234920,Dyscourse,Dyscourse,Mar 25 2015,71,330,12,64566,31,14.99
+235210,235210,Strider,STRIDER(tm) / sutoraidaFei Long (r),Feb 19 2014,78,1735,10,454113,30,14.99
+235320,235320,Original War,Original War,Jan 27 2014,61,479,14,79093,22,4.99
+235340,235340,Prime World,Prime World,Mar 31 2014,65,2745,14,595441,0,0
+235460,235460,METAL GEAR RISING: REVENGEANCE,METAL GEAR RISING: REVENGEANCE,Jan 9 2014,83,11188,6,637946,60,29.99
+235540,235540,Warhammer: End Times - Vermintide,Warhammer: End Times - Vermintide,Oct 23 2015,79,9843,19,653191,67,29.99
+235800,235800,Audiosurf 2,Audiosurf 2,May 26 2015,76,3064,26,225084,14,14.99
+236690,236690,Blood Bowl 2,Blood Bowl 2,Sep 22 2015,76,1925,8,165002,31,44.99
+236850,236850,Europa Universalis IV,Europa Universalis IV,Aug 13 2013,87,18642,11,1079146,185,39.99
+237350,237350,Frozen Cortex,Frozen Cortex,Feb 19 2015,79,237,13,53805,13,24.99
+237430,237430,Expeditions: Conquistador,Expeditions: Conquistador,May 30 2013,77,809,7,136844,60,19.99
+237470,237470,Battle Worlds: Kronos,Battle Worlds: Kronos,Nov 4 2013,71,187,11,33000,39,19.99
+237630,237630,DuckTales Remastered,DuckTales: Remastered,Aug 13 2013,66,2669,11,209480,20,14.99
+237740,237740,Angry Video Game Nerd Adventures,Angry Video Game Nerd Adventures,Sep 20 2013,77,2250,12,135768,19,9.99
+237850,237850,Dreamfall Chapters,Dreamfall Chapters,Oct 21 2014,72,1917,38,236203,0,29.99
+237890,237890,Agarest: Generations of War,Agarest: Generations of War,Feb 4 2014,45,1457,13,193698,50,14.99
+237930,237930,Transistor,Transistor,May 20 2014,83,13687,10,1127391,33,19.99
+237950,237950,UFO: Afterlight,UFO: Afterlight,Jan 6 2014,71,272,7,307943,0,6.99
+237990,237990,The Banner Saga,The Banner Saga,Jan 14 2014,80,8023,8,725290,39,19.99
+238010,238010,Deus Ex: Human Revolution - Director's Cut,Deus Ex: Human Revolution - Directors Cut,Oct 25 2013,91,8724,9,1489857,59,19.99
+238210,238210,System Shock 2,System Shock 2,May 10 2013,92,3216,12,722958,0,9.99
+238280,238280,Legend of Dungeon,Legend of Dungeon,Sep 13 2013,62,1330,16,222932,16,9.99
+238320,238320,Outlast,Outlast,Sep 4 2013,80,23548,11,1532184,14,19.99
+238370,238370,Magicka 2,Magicka 2,May 26 2015,69,2894,16,452858,47,14.99
+238430,238430,Contagion,Contagion,Oct 25 2013,62,10971,11,1065337,36,9.99
+238460,238460,BattleBlock Theater,BattleBlock Theater(r),May 15 2014,85,31040,17,2208690,30,14.99
+238630,238630,Fist Puncher,Fist Puncher,Jun 21 2013,73,197,10,41788,99,9.99
+238750,238750,Might & Magic X - Legacy ,Might & Magic X - Legacy,Jan 23 2014,70,1983,24,172893,0,24.99
+238870,238870,Citadels,Citadels,Jul 25 2013,20,358,8,36587,26,14.99
+238890,238890,Skyward Collapse,Skyward Collapse,May 23 2013,64,261,12,109403,80,4.99
+238910,238910,Bionic Dues,Bionic Dues,Oct 8 2013,71,713,14,373585,220,9.99
+238960,238960,Path of Exile,Path of Exile,Oct 23 2013,86,33124,37,6170343,84,0
+239030,239030,"Papers, Please",Papers Please,Aug 8 2013,85,16216,15,1602489,13,9.99
+239070,239070,Hammerwatch,Hammerwatch,Aug 12 2013,72,4760,8,863389,40,9.99
+239090,239090,Samurai Gunn,Samurai Gunn,Dec 10 2013,78,309,6,18473,6,14.99
+239120,239120,FINAL FANTASY III,FINAL FANTASY III,May 27 2014,68,827,8,149219,18,15.99
+239140,239140,Dying Light,Dying Light: The Following - Enhanced Edition,Jan 26 2015,87,32099,48,1614684,68,59.99
+239160,239160,Thief,Thief,Feb 27 2014,70,10768,19,1380812,37,29.99
+239200,239200,Amnesia: A Machine for Pigs,Amnesia: A Machine for Pigs,Sep 10 2013,72,4069,9,533386,0,19.99
+239220,239220,The Mighty Quest For Epic Loot,The Mighty Quest For Epic Loot,Feb 25 2014,64,11512,5,2217837,0,0
+239250,239250,Castlevania: Lords of Shadow 2,Castlevania: Lords of Shadow 2,Feb 25 2014,58,1923,14,177735,56,39.99
+239350,239350,Spelunky,Spelunky,Aug 8 2013,90,6079,12,765643,20,14.99
+239820,239820,Game Dev Tycoon,Game Dev Tycoon,Aug 29 2013,68,21796,7,1262980,33,9.99
+239840,239840,Dead State,Dead State: Reanimated,Dec 4 2014,70,1454,17,117474,12,19.99
+240440,240440,Quadrilateral Cowboy,Quadrilateral Cowboy,Jul 25 2016,82,238,5,13810,10,19.99
+240460,240460,WWE 2K15,WWE 2K15,Apr 28 2015,70,2879,22,92186,42,49.99
+240660,240660,RainBlood Chronicles: Mirage,Rain Blood Chronicles: Mirage,Nov 11 2013,68,137,24,13093,102,9.99
+240760,240760,Wasteland 2,Wasteland 2: Directors Cut,Sep 18 2014,87,6613,6,633821,46,39.99
+240970,240970,Half Minute Hero: The Second Coming,Half Minute Hero: The Second Coming,Apr 4 2014,79,358,28,85370,32,9.99
+241260,241260,Sherlock Holmes: Crimes and Punishments,Sherlock Holmes: Crimes and Punishments,Sep 29 2014,77,1406,7,111376,25,29.99
+241320,241320,Ittle Dew,Ittle Dew,Jul 23 2013,67,763,17,134153,15,9.99
+241410,241410,CastleStorm,CastleStorm,Jul 29 2013,73,1017,10,170741,46,9.99
+241540,241540,State of Decay,State of Decay,Nov 5 2013,79,17042,5,1032157,46,0
+241560,241560,The Crew,The Crew(tm),Dec 1 2014,71,10427,14,333052,0,29.99
+241600,241600,Rogue Legacy,Rogue Legacy,Jun 27 2013,85,12332,13,1250784,28,14.99
+241620,241620,Inquisitor,Inquisitor,13-Aug,64,359,15,116577,0,9.99
+241720,241720,Guncraft,Guncraft,Aug 9 2013,73,1202,19,130387,81,14.99
+241760,241760,Kill to Collect,Kill to Collect,Apr 6 2016,57,118,12,6995,57,19.99
+241910,241910,Goodbye Deponia,Goodbye Deponia,Oct 17 2013,80,900,13,326954,50,159.99
+241990,241990,Sorcerer King,Sorcerer King,Jul 16 2015,75,468,13,40174,40,24.99
+242110,242110,Joe Danger 2: The Movie,Joe Danger 2: The Movie,Jun 24 2013,82,325,7,315655,38,14.99
+242130,242130,Vector Thrust,Vector Thrust,Jul 2 2015,57,418,16,31386,129,24.99
+242530,242530,The Chaos Engine,The Chaos Engine,Aug 29 2013,40,276,6,96131,34,9.99
+242550,242550,Rayman Legends,Rayman(r) Legends,Sep 3 2013,89,2290,15,212529,0,29.99
+242570,242570,Space Hulk,Space Hulk,Aug 15 2013,58,1644,8,262568,28,24.99
+242680,242680,Nuclear Throne,Nuclear Throne,Dec 5 2015,88,6652,10,368922,44,11.99
+242820,242820,140,140,Oct 16 2013,80,2622,8,181502,6,4.99
+242860,242860,Verdun,Verdun,Apr 28 2015,70,15969,29,524777,56,24.99
+242880,242880,"Sir, You Are Being Hunted",Sir You Are Being Hunted,May 2 2014,63,2853,10,447477,0,19.99
+242940,242940,Anachronox,Anachronox,Oct 17 2013,77,165,9,235665,0,6.99
+243040,243040,Startopia,Startopia,Oct 10 2013,86,349,12,189573,0,6.99
+243160,243160,Mushroom 11,Mushroom 11,Oct 15 2015,78,296,16,111914,35,14.99
+243200,243200,Memoria,Memoria,Aug 29 2013,79,792,14,291981,31,159.99
+243220,243220,FRACT OSC,FRACT OSC,Apr 22 2014,75,443,15,43044,19,14.99
+243450,243450,Urban Trial Freestyle,Urban Trial Freestyle,Sep 18 2013,58,1346,31,169306,12,6.99
+243470,243470,Watch_Dogs,Watch_Dogs(tm),May 26 2014,77,17516,10,727442,0,29.99
+243780,243780,PixelJunk™ Monsters Ultimate,PixelJunk(tm) Monsters Ultimate,Aug 26 2013,72,635,11,217192,52,9.99
+243800,243800,Gas Guzzlers Extreme,Gas Guzzlers Extreme,Oct 8 2013,73,1799,20,194953,105,24.99
+243930,243930,Bound By Flame,Bound By Flame,May 8 2014,56,2093,9,209660,41,29.99
+243970,243970,"Invisible, Inc.",Invisible Inc.,May 12 2015,82,2209,5,257008,23,19.99
+244050,244050,Rise of Flight United,Rise of Flight United,Sep 5 2013,77,910,25,295389,89,0
+244160,244160,Homeworld Remastered Collection,Homeworld Remastered Collection,Feb 25 2015,86,4370,19,606560,34,34.99
+244210,244210,Assetto Corsa,Assetto Corsa,Dec 19 2014,85,8286,114,375558,442,29.99
+244450,244450,Men of War: Assault Squad 2,Men of War: Assault Squad 2,May 15 2014,68,6725,10,455189,490,29.99
+244690,244690,Face Noir,Face Noir,Oct 17 2013,59,167,10,62772,0,9.99
+244710,244710,Shelter,Shelter,Aug 28 2013,69,2115,10,205176,0,9.99
+244730,244730,Divekick,Divekick,Aug 20 2013,73,1514,20,257546,14,4.99
+244810,244810,Foul Play,Foul Play,Sep 18 2013,69,500,6,104023,30,14.99
+244910,244910,Homesick,Homesick,May 28 2015,72,530,9,22598,0,14.99
+244950,244950,Where is my Heart?,Where is my Heart?,May 29 2014,74,128,7,39098,7,7.99
+245150,245150,The Novelist,The Novelist,Dec 10 2013,66,744,8,144914,0,14.99
+245170,245170,Skullgirls,Skullgirls,Aug 22 2013,83,10264,20,811019,16,9.99
+245280,245280,ENSLAVED™: Odyssey to the West™ Premium Edition,ENSLAVED(tm): Odyssey to the West(tm) Premium Edition,Oct 24 2013,70,2664,17,306688,58,19.99
+245370,245370,Etherium,Etherium,Mar 25 2015,62,756,8,77479,65,19.99
+245450,245450,Wizardry 8,Wizardry 8,Sep 10 2013,85,293,10,113170,0,9.99
+245470,245470,Democracy 3,Democracy 3,Oct 14 2013,70,4376,12,569256,42,24.99
+245490,245490,Trials Fusion,Trials Fusion(tm),Apr 24 2014,80,1364,9,170203,0,19.99
+245620,245620,Tropico 5,Tropico 5,May 23 2014,75,6001,8,901052,70,24.99
+246070,246070,Hack 'n' Slash,Hack n Slash,Sep 9 2014,73,606,6,224366,0,13.37
+246090,246090,Spacebase DF-9,Spacebase DF-9,Oct 27 2014,49,3256,10,181143,0,9.99
+246110,246110,MASSIVE CHALICE,MASSIVE CHALICE,Jun 1 2015,73,1022,14,217730,28,19.99
+246700,246700,Strike Vector,Strike Vector,Jan 28 2014,73,2305,47,187958,0,11.99
+246760,246760,Legends of Eisenwald,Legends of Eisenwald,Jul 2 2015,71,816,16,62593,45,19.99
+246840,246840,FATE,FATE,Dec 12 2013,80,703,8,82321,10,7.99
+246960,246960,Giana Sisters: Twisted Dreams - Rise of the Owlverlord,Giana Sisters: Twisted Dreams - Rise of the Owlverlord,Sep 26 2013,84,261,29,133436,17,4.99
+247000,247000,Talisman: Digital Edition,Talisman: Digital Edition,Feb 25 2014,51,2581,9,378069,101,14.99
+247080,247080,Crypt of the NecroDancer,Crypt of the NecroDancer,Apr 23 2015,87,6604,10,606560,28,14.99
+247140,247140,Soundodger+,Soundodger+,Oct 11 2013,78,435,7,48783,19,7.99
+247240,247240,Volgarr the Viking,Volgarr the Viking,Sep 13 2013,76,1556,8,231720,20,9.99
+247660,247660,Deadly Premonition: The Director's Cut,Deadly Premonition: The Directors Cut,Oct 29 2013,59,1991,12,203024,60,24.99
+247730,247730,Nether,Nether: Resurrected,Jun 5 2014,57,16685,15,717398,0,4.99
+247870,247870,Redshirt,Redshirt,Nov 13 2013,62,351,13,51832,20,9.99
+247910,247910,Sniper Elite: Nazi Zombie Army 2,Sniper Elite: Nazi Zombie Army 2,Oct 31 2013,53,3251,12,418423,36,14.99
+247950,247950,Sacred 3,Sacred 3,Aug 5 2014,57,3061,10,256649,45,14.99
+248310,248310,Freedom Planet,Freedom Planet,Jul 21 2014,81,2710,14,234231,56,14.99
+248550,248550,Megabyte Punch,Megabyte Punch,Oct 15 2013,69,668,8,191187,30,14.99
+248610,248610,Door Kickers,Door Kickers,Oct 20 2014,83,2989,18,398156,43,19.99
+248730,248730,A Walk in the Dark,A Walk in the Dark,Nov 7 2013,67,325,12,23495,27,6.99
+248820,248820,Risk of Rain,Risk of Rain,Nov 8 2013,77,18506,7,1368437,15,9.99
+248860,248860,NEO Scavenger,NEO Scavenger,Dec 15 2014,77,2320,14,141686,0,14.99
+249050,249050,Dungeon of the Endless,Dungeon of the Endless(tm),Oct 27 2014,79,5463,5,608354,33,11.99
+249130,249130,LEGO® MARVEL Super Heroes,LEGO(r) Marvel(tm) Super Heroes,Oct 22 2013,78,7185,5,859623,45,19.99
+249230,249230,Risen 3 - Titan Lords,Risen 3 - Titan Lords,Aug 12 2014,65,2429,17,328389,50,14.99
+249380,249380,Carmageddon: Reincarnation,Carmageddon: Reincarnation,May 21 2015,54,2844,28,104561,30,29.99
+249570,249570,The Castle Doctrine,The Castle Doctrine,Jan 29 2014,58,355,7,13989,0,15.99
+249590,249590,Teslagrad,Teslagrad,Dec 13 2013,77,981,15,182578,36,9.99
+249650,249650,Blackguards,Blackguards,Jan 22 2014,68,1911,19,488190,45,39.99
+249870,249870,Scribblenauts Unmasked,Scribblenauts Unmasked: A DC Comics Adventure,Sep 24 2013,68,1202,9,198002,40,19.99
+249990,249990,FORCED,FORCED: Slightly Better Edition,Oct 24 2013,72,2102,8,571946,24,14.99
+250030,250030,Lilly Looking Through,Lilly Looking Through,Nov 1 2013,71,529,5,92186,0,9.99
+250050,250050,Life Goes On,Life Goes On: Done to Death,Apr 17 2014,73,264,15,36767,21,12.99
+250110,250110,Assault Android Cactus,Assault Android Cactus,Sep 23 2015,79,745,8,96131,29,14.99
+250260,250260,Jazzpunk,Jazzpunk,Feb 7 2014,75,3395,8,295030,0,14.99
+250320,250320,The Wolf Among Us,The Wolf Among Us,Oct 11 2013,85,16289,14,984091,35,24.99
+250380,250380,Knock-knock,Knock-knock,Oct 4 2013,57,734,7,88240,18,9.99
+250400,250400,How to Survive,How to Survive,Aug 29 2014,60,13108,20,1368796,43,14.99
+250520,250520,Underrail,UnderRail,Dec 18 2015,72,906,20,62952,50,14.99
+250560,250560,Fight The Dragon,Fight The Dragon,Dec 4 2014,76,1092,20,115860,60,14.99
+250620,250620,Among the Sleep,Among the Sleep,May 29 2014,66,3227,8,182399,10,14.99
+250640,250640,Croixleur Sigma,Croixleur Sigma,Apr 30 2014,56,298,16,30131,45,7.99
+250700,250700,Super Time Force Ultra,Super Time Force Ultra,Aug 25 2014,80,603,16,151909,33,14.99
+250760,250760,Shovel Knight,Shovel Knight,Jun 26 2014,85,6216,14,400129,65,14.99
+251060,251060,Wargame: Red Dragon,Wargame: Red Dragon,Apr 17 2014,78,5709,7,527646,0,39.99
+251130,251130,Chroma Squad,Chroma Squad,Apr 30 2015,75,1395,9,212350,43,14.99
+251150,251150,The Legend of Heroes: Trails in the Sky,The Legend of Heroes: Trails in the Sky,Jul 29 2014,85,2281,13,204459,27,19.99
+251230,251230,Livelock,Livelock,Aug 30 2016,76,160,10,9326,50,19.99
+251270,251270,Corpse Party,Corpse Party,Apr 25 2016,71,188,16,12554,17,14.99
+251290,251290,The Legend of Heroes: Trails in the Sky SC,The Legend of Heroes: Trails in the Sky SC,Oct 29 2015,80,503,20,33538,23,29.99
+251430,251430,The Inner World,The Inner World,Sep 27 2013,72,429,8,96131,23,14.99
+251470,251470,TowerFall Ascension,TowerFall Ascension,Mar 11 2014,87,1371,10,230285,30,14.99
+251490,251490,Gravity Ghost,Gravity Ghost,Jan 26 2015,75,221,14,23853,19,14.99
+251630,251630,The Impossible Game,The Impossible Game,May 8 2014,64,986,5,72995,12,4.99
+251690,251690,Speedball 2 HD,Speedball 2 HD,Dec 5 2013,53,478,8,140969,22,9.99
+251830,251830,Stick It To The Man!,Stick it to The Man!,Dec 13 2013,83,476,6,49859,16,14.99
+251850,251850,Master Reboot,Master Reboot,Oct 29 2013,59,562,18,85729,20,14.99
+251990,251990,Long Live The Queen,Long Live The Queen,Nov 8 2013,67,5157,12,331976,45,9.99
+252030,252030,Valdis Story: Abyssal City,Valdis Story: Abyssal City,Oct 30 2013,83,1758,8,173969,77,14.99
+252110,252110,Lovers in a Dangerous Spacetime,Lovers in a Dangerous Spacetime,Sep 9 2015,80,593,7,139713,28,14.99
+252130,252130,Divide by Sheep,Divide By Sheep,Jul 2 2015,83,306,12,23674,19,4.99
+252230,252230,YAIBA: NINJA GAIDEN Z,YAIBA: NINJA GAIDEN Z,Mar 21 2014,49,155,5,13272,49,29.99
+252310,252310,Syder Arcade,Syder Arcade,Oct 24 2013,76,549,10,126621,40,9.99
+252330,252330,Slender: The Arrival,Slender: The Arrival,Oct 28 2013,65,3832,17,371433,21,9.99
+252410,252410,SteamWorld Dig,SteamWorld Dig,Dec 5 2013,76,2971,10,418602,24,9.99
+252450,252450,StarDrive 2,StarDrive 2,Apr 9 2015,70,1447,12,66718,34,29.99
+252550,252550,Qbeh-1: The Atlas Cube,Qbeh-1: The Atlas Cube,May 15 2014,72,434,20,40354,17,9.99
+252630,252630,Eldritch,Eldritch,Oct 21 2013,77,1291,11,223290,0,14.99
+252670,252670,Nihilumbra,Nihilumbra,Oct 25 2013,75,1841,10,178991,24,7.99
+252710,252710,The Last Express Gold Edition,The Last Express Gold Edition,Nov 21 2013,82,141,8,27799,15,6.99
+252750,252750,MouseCraft,MouseCraft,Jul 8 2014,72,146,12,35870,23,9.99
+252950,252950,Rocket League,Rocket League(r),Jul 7 2015,86,86627,14,4602110,63,19.99
+253030,253030,Race The Sun,Race The Sun,Dec 9 2013,79,4755,13,807252,25,9.99
+253110,253110,The Cat Lady,The Cat Lady,Dec 4 2013,81,2460,10,137740,25,9.99
+253290,253290,FOTONICA,FOTONICA,Nov 6 2014,71,514,13,79811,20,9.99
+253330,253330,Neverending Nightmares,Neverending Nightmares,Sep 26 2014,68,1469,6,108148,4,14.99
+253750,253750,Ikaruga,Ikaruga,Feb 18 2014,84,995,6,98463,0,9.99
+253790,253790,rymdkapsel,rymdkapsel,Jan 30 2014,77,174,5,14707,10,7.99
+253880,253880,Earth 2150 Trilogy,Earth 2150 Trilogy,Nov 1 2013,78,212,20,195670,0,6.99
+253940,253940,Septerra Core,Septerra Core,Sep 27 2013,72,342,5,314759,0,4.99
+253980,253980,Enclave,Enclave,Oct 4 2013,71,4203,8,1468156,0,4.99
+254080,254080,World War III: Black Gold,World War III: Black Gold,Sep 27 2013,71,168,11,149040,0,4.99
+254100,254100,World War II: Panzer Claws,World War II: Panzer Claws,Sep 27 2013,61,105,7,258801,0,4.99
+254320,254320,Duskers,Duskers,May 18 2016,83,542,12,34076,0,19.99
+254460,254460,Obscure,Obscure,Mar 10 2014,63,351,10,41609,19,6.99
+254480,254480,Obscure 2,Obscure II (Obscure: The Aftermath),Mar 10 2014,59,149,12,33359,19,9.99
+254700,254700,resident evil 4 / biohazard 4,resident evil 4 / biohazard 4,Feb 27 2014,79,6006,19,663235,12,19.99
+254960,254960,Silent Storm,Silent Storm Gold Edition,Oct 2 2013,83,388,20,101871,0,9.99
+255070,255070,Abyss Odyssey,Abyss Odyssey,Jul 15 2014,69,1752,6,285345,17,14.99
+255220,255220,GRID Autosport,GRID Autosport,Jun 26 2014,78,5027,11,520114,60,39.99
+255300,255300,Journey of a Roach,Journey of a Roach,Nov 4 2013,65,734,14,130387,18,14.99
+255340,255340,Escape Goat 2,Escape Goat 2,Mar 24 2014,76,242,12,49500,16,9.99
+255420,255420,Magic 2015,Magic 2015 - Duels of the Planeswalkers,Jul 16 2014,60,3934,15,310095,35,9.99
+255710,255710,Cities: Skylines,Cities: Skylines,Mar 10 2015,85,28743,11,2968056,50,29.99
+255870,255870,PixelJunk™ Shooter,PixelJunk(tm) Shooter,Nov 11 2013,73,408,10,144735,15,8.99
+256030,256030,Shadows: Heretic Kingdoms,Shadows: Heretic Kingdoms,Nov 20 2014,74,306,24,23495,18,19.99
+256050,256050,Adventure Park,Adventure Park,Nov 8 2013,49,154,9,21163,0,19.99
+256190,256190,Enemy Front,Enemy Front,Jun 10 2014,52,1781,9,145094,45,29.99
+256290,256290,Child of Light,Child of Light,Apr 29 2014,77,7775,7,647273,0,14.99
+256390,256390,MotoGP™14,MotoGP(tm)14,Jun 20 2014,76,326,20,17935,43,29.99
+257050,257050,Darkout,Darkout,Dec 4 2013,55,683,15,101153,36,14.99
+257170,257170,Rebuild 3: Gangs of Deadsville,Rebuild 3: Gangs of Deadsville,May 29 2015,75,629,20,54881,42,14.99
+257350,257350,Baldur's Gate II: Enhanced Edition,Baldurs Gate II: Enhanced Edition,Nov 15 2013,78,1495,8,401205,93,19.99
+257510,257510,The Talos Principle,The Talos Principle,Dec 11 2014,85,9446,8,744121,40,39.99
+257690,257690,J.U.L.I.A.: Among the Stars,J.U.L.I.A.: Among the Stars,Sep 12 2014,71,516,15,26185,40,19.99
+257830,257830,Violett,Violett Remastered,Dec 13 2013,61,514,10,127518,22,9.99
+257850,257850,Hyper Light Drifter,Hyper Light Drifter,Mar 31 2016,84,3942,10,244633,20,19.99
+257890,257890,Frozen Hearth,Frozen Hearth,Dec 19 2013,46,473,7,249475,0,17.99
+257990,257990,Oozi: Earth Adventure,Oozi: Earth Adventure,Dec 5 2013,66,462,7,57392,35,4.99
+258010,258010,Ring Runner: Flight of the Sages,Ring Runner: Flight of the Sages,Nov 19 2013,75,548,12,142583,175,4.99
+258180,258180,Deus Ex: The Fall,Deus Ex: The Fall,Mar 17 2014,45,2396,6,498592,28,9.99
+258520,258520,The Vanishing of Ethan Carter,The Vanishing of Ethan Carter,Sep 25 2014,82,6107,5,542532,14,19.99
+258910,258910,Citizens of Earth,Citizens of Earth,Jan 20 2015,66,195,8,96669,50,14.99
+258950,258950,Montague's Mount,Montagues Mount,Nov 19 2013,39,378,6,67794,20,9.99
+259020,259020,Dragon's Prophet (EU),Dragons Prophet,Sep 18 2013,63,704,20,267052,0,0
+259170,259170,Alone in the Dark,Alone in the Dark,Oct 29 2013,55,336,10,45734,0,9.99
+259190,259190,Alone in the Dark: The New Nightmare,Alone in the Dark: The New Nightmare,Oct 29 2013,66,150,5,16859,0,6.99
+259410,259410,Sneaky Sneaky,Sneaky Sneaky,Nov 12 2014,63,225,17,12554,29,4.99
+259760,259760,Two Brothers,Two Brothers,Dec 3 2013,57,139,5,114066,0,0
+260160,260160,The Last Tinker: City of Colors,The Last Tinker(tm): City of Colors,May 12 2014,72,339,8,39816,14,19.99
+260190,260190,Marc Eckō's Getting Up: Contents Under Pressure,Marc Eckos Getting Up: Contents Under Pressure,Dec 13 2013,69,531,8,52908,0,14.99
+260250,260250,Blood of the Werewolf,Blood of the Werewolf,Oct 28 2013,65,543,23,66359,125,1.99
+260330,260330,Flockers,Flockers(tm),Sep 19 2014,66,109,10,38022,20,19.99
+260570,260570,Gray Matter,Gray Matter,Apr 1 2014,72,300,26,52549,0,9.99
+260650,260650,Cold War,Cold War,Jan 8 2014,64,154,10,32821,0,4.99
+260730,260730,Desperados - Wanted Dead or Alive,Desperados: Wanted Dead or Alive,Nov 20 2013,78,415,8,94338,0,4.99
+260750,260750,Neighbours from Hell,Neighbours from Hell Compilation,Nov 7 2013,69,634,14,140789,0,9.99
+260790,260790,1001 Spikes,1001 Spikes,Jun 3 2014,80,398,10,92186,25,14.99
+261180,261180,Lethal League,Lethal League,Aug 27 2014,82,3407,10,493570,23,13.99
+261470,261470,Distant Worlds: Universe,Distant Worlds: Universe,May 23 2014,81,743,10,58647,54,59.99
+261490,261490,Bedlam,Bedlam,Oct 13 2015,54,289,19,29951,24,12.99
+261510,261510,Tesla Effect,Tesla Effect: A Tex Murphy Adventure,May 8 2014,68,756,22,347221,0,19.99
+261530,261530,Lifeless Planet,Lifeless Planet Premier Edition,Jun 6 2014,59,2165,15,108506,15,19.99
+261570,261570,Ori and the Blind Forest,Ori and the Blind Forest,Mar 10 2015,88,18387,30,781067,50,0
+261640,261640,Borderlands: The Pre-Sequel,Borderlands: The Pre-Sequel,Oct 13 2014,75,12876,8,1708843,63,39.99
+261680,261680,Journal,Journal,Feb 17 2014,59,301,6,16141,10,9.99
+261760,261760,Lichdom: Battlemage,Lichdom: Battlemage,Aug 26 2014,69,1797,14,259340,59,39.99
+262000,262000,Gabriel Knight - Sins of the Fathers,Gabriel Knight: Sins of the Fathers 20th Anniversary Edition,Oct 15 2014,74,373,12,28875,51,19.99
+262060,262060,Darkest Dungeon,Darkest Dungeon,Jan 19 2016,84,16036,25,994493,65,24.99
+262190,262190,Zombeer,Zombeer,Jan 30 2015,32,106,23,3946,12,9.99
+262280,262280,Dungeons 2,Dungeons 2,Apr 24 2015,70,1360,16,207866,25,29.99
+262390,262390,Cloudbuilt,Cloudbuilt,Mar 20 2014,72,647,15,87881,37,19.99
+262470,262470,Rollers of the Realm,Rollers of the Realm,Nov 18 2014,68,268,5,33000,32,9.99
+262750,262750,GoD Factory: Wingmen,GoD Factory: Wingmen,Aug 29 2014,76,291,20,40533,46,19.99
+262790,262790,Our Darker Purpose,Our Darker Purpose,Jan 29 2014,74,570,7,72637,64,14.99
+262830,262830,Crimsonland,Crimsonland,Jun 11 2014,68,964,14,116577,21,13.99
+262850,262850,The Journey Down: Chapter Two,The Journey Down: Chapter Two,Aug 25 2014,78,190,9,25647,0,10.99
+262960,262960,Castle In The Darkness,Castle In The Darkness,Feb 5 2015,76,727,6,39995,11,9.99
+263280,263280,Spintires,SPINTIRES(tm),Jun 12 2014,67,12204,11,855318,58,29.99
+263340,263340,Continue?9876543210,Continue?9876543210,Jan 3 2014,62,166,17,19011,0,9.99
+263380,263380,Driftmoon,Driftmoon,Jan 3 2014,73,183,8,36229,9,14.99
+263500,263500,Dragons and Titans,Dragons and Titans,Mar 12 2014,43,2644,5,1162006,52,0
+263560,263560,Paper Sorcerer,Paper Sorcerer,Jan 22 2014,73,457,24,70664,39,4.99
+263860,263860,SPACECOM,SPACECOM,Sep 17 2014,68,212,6,84294,17,9.99
+264000,264000,Son of Nor,Son of Nor,Apr 27 2015,54,193,8,18473,29,19.99
+264060,264060,Full Bore,Full Bore,May 6 2014,72,127,25,53626,15,14.99
+264280,264280,99 Levels To Hell,99 Levels To Hell,Feb 19 2014,66,455,8,79811,23,4.99
+264520,264520,Moebius: Empire Rising,Moebius: Empire Rising,Apr 15 2014,54,129,13,24750,30,14.99
+264540,264540,Platformines,Platformines,Mar 28 2014,67,233,13,112632,20,9.99
+265120,265120,Meridian: New World,Meridian: New World,Sep 26 2014,43,398,10,90751,83,6.99
+265300,265300,Lords Of The Fallen,Lords Of The Fallen(tm),Oct 28 2014,73,6584,15,496440,56,19.99
+265330,265330,Gomo,Gomo,Dec 6 2013,50,681,15,76224,0,4.99
+265590,265590,The Red Solstice,The Red Solstice,Jul 9 2015,74,941,40,142762,73,19.99
+265690,265690,NaissanceE,NaissanceE,Feb 13 2014,66,746,17,63310,0,14.99
+265830,265830,Monochroma,Monochroma,May 28 2014,55,345,6,17397,5,19.99
+265930,265930,Goat Simulator,Goat Simulator,Apr 1 2014,62,38929,6,2610792,127,9.99
+265950,265950,Ether One,Ether One,Mar 25 2014,82,319,9,50039,12,19.99
+265970,265970,Worlds of Magic,Worlds of Magic,Mar 19 2015,52,421,30,14169,86,39.99
+266110,266110,Tower of Guns,Tower of Guns,Mar 4 2014,76,723,8,187600,17,14.99
+266170,266170,Windforge,Windforge,Mar 11 2014,53,420,12,70664,25,9.99
+266410,266410,iRacing,iRacing,Jan 12 2015,79,357,61,19908,0,9.99
+266510,266510,Hand of Fate,Hand of Fate,Feb 17 2015,78,3709,8,369281,53,24.99
+266840,266840,Age of Mythology: Extended Edition,Age of Mythology: Extended Edition,May 8 2014,66,6052,6,965977,70,29.99
+267550,267550,The Amazing Spider-Man 2,The Amazing Spider-Man 2(tm),Apr 29 2014,57,1433,9,89137,46,39.99
+267980,267980,Hostile Waters: Antaeus Rising,Hostile Waters: Antaeus Rising,Jan 30 2014,80,209,11,244633,0,9.99
+268050,268050,The Evil Within,The Evil Within,Oct 13 2014,68,6788,10,510429,71,19.99
+268400,268400,Panzer Corps,Panzer Corps,Mar 12 2014,80,544,6,49680,80,19.99
+268500,268500,XCOM 2,XCOM(r) 2,Feb 4 2016,88,14821,16,1076815,70,59.99
+268870,268870,Satellite Reign,Satellite Reign,Aug 27 2015,75,1389,12,201948,40,29.99
+269030,269030,The Yawhg,The Yawhg,Feb 27 2014,66,856,5,87523,0,9.99
+269050,269050,Year Walk,Year Walk,Mar 6 2014,87,1217,8,137382,10,5.99
+269650,269650,Dex,Dex,May 7 2015,62,624,7,45913,32,19.99
+269670,269670,BADLAND: Game of the Year Edition,BADLAND: Game of the Year Edition,May 26 2015,79,460,12,104920,78,9.99
+269730,269730,The Golf Club,The Golf Club,Aug 19 2014,70,877,17,38201,24,29.99
+269790,269790,DreadOut,DreadOut,May 15 2014,55,1639,14,101153,42,14.99
+269810,269810,Spate,Spate,Mar 27 2014,61,323,11,36767,0,1.99
+270150,270150,RUNNING WITH RIFLES,RUNNING WITH RIFLES,Apr 2 2015,78,3161,9,226519,45,14.99
+270310,270310,Dominique Pamplemousse,Dominique Pamplemousse,Mar 11 2014,62,313,6,26902,0,4.99
+270790,270790,Etherlords II,Etherlords II,Feb 13 2014,78,134,10,88778,0,4.99
+270880,270880,American Truck Simulator,American Truck Simulator,Feb 2 2016,76,10397,11,519396,21,19.99
+271240,271240,Offworld Trading Company,Offworld Trading Company,Apr 28 2016,79,1639,7,177197,148,39.99
+271290,271290,HAWKEN,HAWKEN,Feb 14 2014,73,17673,31,3361011,0,0
+271590,271590,Grand Theft Auto V,Grand Theft Auto V,Apr 13 2015,96,136846,24,5886074,69,59.99
+271670,271670,10 Second Ninja,10 Second Ninja,Mar 5 2014,72,565,7,61876,30,9.99
+271730,271730,Light,Light,Jul 14 2014,49,273,13,60620,13,12.99
+272330,272330,Shadow Blade: Reload,Shadow Blade: Reload,Aug 10 2015,70,126,19,12554,37,14.99
+272470,272470,The Incredible Adventures of Van Helsing II,The Incredible Adventures of Van Helsing II,Jun 13 2014,77,1527,25,388651,63,14.99
+272510,272510,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution,Sep 15 2014,61,3889,20,307585,50,29.99
+272890,272890,Vertiginous Golf,Vertiginous Golf,May 6 2015,63,849,12,404254,45,9.99
+273070,273070,The Last Federation,The Last Federation,Apr 18 2014,72,324,20,85908,79,19.99
+273350,273350,Evolve Stage 2,Evolve Stage 2,Feb 10 2015,77,35278,11,4904673,0,0
+273620,273620,Freespace 2,Freespace 2,Jun 6 2014,91,163,6,27440,0,9.99
+274190,274190,Broforce,Broforce,Oct 15 2015,83,16455,20,1035206,17,14.99
+274230,274230,RONIN,RONIN,Jun 30 2015,70,1027,6,114604,8,12.99
+274250,274250,OlliOlli,OlliOlli,Jul 22 2014,78,696,8,193877,12,12.99
+274270,274270,NOT A HERO,NOT A HERO,May 14 2015,75,1116,10,154420,17,12.99
+274290,274290,Gods Will Be Watching,Gods Will Be Watching,Jul 24 2014,64,1677,5,253062,35,9.99
+274310,274310,Always Sometimes Monsters,Always Sometimes Monsters,May 21 2014,73,1836,6,383091,10,9.99
+274350,274350,Dropsy,Dropsy,Sep 10 2015,80,552,12,132360,30,9.99
+274480,274480,Drox Operative,Drox Operative,Feb 18 2014,74,185,6,16141,63,19.99
+274500,274500,Brigador,Brigador,Jun 2 2016,70,355,10,11299,0,19.99
+274880,274880,Jet Car Stunts,Jet Car Stunts,May 1 2014,57,112,5,22239,12,2.99
+274940,274940,Depth,Depth,Nov 3 2014,65,12632,12,615348,40,24.99
+275100,275100,Shelter 2,Shelter 2,Mar 9 2015,58,1395,21,301666,26,14.99
+275180,275180,Costume Quest 2,Costume Quest 2,Oct 7 2014,68,332,5,73175,18,14.99
+275390,275390,Guacamelee! Super Turbo Championship Edition,Guacamelee! Super Turbo Championship Edition,Aug 21 2014,80,790,9,154599,30,14.99
+275570,275570,Summoner,Summoner,Mar 12 2014,78,182,7,109941,0,4.99
+275670,275670,Space Run,Space Run,Jun 13 2014,73,1483,8,203741,30,14.99
+275850,275850,No Man's Sky,No Mans Sky,Aug 12 2016,59,68725,11,820524,22,59.99
+276770,276770,Toy Soldiers: War Chest,Toy Soldiers: War Chest,Aug 12 2015,60,199,8,11478,23,14.99
+276810,276810,Mordheim: City of the Damned,Mordheim: City of the Damned,Nov 19 2015,74,3092,8,211274,106,39.99
+277430,277430,Halo: Spartan Assault,Halo: Spartan Assault,Apr 4 2014,70,3067,6,365694,25,2.99
+277450,277450,Imperial Glory,Imperial Glory,Apr 11 2014,69,610,5,81963,0,4.99
+277460,277460,Praetorians,Praetorians,Apr 11 2014,78,288,6,73533,0,4.99
+277520,277520,Albedo: Eyes from Outer Space,Albedo: Eyes from Outer Space,Apr 10 2015,66,210,24,46810,30,14.99
+278080,278080,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,DYNASTY WARRIORS 8: Xtreme Legends Complete Edition,May 13 2014,71,2872,5,193698,44,49.99
+278360,278360,A Story About My Uncle,A Story About My Uncle,May 28 2014,73,6675,5,399950,15,12.99
+278440,278440,0RBITALIS,0RBITALIS,May 28 2015,73,227,11,31924,38,9.99
+278640,278640,Terrian Saga: KR-17,Terrian Saga: KR-17,Jul 9 2014,83,196,5,51294,20,4.99
+278810,278810,LA Cops,LA Cops,Mar 13 2015,45,115,10,12554,13,14.99
+279260,279260,Richard & Alice,Richard & Alice,Jun 5 2014,70,297,6,56136,21,5.99
+279440,279440,Joe Dever's Lone Wolf HD Remastered,Joe Devers Lone Wolf HD Remastered,Nov 27 2014,78,288,10,59365,79,14.99
+279900,279900,Soul Axiom,Soul Axiom,Feb 29 2016,57,124,51,44120,63,19.99
+279920,279920,Infinity Runner,Infinity Runner,Jul 14 2014,56,105,40,11658,57,6.99
+279940,279940,The Book of Unwritten Tales 2,The Book of Unwritten Tales 2,Feb 19 2015,80,375,16,67077,51,29.99
+281410,281410,Ubersoldier II,Ubersoldier II,Mar 25 2014,62,255,10,36049,0,9.99
+281610,281610,Homeworld: Deserts of Kharak,Homeworld: Deserts of Kharak,Jan 20 2016,79,2011,9,139534,67,49.99
+281640,281640,The Banner Saga 2,The Banner Saga 2,Apr 19 2016,82,711,22,92903,55,19.99
+281750,281750,Munin,Munin,Jun 10 2014,68,189,9,49142,18,9.99
+281840,281840,4PM,4PM,Jul 9 2014,41,220,5,13631,0,2.99
+281940,281940,Woolfe - The Red Hood Diaries,Woolfe - The Red Hood Diaries,Mar 17 2015,55,947,9,61696,20,9.99
+281990,281990,Stellaris,Stellaris,May 9 2016,78,9324,12,684577,23,39.99
+282070,282070,This War of Mine,This War of Mine,Nov 14 2014,83,19903,16,1606793,30,19.99
+282140,282140,SOMA,SOMA,Sep 21 2015,84,6144,9,334128,10,29.99
+282210,282210,Sid Meier's Starships,Sid Meiers Starships,Mar 12 2015,64,1737,5,289291,31,14.99
+282900,282900,Hyperdimension Neptunia Re;Birth1,Hyperdimension Neptunia Re;Birth1 / Chao Ci Ci Yuan geimu neputeyunuRe;Birth1,Jan 29 2015,72,6149,30,316193,45,29.99
+283180,283180,The Samaritan Paradox,The Samaritan Paradox,Apr 18 2014,75,101,12,43044,17,9.99
+283290,283290,Nosferatu: The Wrath of Malachi,Nosferatu: The Wrath of Malachi,Mar 6 2014,70,1650,14,450347,0,9.99
+283350,283350,Eurofighter Typhoon,Eurofighter Typhoon,May 2 2014,69,135,9,134871,0,9.99
+283370,283370,Marine Sharpshooter II: Jungle Warfare,Marine Sharpshooter II: Jungle Warfare,Apr 3 2014,52,506,8,195132,0,9.99
+283390,283390,Incoming Forces,Incoming Forces,Mar 6 2014,67,174,5,152626,0,9.99
+283640,283640,Salt and Sanctuary,Salt and Sanctuary,May 17 2016,84,2021,10,139713,37,17.99
+283680,283680,Astebreed,Astebreed,May 30 2014,86,927,10,122137,40,14.99
+284390,284390,The Last Door - Collector's Edition,The Last Door - Collectors Edition,May 20 2014,79,581,10,67077,16,9.99
+284460,284460,DeadCore,DeadCore,Oct 17 2014,78,1212,15,200333,29,9.99
+285330,285330,RollerCoaster Tycoon 2: Triple Thrill Pack,RollerCoaster Tycoon(r) 2: Triple Thrill Pack,May 21 2014,74,1272,5,472227,0,9.99
+285440,285440,Crimzon Clover  WORLD IGNITION,Crimzon Clover WORLD IGNITION,Jun 6 2014,85,753,21,116219,35,9.99
+285820,285820,Action Henk,Action Henk,May 11 2015,74,295,7,91289,21,14.99
+286040,286040,Dead Effect,Dead Effect,Dec 17 2014,59,2080,28,185447,61,4.99
+286140,286140,Eidolon,Eidolon,Aug 1 2014,64,259,19,73892,0,15
+286280,286280,Steel Armor: Blaze of War,Steel Armor: Blaze of War,Mar 5 2015,70,111,76,5380,43,29.99
+286320,286320,Oknytt,Oknytt,Apr 4 2014,61,242,8,56854,10,4.99
+286460,286460,Black Mirror II,Black Mirror II,Apr 2 2014,71,132,8,53984,0,9.99
+286570,286570,F1 2015,F1 2015,Jul 9 2015,61,2170,24,117653,45,54.99
+287020,287020,Harvester,Harvester,Apr 4 2014,53,374,7,52370,0,5.99
+287120,287120,Ionball 2 : Ionstorm,Ionball 2: Ionstorm,Jun 6 2014,70,461,18,274943,26,4.99
+287260,287260,Toybox Turbos,Toybox Turbos,Nov 11 2014,69,531,5,82501,16,14.99
+287390,287390,Metro: Last Light Redux,Metro: Last Light Redux,Aug 25 2014,76,6677,5,1317681,49,19.99
+287450,287450,Rise of Nations: Extended Edition,Rise of Nations: Extended Edition,Jun 12 2014,89,3142,7,657316,38,19.99
+287600,287600,Sunset,Sunset,May 21 2015,66,175,32,20625,100,19.99
+287700,287700,METAL GEAR SOLID V: THE PHANTOM PAIN,METAL GEAR SOLID V: THE PHANTOM PAIN,Sep 1 2015,91,26956,28,1213479,42,39.99
+287980,287980,Mini Metro,Mini Metro,Nov 6 2015,77,3483,12,279068,26,9.99
+288040,288040,Actual Sunlight,Actual Sunlight,Apr 3 2014,77,323,6,7712,1,4.99
+288060,288060,Whispering Willows,Whispering Willows,Jul 9 2014,64,389,10,35153,20,9.99
+288160,288160,The Room,The Room,Jul 28 2014,73,4054,8,171817,5,4.99
+288260,288260,Conflicks - Revolutionary Space Battles,Conflicks - Revolutionary Space Battles,Nov 5 2015,63,147,10,6098,44,14.99
+288880,288880,Pineview Drive,Pineview Drive,Jul 31 2014,58,324,12,45375,20,19.99
+288930,288930,The Charnel House Trilogy,The Charnel House Trilogy,Apr 16 2015,68,284,6,27261,18,5.99
+289130,289130,Endless Legend,Endless Legend(tm),Sep 18 2014,82,7008,9,889933,98,29.99
+289280,289280,El Matador,El Matador,Apr 3 2014,54,137,14,22598,0,4.99
+289300,289300,Faces of War,Faces of War,Apr 16 2014,67,314,11,60261,0,4.99
+289460,289460,RC Cars,RC Cars,Apr 23 2014,65,117,8,11299,0,2.99
+289520,289520,King's Bounty: Dark Side,Kings Bounty: Dark Side,Aug 19 2014,73,566,8,116039,37,15.99
+289690,289690,Lara Croft and the Temple of Osiris,LARA CROFT AND THE TEMPLE OF OSIRIS(tm),Dec 8 2014,73,872,8,257008,40,19.99
+289800,289800,Dracula: The Resurrection,Dracula: The Resurrection,Apr 17 2014,67,157,8,36767,0,4.99
+290080,290080,Life is Feudal: Your Own,Life is Feudal: Your Own,Nov 17 2015,63,6745,12,394210,150,39.99
+290260,290260,Sokobond,Sokobond,Jul 21 2014,82,186,5,31745,7,9.99
+290340,290340,Armello,Armello,Sep 1 2015,75,2645,12,175583,50,19.99
+290490,290490,The Flock,The Flock,Aug 21 2015,36,265,8,21701,14,16.99
+290530,290530,Clandestine,Clandestine,Nov 5 2015,69,167,18,18114,50,19.99
+290710,290710,Cloud Chamber,Cloud Chamber,Aug 7 2014,74,141,30,22419,26,19.99
+290770,290770,The Fall,The Fall,May 30 2014,76,2491,10,172176,17,9.99
+290790,290790,Grey Goo,Grey Goo,Jan 23 2015,77,2413,16,293237,35,29.99
+290890,290890,You Must Build A Boat,You Must Build A Boat,Jun 4 2015,71,492,6,69050,12,4.99
+291410,291410,Duelyst,Duelyst,Aug 23 2016,82,1411,5,412863,10,0
+291480,291480,Warface,Warface 2016: Anubis,Jul 1 2014,62,24336,41,6385383,30,0
+291650,291650,Pillars of Eternity,Pillars of Eternity,Mar 26 2015,89,7812,13,829312,48,44.99
+291710,291710,The Lost Crown,The Lost Crown,Jun 6 2014,71,137,20,71919,34,9.99
+292030,292030,The Witcher 3: Wild Hunt,The Witcher(r) 3: Wild Hunt,May 18 2015,93,50325,14,2396290,78,39.99
+292400,292400,Unrest,Unrest,Jul 23 2014,65,115,11,25826,52,14.99
+292500,292500,Kero Blaster,Kero Blaster,Nov 11 2015,82,184,8,12375,10,9.99
+293260,293260,Card Hunter,Card Hunter,Jul 13 2015,80,2699,6,780888,50,0
+293660,293660,TRI: Of Friendship and Madness,TRI: Of Friendship and Madness,Oct 9 2014,74,232,22,24392,43,14.99
+293740,293740,Road Not Taken,Road Not Taken,Aug 5 2014,75,233,7,58109,20,14.99
+294370,294370,Crowntakers,Crowntakers,Nov 7 2014,70,234,8,61876,48,9.99
+294440,294440,Shadowgate,Shadowgate (2014),Aug 21 2014,68,414,16,110121,60,14.99
+294460,294460,Fenix Rage,Fenix Rage,Sep 24 2014,75,121,23,41609,35,14.99
+294750,294750,Anomaly Defenders,Anomaly Defenders,May 29 2014,70,143,12,55778,20,9.99
+295750,295750,The Floor is Jelly,The Floor is Jelly,May 30 2014,83,242,5,15962,7,9.99
+296070,296070,MIND Path to Thalamus E.Edition,MIND: Path to Thalamus Enhanced Edition,Aug 5 2014,75,953,10,120164,23,8.99
+296570,296570,Lords of Xulima,Lords of Xulima,Nov 14 2014,71,675,18,43223,15,19.99
+296630,296630,Kraven Manor,Kraven Manor,Sep 26 2014,58,275,12,172893,11,5.99
+296830,296830,Lucius II,Lucius II,Feb 13 2015,48,683,12,95414,65,19.99
+297000,297000,Heroes of Might & Magic III - HD Edition,Heroes(r) of Might & Magic(r) III - HD Edition,Jan 28 2015,65,2954,13,448553,13,14.99
+297060,297060,Freaking Meatbags,Freaking Meatbags,Feb 4 2015,69,113,13,33897,0,9.99
+297120,297120,Heavy Bullets,Heavy Bullets,Sep 18 2014,72,824,11,106175,17,9.99
+297130,297130,Titan Souls,Titan Souls,Apr 14 2015,74,2038,9,369998,27,14.99
+297350,297350,The Old City: Leviathan,The Old City: Leviathan,Dec 3 2014,62,471,9,37663,0,5.99
+297720,297720,Corpse of Discovery,Corpse of Discovery,Aug 25 2015,49,138,10,12554,0,7.99
+297760,297760,Qvadriga,Qvadriga,Jun 13 2014,72,159,12,25109,0,19.99
+297860,297860,Split/Second,Split/Second,Oct 6 2014,79,399,5,34076,0,19.99
+297920,297920,Space Colony,Space Colony: Steam Edition,Apr 30 2015,74,140,12,37305,26,14.99
+298030,298030,Total Annihilation,Total Annihilation,Dec 18 2015,86,636,7,72457,0,4.99
+298050,298050,Master of Orion,Master of Orion,Aug 25 2016,74,2104,15,143480,102,29.99
+298110,298110,Far Cry 4,Far Cry(r) 4,14-Nov,80,11878,5,813709,0,39.99
+298260,298260,Only If,Only If,Jul 25 2014,39,5511,9,1230518,10,0
+298520,298520,Orbital Gear,Orbital Gear,Aug 7 2014,59,1374,16,274226,12,9.99
+298600,298600,Lovely Planet,Lovely Planet,Jul 31 2014,61,1843,6,261671,14,5.99
+298630,298630,The Escapists,The Escapists,Feb 13 2015,71,9920,12,900694,37,17.99
+299030,299030,Blood: One Unit Whole Blood,Blood: One Unit Whole Blood,Jul 14 2014,82,563,5,35870,0,4.99
+299050,299050,Blood II: The Chosen + Expansion,Blood II: The Chosen + Expansion,Jul 14 2014,72,139,5,17397,0,4.99
+299360,299360,Block N Load,Block N Load,Apr 30 2015,72,9150,7,2169951,64,0
+299480,299480,Rogue Stormers,Rogue Stormers,Apr 21 2016,68,377,11,31386,44,19.99
+299680,299680,Tengami,Tengami,Jan 15 2015,57,905,6,56674,4,9.99
+300060,300060,ADR1FT,ADR1FT,Mar 28 2016,63,606,10,122137,22,19.99
+300340,300340,Lemma,Lemma,May 12 2015,73,196,7,24033,13,14.99
+300550,300550,Shadowrun: Dragonfall - Director's Cut,Shadowrun: Dragonfall - Directors Cut,Sep 18 2014,87,2557,7,663414,39,14.99
+300580,300580,GALAK-Z,GALAK-Z,Oct 29 2015,78,302,12,201410,35,9.99
+300610,300610,Pure Pool,Pure Pool,Jul 31 2014,68,184,11,9864,51,12.99
+301560,301560,White Night,White Night,Mar 3 2015,68,173,10,19011,33,14.99
+301640,301640,Zombie Army Trilogy,Zombie Army Trilogy,Mar 6 2015,72,3962,20,433847,68,44.99
+301650,301650,Battlezone 98 Redux,Battlezone 98 Redux,Apr 18 2016,75,316,11,23315,50,19.99
+301910,301910,Saints Row: Gat out of Hell,Saints Row: Gat out of Hell,Jan 20 2015,66,4481,10,488010,45,14.99
+301970,301970,Screencheat,Screencheat,Oct 21 2014,71,739,10,202306,34,14.99
+302010,302010,The Blue Flamingo,The Blue Flamingo,Nov 18 2014,55,421,6,117653,0,4.99
+302080,302080,Bus Driver,Bus Driver,Jun 3 2014,61,712,8,293775,0,9.99
+302510,302510,Ryse: Son of Rome,Ryse: Son of Rome,Oct 10 2014,61,9524,5,699643,73,19.99
+302710,302710,BlazeRush,BlazeRush,Oct 28 2014,66,724,9,75506,21,9.99
+303430,303430,Roundabout,Roundabout,Sep 18 2014,75,323,6,38381,40,9.99
+303550,303550,Adventures of Pip,Adventures of Pip,Jun 4 2015,72,127,8,19370,20,14.99
+303800,303800,The Witcher Adventure Game,The Witcher Adventure Game,Nov 27 2014,68,439,19,123034,37,9.99
+304030,304030,ArcheAge,ArcheAge,Mar 26 2015,80,3906,29,1111071,0,0
+304240,304240,Resident Evil / biohazard HD REMASTER,Resident Evil / biohazard HD REMASTER,Jan 19 2015,82,4024,8,266513,44,19.99
+304430,304430,INSIDE,INSIDE,Jul 7 2016,88,5625,9,220779,14,19.99
+304460,304460,Qora,Qora,Oct 2 2014,63,252,6,36229,40,9.99
+304650,304650,Sunless Sea,SUNLESS SEA,Feb 6 2015,81,3120,8,416988,30,18.99
+304730,304730,Train Fever,Train Fever,Sep 4 2014,67,2326,5,160877,39,29.99
+305050,305050,Outland,Outland,Sep 29 2014,83,815,10,258084,12,9.99
+305380,305380,Blue Estate,Blue Estate The Game,Apr 8 2015,59,624,5,46452,27,12.99
+306550,306550,Runers,Runers,Sep 2 2014,68,200,6,23315,50,9.99
+306660,306660,Ultimate General: Gettysburg,Ultimate General: Gettysburg,Oct 16 2014,84,1922,19,298617,3,14.99
+306760,306760,Obduction,Obduction (r),Aug 24 2016,78,774,5,58647,15,29.99
+307230,307230,"I, Zombie",I Zombie,Dec 8 2014,65,1446,10,132181,13,1.99
+307570,307570,A Golden Wake,A Golden Wake,Oct 9 2014,68,124,10,19011,18,9.99
+307580,307580,Technobabylon,Technobabylon,15-May,82,318,13,99539,40,14.99
+307590,307590,Penarium,Penarium,Sep 22 2015,80,181,14,75506,24,9.99
+307670,307670,Hard West,Hard West,Nov 18 2015,73,905,7,84115,35,19.99
+307780,307780,Mortal Kombat X,Mortal Kombat X,Apr 13 2015,76,15561,16,690137,73,29.99
+307960,307960,IL-2 Sturmovik: Battle of Stalingrad,IL-2 Sturmovik: Battle of Stalingrad,Oct 22 2014,74,752,29,48066,0,49.99
+308040,308040,Back to Bed,Back to Bed,Aug 6 2014,57,356,5,85191,20,5.99
+308270,308270,Buzz Aldrin's Space Program Manager,Buzz Aldrins Space Program Manager,Oct 31 2014,62,239,54,12554,19,29.99
+308420,308420,Ziggurat,Ziggurat,Oct 23 2014,76,1990,26,150295,38,14.99
+310080,310080,Hatoful Boyfriend,Hatoful Boyfriend,Sep 4 2014,68,4183,11,262926,16,9.99
+310470,310470,Grand Ages: Medieval,Grand Ages: Medieval,Sep 25 2015,63,1268,13,62414,50,29.99
+310490,310490,Crookz - The Big Heist,Crookz - The Big Heist,Aug 25 2015,74,103,14,14527,30,19.99
+310510,310510,Deathtrap,Deathtrap,Feb 4 2015,77,761,6,117653,47,19.99
+310560,310560,DiRT Rally,DiRT Rally,Dec 7 2015,86,9349,62,402640,170,59.99
+310740,310740,NEON STRUCT,NEON STRUCT,May 20 2015,62,128,6,46272,25,17.99
+310950,310950,Street Fighter V,Street Fighter V,Feb 15 2016,74,6575,53,219165,45,59.99
+311010,311010,The Way,The Way,May 20 2016,66,215,18,6277,29,14.99
+311040,311040,Rulers of Nations,Rulers of Nations,Jul 16 2014,63,109,11,10582,0,19.99
+311240,311240,Zero Escape: Zero Time Dilemma,Zero Escape: Zero Time Dilemma,Jun 29 2016,78,785,16,21343,33,39.99
+311340,311340,METAL GEAR SOLID V: GROUND ZEROES,METAL GEAR SOLID V: GROUND ZEROES,Dec 18 2014,80,7709,19,740714,16,19.99
+311480,311480,Vertical Drop Heroes HD,Vertical Drop Heroes HD,Jul 25 2014,70,602,10,238535,30,6.99
+311560,311560,Assassin's Creed Rogue,Assassins Creed(r) Rogue,Mar 9 2015,74,1966,5,203741,0,29.99
+311690,311690,Enter the Gungeon,Enter the Gungeon,Apr 5 2016,84,5968,21,484065,48,14.99
+312370,312370,"Warhammer 40,000: Armageddon",Warhammer 40000: Armageddon,Nov 26 2014,68,379,6,30489,0,39.99
+312450,312450,Order of Battle: World War II,Order of Battle: World War II,Apr 30 2015,81,371,7,124110,38,0
+312530,312530,Duck Game,Duck Game,Jun 4 2015,82,5996,9,326416,15,12.99
+312780,312780,Way of the Samurai 4,Way of the Samurai 4,Jul 23 2015,72,836,20,65104,50,24.99
+313010,313010,Cities XXL,Cities XXL,Feb 5 2015,47,1501,7,108686,27,29.99
+313080,313080,The Masterplan,The Masterplan,Jun 4 2015,68,391,16,94697,14,19.99
+313130,313130,Metrocide,Metrocide,Dec 15 2014,68,130,6,49142,33,12.99
+313160,313160,Farming Simulator 15,Farming Simulator 15,Oct 30 2014,64,8388,9,648887,16,24.99
+313500,313500,Blitzkrieg 2 Anthology,Blitzkrieg 2 Anthology,Sep 16 2014,75,268,11,76762,0,4.99
+313630,313630,The Solus Project,The Solus Project,Jun 7 2016,68,994,7,100615,43,19.99
+314180,314180,Deathsmiles,Deathsmiles,Mar 10 2016,78,158,10,18473,48,19.99
+314410,314410,Rampage Knights,Rampage Knights,Sep 4 2015,80,1251,15,102229,81,11.99
+314660,314660,Oddworld: New 'n' Tasty,Oddworld: New n Tasty,Feb 25 2015,87,1379,12,191904,35,19.99
+314710,314710,Mighty No. 9,Mighty No. 9,Jun 21 2016,51,1579,10,52191,70,19.99
+314810,314810,Randal's Monday,Randals Monday,Nov 12 2014,57,424,13,55598,21,19.99
+314830,314830,Blackguards 2,Blackguards 2,Jan 20 2015,74,433,10,181681,50,34.99
+315260,315260,Space Hack,Space Hack,Aug 5 2014,63,656,6,566207,0,4.99
+315440,315440,TRON: Evolution,Disney TRON: Evolution,Oct 6 2014,57,154,5,17038,0,19.99
+316790,316790,Grim Fandango Remastered,Grim Fandango Remastered,Jan 26 2015,84,2330,6,587908,47,14.99
+316890,316890,Calvino Noir,Calvino Noir,Aug 27 2015,55,126,6,13451,40,14.99
+317620,317620,Space Hulk Ascension,Space Hulk Ascension,Nov 12 2014,72,493,9,59903,163,29.99
+317820,317820,Guild of Dungeoneering,Guild of Dungeoneering,Jul 14 2015,72,794,5,85908,49,14.99
+317940,317940,Karmaflow: The Rock Opera Videogame,Karmaflow: The Rock Opera Videogame - Act I & Act II,May 6 2015,47,152,14,22239,14,4.99
+318020,318020,Act of Aggression,Act of Aggression - Reboot Edition,Sep 2 2015,71,1615,6,133257,85,44.99
+318230,318230,Convoy,Convoy,Apr 21 2015,72,560,9,54164,29,14.99
+318600,318600,The Flame in the Flood,The Flame in the Flood,Feb 24 2016,73,710,10,106175,36,19.99
+319050,319050,Chaos Reborn,Chaos Reborn,Oct 26 2015,85,737,26,58289,34,19.99
+319450,319450,Chariot,Chariot,Nov 12 2014,76,140,10,45555,46,14.99
+319480,319480,Odallus: The Dark Call,Odallus: The Dark Call,Jul 15 2015,80,275,17,104023,29,14.99
+319510,319510,Five Nights at Freddy's,Five Nights at Freddys,Aug 19 2014,78,16575,10,871818,0,4.99
+319740,319740,There Came an Echo,There Came an Echo,Feb 24 2015,58,283,7,29055,16,14.99
+319970,319970,The Detail,The Detail,Oct 28 2014,77,362,8,68512,55,5.99
+320040,320040,Moon Hunters,Moon Hunters,Mar 10 2016,62,376,13,42865,41,14.99
+320140,320140,Absolute Drift,Absolute Drift,Jul 29 2015,66,1144,7,127876,20,11.99
+320300,320300,Car Mechanic Simulator 2015,Car Mechanic Simulator 2015,Apr 23 2015,68,3420,17,356368,0,19.99
+320820,320820,Toren,Toren,May 11 2015,57,637,6,50577,12,9.99
+320840,320840,Wings! Remastered Edition,Wings! Remastered Edition,Oct 17 2014,61,251,6,28158,12,14.99
+321040,321040,DiRT 3 Complete Edition,DiRT 3 Complete Edition,Apr 1 2015,86,4529,6,3542513,60,29.99
+321110,321110,Fist of Jesus,Fist of Jesus,Oct 17 2014,63,527,37,59544,30,9.99
+321800,321800,Icewind Dale: Enhanced Edition,Icewind Dale: Enhanced Edition,Oct 30 2014,80,368,8,119088,0,19.99
+321870,321870,Silence of the Sleep,Silence of the Sleep,Oct 1 2014,66,275,9,78914,0,16.99
+322190,322190,SteamWorld Heist,SteamWorld Heist,Jun 7 2016,83,335,10,26185,47,19.99
+322210,322210,"Guns, Gore & Cannoli",Guns Gore & Cannoli,Apr 30 2015,74,727,11,32821,21,9.99
+322330,322330,Don't Starve Together,Dont Starve Together,Apr 21 2016,83,36471,13,5347487,0,14.99
+322500,322500,SUPERHOT,SUPERHOT,Feb 25 2016,82,6264,15,288573,25,24.99
+322600,322600,PURE,Pure,Oct 6 2014,80,112,5,14348,0,19.99
+322680,322680,BLACKHOLE,BLACKHOLE,Feb 27 2015,82,355,22,21522,45,8.99
+322900,322900,"War, the Game",War the Game,Jan 12 2015,65,307,6,30489,28,6.99
+322910,322910,"Warhammer 40,000: Regicide",Warhammer 40000: Regicide,Sep 8 2015,72,1290,15,106892,35,14.99
+322920,322920,theHunter: Primal,theHunter: Primal,Mar 31 2015,49,3112,6,155137,70,9.99
+322970,322970,Subject 13,Subject 13,May 28 2015,59,103,7,30310,8,9.99
+323060,323060,Tharsis,Tharsis,Jan 11 2016,61,1419,6,277095,12,14.99
+323320,323320,Grow Home,Grow Home,Feb 4 2015,75,3217,21,407303,26,7.99
+323370,323370,TERA,TERA,May 5 2015,77,9834,14,3773336,0,0
+323380,323380,The Magic Circle,The Magic Circle,Jul 9 2015,79,719,10,101691,14,19.99
+323580,323580,Jotun,Jotun: Valhalla Edition,Sep 29 2015,79,788,11,101871,36,14.99
+323720,323720,Decay - The Mare,Decay: The Mare,Feb 13 2015,60,474,10,67435,42,9.99
+323850,323850,Move or Die,Move or Die,Jan 21 2016,80,2307,21,201948,73,14.99
+324160,324160,CLANNAD,CLANNAD,Nov 23 2015,83,620,11,32821,22,49.99
+324260,324260,VoidExpanse,VoidExpanse,Apr 2 2015,59,480,10,28517,35,14.99
+324650,324650,Gemini: Heroes Reborn,Gemini: Heroes Reborn,Jan 18 2016,54,144,12,13451,21,14.99
+324680,324680,Impossible Creatures,Impossible Creatures Steam Edition,Nov 11 2015,72,380,22,46631,0,9.99
+325370,325370,Nova-111,Nova-111,Aug 25 2015,68,102,9,89854,11,8.99
+325520,325520,Fire,Fire,Apr 9 2015,64,228,12,17935,27,9.99
+325600,325600,Sword Coast Legends,Sword Coast Legends,Oct 19 2015,61,2754,29,135050,39,19.99
+325610,325610,Total War: ATTILA,Total War: ATTILA,Feb 17 2015,80,10270,11,857470,118,44.99
+326410,326410,Windward,Windward,May 12 2015,61,1781,22,196567,31,9.99
+326670,326670,Warhammer Quest,Warhammer Quest,Jan 7 2015,55,490,12,62055,53,14.99
+327030,327030,Worms W.M.D,Worms W.M.D,Aug 23 2016,79,681,7,56674,29,29.99
+327220,327220,Anna's Quest,Annas Quest,Jul 2 2015,74,299,11,42147,39,19.99
+327310,327310,The Marvellous Miss Take,The Marvellous Miss Take,Nov 20 2014,69,210,9,52191,19,19.99
+327410,327410,A Bird Story,A Bird Story,Nov 7 2014,66,4324,6,234769,1,3.99
+327510,327510,WASTED,WASTED,Jun 7 2016,68,541,17,100974,21,12.99
+327670,327670,Ironcast,Ironcast,Mar 26 2015,75,489,7,25288,30,14.99
+327740,327740,Tron 2.0,Tron 2.0,Oct 10 2014,84,219,11,31207,0,9.99
+327880,327880,Sublevel Zero,Sublevel Zero,Oct 8 2015,70,314,6,12734,25,14.99
+327890,327890,I am Bread,I am Bread,Apr 9 2015,60,4066,20,486755,35,12.99
+328600,328600,Frozen Synapse Prime,Frozen Synapse Prime,Nov 14 2014,83,236,6,95055,30,24.99
+328730,328730,Letter Quest: Grimm's Journey,Letter Quest: Grimms Journey,Nov 20 2014,73,292,6,73713,52,0
+328940,328940,The Deer God,The Deer God,Feb 27 2015,59,347,7,46272,30,14.99
+329460,329460,JumpJet Rex,JumpJet Rex,Apr 21 2015,76,270,8,94517,51,9.99
+329490,329490,Phantom Breaker: Battle Grounds,Phantom Breaker: Battle Grounds,Jan 23 2015,64,1639,13,144914,38,11.99
+330180,330180,Pix the Cat,Pix the Cat,Jan 29 2015,77,208,5,72099,11,9.99
+330270,330270,Warlocks vs Shadows,Warlocks vs Shadows,Aug 19 2015,68,262,10,26364,21,13.99
+330390,330390,Grandia II Anniversary Edition,Grandia(r) II Anniversary Edition,Aug 24 2015,80,744,7,64566,36,19.99
+330820,330820,Read Only Memories,Read Only Memories,Oct 6 2015,80,447,10,117295,64,19.99
+332200,332200,Axiom Verge,Axiom Verge,May 14 2015,80,1497,13,93979,29,19.99
+332250,332250,The Next Penelope,The Next Penelope,May 29 2015,82,161,8,26364,23,12.99
+332800,332800,Five Nights at Freddy's 2,Five Nights at Freddys 2,Nov 10 2014,62,8828,6,473662,0,7.99
+333830,333830,Franchise Hockey Manager 2,Franchise Hockey Manager 2,Sep 28 2015,79,102,15,7891,0,19.99
+333930,333930,Dirty Bomb,Dirty Bomb(r),15-Jun,63,29390,11,5819535,18,0
+334070,334070,Hektor,Hektor,Mar 13 2015,55,352,9,154779,17,9.99
+334120,334120,Armikrog,Armikrog,Sep 30 2015,57,775,7,26544,0,24.99
+335000,335000,Tormentum - Dark Sorrow,Tormentum - Dark Sorrow,Mar 4 2015,72,808,7,34614,34,11.99
+335300,335300,DARK SOULS™ II: Scholar of the First Sin,DARK SOULS(tm) II: Scholar of the First Sin,Apr 1 2015,80,12479,14,950553,38,39.99
+335670,335670,LISA,LISA,Dec 15 2014,78,3620,9,199975,68,9.99
+336080,336080,Vietnam ‘65,Vietnam 65,Mar 5 2015,81,144,7,13093,51,9.99
+336130,336130,Shardlight,Shardlight,Mar 8 2016,75,115,6,6457,19,14.99
+336420,336420,Bloodsports.TV,Bloodsports.TV,Mar 30 2015,69,282,6,68153,57,9.99
+337000,337000,Deus Ex: Mankind Divided™,Deus Ex: Mankind Divided,Aug 23 2016,82,9101,23,429004,58,59.99
+338140,338140,Venetica,Venetica - Gold Edition,Jan 23 2015,61,156,5,30131,0,9.99
+339190,339190,Dead Synchronicity: Tomorrow Comes Today,Dead Synchronicity: Tomorrow Comes Today,Apr 10 2015,70,256,15,35511,24,19.99
+339200,339200,Oceanhorn: Monster of Uncharted Seas,Oceanhorn: Monster of Uncharted Seas,Mar 17 2015,73,986,12,175942,63,14.99
+339230,339230,ZOMBI,ZOMBI,Aug 18 2015,65,953,5,57033,20,19.99
+340000,340000,Headlander,Headlander,Jul 25 2016,76,142,6,15245,31,19.99
+340170,340170,FINAL FANTASY TYPE-0 HD,FINAL FANTASY TYPE-0(tm) HD,Aug 18 2015,69,1876,15,138637,49,29.99
+341800,341800,Keep Talking and Nobody Explodes,Keep Talking and Nobody Explodes,Oct 8 2015,67,2613,5,422189,10,14.99
+341940,341940,Hatred,Hatred,Jun 1 2015,43,4120,22,128773,74,8.99
+343100,343100,Overture,Overture,Feb 2 2015,76,683,8,162491,4,4.99
+343710,343710,KHOLAT,Kholat,Jun 9 2015,64,1123,13,329106,20,19.99
+344410,344410,Magnetic: Cage Closed,Magnetic: Cage Closed,May 26 2015,61,139,17,22777,29,14.99
+344500,344500,Three Fourths Home: Extended Edition,Three Fourths Home: Extended Edition,Mar 20 2015,77,134,13,20984,8,4.99
+344850,344850,Big Pharma,Big Pharma,Aug 27 2015,72,639,12,187958,25,24.99
+345180,345180,Victor Vran,Victor Vran ARPG,Jul 24 2015,75,1928,8,297720,50,19.99
+345660,345660,RIDE: Game,RIDE,Mar 27 2015,68,906,12,42506,50,39.99
+346940,346940,Shadowrun: Hong Kong - Extended Edition,Shadowrun: Hong Kong - Extended Edition,Aug 20 2015,81,1422,14,244812,60,19.99
+347440,347440,Pneuma: Breath of Life,Pneuma: Breath of Life,Feb 27 2015,63,128,14,18473,12,19.99
+347830,347830,Fairy Fencer F,Fairy Fencer F,Aug 4 2015,66,1623,17,114066,29,29.99
+350080,350080,Wolfenstein: The Old Blood ,Wolfenstein: The Old Blood,May 4 2015,76,3480,13,458776,50,19.99
+350110,350110,TransOcean 2: Rivals,TransOcean 2: Rivals,May 10 2016,69,306,12,19549,25,24.99
+350740,350740,The Bug Butcher,The Bug Butcher,Jan 19 2016,81,700,10,40712,31,7.99
+350970,350970,Planet of the Eyes,Planet of the Eyes,Aug 24 2015,66,208,9,68332,14,9.99
+351910,351910,Valhalla Hills,Valhalla Hills,Dec 2 2015,69,343,12,28158,26,29.99
+351940,351940,The Descendant,The Descendant,Mar 24 2016,59,109,15,12196,30,2.99
+351970,351970,Tales of Zestiria,Tales of Zestiria,Oct 19 2015,77,2937,10,239432,56,49.99
+352400,352400,LEGO® Jurassic World,LEGO(r) Jurassic World,Jun 11 2015,72,1659,9,218806,49,29.99
+353540,353540,Stephen's Sausage Roll,Stephens Sausage Roll,Apr 17 2016,90,132,8,3946,0,29.99
+353640,353640,Train Valley,Train Valley,Sep 16 2015,69,423,10,102588,39,9.99
+353700,353700,The Deadly Tower of Monsters,The Deadly Tower of Monsters,Jan 19 2016,73,378,20,30131,25,14.99
+354140,354140,Five Nights at Freddy's 3,Five Nights at Freddys 3,Mar 2 2015,68,5803,5,320139,0,7.99
+354160,354160,WRC 5,WRC 5 FIA World Rally Championship,Oct 8 2015,65,364,10,27082,37,39.99
+354400,354400,Tadpole Treble,Tadpole Treble,Sep 2 2016,90,114,8,3228,12,9.99
+354650,354650,MISSING: An Interactive Thriller - Episode One,MISSING: An Interactive Thriller - Episode One,May 25 2015,63,567,7,33359,17,0
+355530,355530,Last Word,Last Word,May 8 2015,67,178,8,81604,9,9.99
+355800,355800,Space Run Galaxy,Space Run Galaxy,Jun 17 2016,77,334,7,17038,30,19.99
+356040,356040,Sheltered,Sheltered,Mar 15 2016,62,1676,14,218448,18,14.99
+356050,356050,Beyond Eyes,Beyond Eyes,Aug 11 2015,60,340,6,98463,10,14.99
+356420,356420,Interloper,Interloper,May 21 2015,77,201,6,19908,20,11.99
+356570,356570,Party Hard,Party Hard,Aug 25 2015,66,2456,11,264182,27,12.89
+357340,357340,Cobalt,Cobalt,Feb 2 2016,69,487,8,26544,84,19.99
+357720,357720,Inside My Radio,Inside My Radio,May 11 2015,68,182,15,20805,25,14.99
+358090,358090,D4: Dark Dreams Don't Die,D4: Dark Dreams Dont Die -Season One-,Jun 5 2015,67,997,20,75686,78,14.99
+358830,358830,Good Robot,Good Robot,Apr 5 2016,69,128,8,3228,32,9.99
+359220,359220,MX vs. ATV Unleashed,MX vs. ATV Unleashed,Apr 16 2015,71,157,5,23495,0,9.99
+359230,359230,Lethis - Path of Progress,Lethis - Path of Progress,Jun 25 2015,65,394,9,23315,50,19.99
+359320,359320,Elite Dangerous,Elite Dangerous,Apr 2 2015,80,17106,20,905177,0,29.99
+359580,359580,Uncanny Valley,Uncanny Valley,Apr 23 2015,67,235,7,136664,18,9.99
+359900,359900,The Incredible Adventures of Van Helsing III,The Incredible Adventures of Van Helsing III,May 22 2015,64,459,17,77300,61,14.99
+360510,360510,Into the Stars,Into the Stars,Mar 4 2016,61,333,21,21343,17,19.99
+360740,360740,Downwell,Downwell,Oct 15 2015,84,2302,5,190290,20,2.99
+361300,361300,Mother Russia Bleeds,Mother Russia Bleeds,Sep 5 2016,72,682,7,41609,33,14.99
+361550,361550,Cradle,Cradle,Jul 24 2015,65,844,9,23853,25,12.99
+361990,361990,Lakeview Cabin Collection,Lakeview Cabin Collection,Apr 9 2015,70,501,7,43403,39,9.99
+362680,362680,Fran Bow,Fran Bow,Aug 27 2015,70,1639,15,164464,18,14.99
+362890,362890,Black Mesa,Black Mesa,May 5 2015,86,5739,15,321036,25,19.99
+363420,363420,Leap of Fate,Leap of Fate,Mar 30 2016,80,132,7,8429,50,15.99
+363440,363440,Mega Man Legacy Collection,Mega Man Legacy Collection / rotsukuman kurashitsukusu korekushiyon,Aug 24 2015,85,876,7,71740,24,14.99
+363520,363520,Goliath,Goliath,May 12 2016,57,177,8,10940,41,19.99
+363600,363600,Holy Potatoes! A Weapon Shop?!,Holy Potatoes! A Weapon Shop?!,Jul 13 2015,69,754,20,128235,50,14.99
+363680,363680,Battlefleet Gothic: Armada,Battlefleet Gothic: Armada,Apr 21 2016,77,2429,7,195670,45,39.99
+364360,364360,Total War: WARHAMMER,Total War: WARHAMMER,May 24 2016,86,18583,16,979428,154,59.99
+364390,364390,Downfall,Downfall,Feb 15 2016,75,227,12,5739,30,13.99
+365450,365450,Hacknet,Hacknet,Aug 12 2015,82,3577,13,301487,11,9.99
+365660,365660,OlliOlli2: Welcome to Olliwood,OlliOlli2: Welcome to Olliwood,Aug 11 2015,82,223,9,61696,27,14.99
+365770,365770,Volume,Volume,Aug 18 2015,80,265,15,181681,24,19.99
+365890,365890,Heroes of Normandie,Heroes of Normandie,Oct 1 2015,65,123,14,8967,0,29.99
+366320,366320,Seasons after Fall,Seasons after Fall,Sep 2 2016,76,219,9,34794,21,14.99
+366970,366970,Mighty Switch Force! Hyper Drive Edition,Mighty Switch Force! Hyper Drive Edition,Jun 25 2015,85,165,6,12375,14,9.99
+367450,367450,Poly Bridge,Poly Bridge,Jul 12 2016,73,1117,6,260416,22,11.99
+367500,367500,Dragon's Dogma: Dark Arisen,Dragons Dogma: Dark Arisen,Jan 15 2016,81,5853,17,579299,59,29.99
+367600,367600,Skyshine's BEDLAM,Skyshines BEDLAM,Sep 16 2015,67,573,20,41968,21,19.99
+368370,368370,Her Story,Her Story,Jun 24 2015,86,2975,5,268486,13,5.99
+368500,368500,Assassin's Creed Syndicate,Assassins Creed(r) Syndicate,Nov 18 2015,74,3808,13,234589,0,39.99
+368740,368740,Obliteracers,Obliteracers,Feb 23 2016,78,153,18,7712,13,14.99
+369070,369070,Slain: Back from Hell,Slain: Back from Hell,Mar 24 2016,75,601,13,21701,30,12.99
+369110,369110,The Swindle,The Swindle,Jul 28 2015,70,290,8,13810,15,14.99
+369550,369550,Blacksea Odyssey,Blacksea Odyssey,Jun 1 2016,71,101,9,14527,19,9.99
+369990,369990,"Gremlins, Inc.",Gremlins Inc.,Mar 10 2016,74,860,26,47348,87,14.99
+370910,370910,Kathy Rain,Kathy Rain,May 5 2016,77,165,8,78555,20,14.99
+371660,371660,Far Cry Primal,Far Cry(r) Primal,Feb 29 2016,74,5235,10,265975,0,59.99
+373420,373420,Divinity: Original Sin Enhanced Edition,Divinity: Original Sin - Enhanced Edition,Oct 27 2015,94,2900,7,1206305,54,39.99
+373720,373720,Ryzom,Ryzom,May 6 2016,64,221,45,126441,3,0
+373920,373920,Eisenhorn: XENOS,Eisenhorn: XENOS,Aug 8 2016,48,117,14,3766,26,19.99
+374060,374060,Stairs,Stairs,Sep 28 2015,65,119,9,7174,15,12.99
+374320,374320,DARK SOULS III,DARK SOULS(tm) III,Apr 11 2016,89,26844,10,1230159,43,59.99
+375400,375400,ICY,ICY,Jul 27 2015,56,168,7,6995,0,12.99
+375820,375820,Human Resource Machine,Human Resource Machine,Oct 15 2015,78,1128,10,161953,16,9.99
+375910,375910,Anno 2205,Anno 2205(tm),Nov 2 2015,72,1750,13,94697,183,39.99
+375950,375950,Viridi,Viridi,Aug 19 2015,46,3637,16,568897,47,0
+375960,375960,Pro Evolution Soccer 2016,Pro Evolution Soccer 2016,Sep 16 2015,76,3086,5,156752,0,19.99
+376140,376140,SAGA,SAGA,Aug 4 2015,61,108,9,99360,0,0
+376300,376300,GUILTY GEAR Xrd -SIGN-,GUILTY GEAR Xrd -SIGN-,Dec 9 2015,84,1588,8,87702,48,29.99
+376570,376570,WildStar,WildStar,Jun 9 2016,82,2384,12,866258,133,0
+377080,377080,Hatoful Boyfriend: Holiday Star,Hatoful Boyfriend: Holiday Star,Dec 15 2015,54,192,18,43223,13,9.99
+377160,377160,Fallout 4,Fallout 4,Nov 9 2015,84,72929,22,3866060,84,59.99
+377840,377840,FINAL FANTASY IX,FINAL FANTASY IX,Apr 14 2016,84,1840,7,181860,85,20.99
+377860,377860,Mushihimesama,Mushihimesama,Nov 12 2015,86,535,20,33718,50,19.99
+378120,378120,Football Manager 2016,Football Manager 2016,Nov 12 2015,81,4141,14,1090804,107,49.99
+378660,378660,Blues and Bullets,Blues and Bullets,Jul 22 2015,73,825,12,36049,14,4.99
+378720,378720,Thea: The Awakening,Thea: The Awakening,Nov 20 2015,73,1219,9,84832,31,19.99
+379720,379720,DOOM,DOOM,May 12 2016,85,23915,11,1392829,38,59.99
+380150,380150,STASIS,STASIS,Aug 31 2015,79,676,11,32104,27,19.99
+380220,380220,Hover Junkers,Hover Junkers,Apr 5 2016,78,553,13,41071,9,34.99
+381210,381210,Dead by Daylight,Dead by Daylight,Jun 14 2016,71,30933,13,1373638,56,19.99
+381780,381780,80 Days,80 Days,Sep 28 2015,84,403,9,79990,35,9.99
+381990,381990,Dragon Saga,Dragon Saga,Dec 22 2015,65,504,5,255932,117,0
+382120,382120,Journey To The Center Of The Earth,Journey To The Center Of The Earth,Sep 25 2015,65,254,11,270280,0,3.99
+382140,382140,SKYHILL,SKYHILL,Oct 6 2015,63,490,10,31745,46,14.99
+382420,382420,E.T. Armies,E.T. Armies,Mar 3 2016,54,124,8,6636,21,14.99
+383870,383870,Firewatch,Firewatch,Feb 9 2016,81,16098,7,482630,5,19.99
+384000,384000,Cross of the Dutchman,Cross of the Dutchman,Sep 10 2015,59,207,9,22598,31,8.99
+384110,384110,Pathologic Classic HD,Pathologic Classic HD,Oct 29 2015,76,292,10,37843,42,12.99
+384190,384190,ABZU,ABZU,Aug 2 2016,84,2987,6,125545,12,19.99
+384630,384630,Aviary Attorney,Aviary Attorney,Dec 21 2015,77,432,5,21881,0,14.99
+385710,385710,INK,INK,Aug 5 2015,68,896,13,196567,16,4.99
+385730,385730,WWE 2K16,WWE 2K16,Mar 10 2016,74,1742,13,164643,55,49.99
+386360,386360,SMITE,SMITE,Sep 8 2015,83,18333,13,4652328,201,0
+387290,387290,Ori and the Blind Forest: Definitive Edition,Ori and the Blind Forest: Definitive Edition,Apr 27 2016,88,1407,20,224904,57,19.99
+388060,388060,The Escapists: The Walking Dead,The Escapists: The Walking Dead,Sep 30 2015,66,321,18,74968,24,17.99
+388090,388090,Five Nights at Freddy's 4,Five Nights at Freddys 4,Jul 23 2015,51,6870,5,289112,0,7.99
+388210,388210,Day of the Tentacle Remastered,Day of the Tentacle Remastered,Mar 21 2016,86,661,13,161773,58,14.99
+388320,388320,1979 Revolution: Black Friday,1979 Revolution: Black Friday,Apr 4 2016,80,201,5,16141,39,11.99
+388420,388420,In Between,In Between,Aug 21 2015,68,189,9,57392,16,11.99
+388880,388880,Oxenfree,Oxenfree,Jan 14 2016,80,1314,17,217730,13,19.99
+390290,390290,Bulb Boy,Bulb Boy,Oct 29 2015,84,203,13,51653,12,8.99
+390610,390610,Circa Infinity,Circa Infinity,Sep 8 2015,80,105,10,5560,75,9.99
+390720,390720,Anarcute,Anarcute,Jul 12 2016,79,119,10,7353,25,14.99
+390730,390730,Sora,Sora,Jan 5 2016,74,124,11,6098,34,8.99
+391040,391040,F1 2016,F1 2016,Aug 18 2016,86,1275,8,116936,49,59.99
+391220,391220,Rise of the Tomb Raider,Rise of the Tomb Raider(tm),Jan 28 2016,86,16385,7,1186398,113,59.99
+391540,391540,Undertale,Undertale,Sep 15 2015,92,60314,7,2105743,0,9.99
+391720,391720,Layers of Fear,Layers of Fear,Feb 15 2016,72,4956,9,168589,27,19.99
+391730,391730,Crashlands,Crashlands,Jan 21 2016,78,856,8,45555,30,14.99
+392470,392470,NOBUNAGA'S AMBITION: Sphere of Influence,NOBUNAGAS AMBITION: Sphere of Influence,Sep 1 2015,70,339,17,23495,0,59.99
+394230,394230,Battleborn,Battleborn,May 2 2016,69,5361,6,304536,53,59.99
+394310,394310,Punch Club,Punch Club,Jan 8 2016,73,3664,8,457341,47,9.99
+394360,394360,Hearts of Iron IV,Hearts of Iron IV,Jun 6 2016,83,4693,7,391879,30,39.99
+394450,394450,"Warhammer 40,000: Deathwatch - Enhanced Edition",Warhammer 40000: Deathwatch - Enhanced Edition,Oct 16 2015,74,277,20,18832,66,14.99
+394510,394510,HELLDIVERS™,HELLDIVERS(tm),Dec 7 2015,83,5774,10,317090,39,19.99
+394760,394760,Dead Effect 2,Dead Effect 2,May 6 2016,53,317,28,30669,177,11.99
+394970,394970,DEADBOLT,DEADBOLT,Mar 14 2016,76,810,6,34076,24,9.99
+395170,395170,DISTRAINT,DISTRAINT,Oct 21 2015,76,220,9,143300,16,4.99
+395350,395350,Doors,Doors,Feb 12 2016,40,246,5,8609,7,4.99
+395570,395570,We Are The Dwarves,We Are The Dwarves,Feb 25 2016,60,198,13,15424,36,24.99
+396090,396090,Rogue State,Rogue State,Oct 16 2015,66,150,13,16859,22,12.99
+396310,396310,Masochisia,Masochisia,Oct 9 2015,68,165,10,5560,0,7.99
+397340,397340,SimplePlanes,SimplePlanes,Dec 17 2015,67,2763,10,136844,70,12.99
+397350,397350,Lords of the Realm II,Lords of the Realm II,Dec 3 2015,77,180,7,30131,0,2.99
+398180,398180,Euclidean,Euclidean,Sep 25 2015,62,133,6,9326,13,4.99
+398850,398850,Epistory - Typing Chronicles,Epistory - Typing Chronicles,Mar 30 2016,75,496,33,91289,55,14.99
+399120,399120,Prospekt,Prospekt,Feb 18 2016,43,706,46,17576,0,9.99
+400110,400110,Else Heart.Break(),Else Heart.Break(),Sep 24 2015,79,185,12,110300,0,24.99
+400160,400160,Concrete Jungle,Concrete Jungle,Sep 23 2015,76,213,16,28517,13,12.99
+400170,400170,The Incredible Adventures of Van Helsing: Final Cut,The Incredible Adventures of Van Helsing: Final Cut,Nov 6 2015,79,604,6,148143,50,44.99
+400180,400180,Okhlos,Okhlos,Aug 18 2016,72,134,28,13272,38,12.99
+401360,401360,The Aquatic Adventure of the Last Human,The Aquatic Adventure of the Last Human,Jan 19 2016,76,140,9,7891,21,9.99
+401680,401680,POSTAL Redux,POSTAL Redux,May 20 2016,54,281,8,18652,16,8.99
+401890,401890,ARSLAN: THE WARRIORS OF LEGEND,ARSLAN: THE WARRIORS OF LEGEND,Feb 9 2016,57,114,5,6098,41,59.99
+402020,402020,The Park,The Park,Oct 27 2015,67,1651,7,53446,14,12.99
+402040,402040,The Guest,The Guest,Mar 10 2016,69,230,10,15962,20,9.99
+402060,402060,Californium,Californium,Feb 17 2016,64,114,5,8609,8,9.99
+402430,402430,Out of the Park Baseball 17,Out of the Park Baseball 17,Mar 22 2016,92,283,19,89675,63,39.99
+402630,402630,The Coma,The Coma: Cutting Class,Oct 19 2015,69,216,7,5560,0,9.99
+403190,403190,Planetbase,Planetbase,Oct 15 2015,70,3094,31,227774,30,19.99
+403940,403940,Dungelot : Shattered Lands,Dungelot: Shattered Lands,Feb 18 2016,78,300,15,21701,57,9.99
+405640,405640,Pony Island,Pony Island,Jan 4 2016,86,3554,10,158366,20,4.99
+405900,405900,Disgaea PC,Disgaea PC,Feb 24 2016,74,1406,15,99180,30,19.99
+406130,406130,DarkMaus,DarkMaus,Jan 26 2016,83,229,5,11478,0,9.99
+406720,406720,Alekhine's Gun,Alekhines Gun,Mar 11 2016,40,148,9,4125,28,39.99
+407510,407510,Devilian,Devilian,Dec 10 2015,63,1731,8,390265,0,0
+407810,407810,Hard Reset Redux,Hard Reset Redux,Jun 3 2016,73,401,10,63310,115,19.99
+408120,408120,Cibele,Cibele,Nov 2 2015,71,1036,5,87702,0,8.99
+408760,408760,Pro Cycling Manager 2016,Pro Cycling Manager 2016,Jun 16 2016,64,183,6,40712,47,39.99
+409450,409450,The Fall of the Dungeon Guardians,The Fall of the Dungeon Guardians,Nov 6 2015,71,185,9,12734,45,19.99
+410110,410110,12 is Better Than 6,12 is Better Than 6,Nov 20 2015,74,950,5,63848,46,9.99
+410380,410380,HEX: Shards of Fate,HEX: Shards of Fate,Apr 19 2016,87,1026,9,199616,0,0
+410710,410710,System Shock: Enhanced Edition,System Shock: Enhanced Edition,Oct 22 2015,85,200,12,60082,0,9.99
+411000,411000,Sorcery! Parts 1 & 2,Sorcery! Parts 1 and 2,Feb 2 2016,69,121,11,71560,0,9.99
+411830,411830,SENRAN KAGURA SHINOVI VERSUS,SENRAN KAGURA SHINOVI VERSUS,Jun 1 2016,70,1464,11,54702,49,29.99
+412830,412830,STEINS;GATE,STEINS;GATE,Sep 8 2016,87,416,6,14527,42,34.99
+413150,413150,Stardew Valley,Stardew Valley,Feb 26 2016,88,28507,15,1879942,40,14.99
+413410,413410,Danganronpa: Trigger Happy Havoc,Danganronpa: Trigger Happy Havoc,Feb 18 2016,83,1726,9,82501,38,29.99
+413420,413420,Danganronpa 2: Goodbye Despair,Danganronpa 2: Goodbye Despair,Apr 18 2016,84,997,13,72099,47,29.99
+415350,415350,Shooting Stars!,Shooting Stars!,Jan 19 2016,59,117,9,17576,31,4.99
+415740,415740,OmniBus,OmniBus,May 26 2016,55,111,10,5022,37,9.99
+416680,416680,Zombie Night Terror,Zombie Night Terror,Jul 20 2016,81,301,17,27440,33,12.99
+417880,417880,Everybody's Gone to the Rapture,Everybodys Gone to the Rapture,Apr 14 2016,76,364,5,17935,18,19.99
+418250,418250,Polaris Sector,Polaris Sector,Mar 22 2016,76,239,12,8967,0,39.99
+419460,419460,"That Dragon, Cancer",That Dragon Cancer,Jan 11 2016,78,582,16,27261,0,14.99
+421050,421050,Deponia Doomsday,Deponia Doomsday,Mar 1 2016,76,1095,12,122496,36,29.99
+421120,421120,Samorost 3,Samorost 3,Mar 24 2016,80,548,11,38381,30,19.99
+422970,422970,Devil Daggers,Devil Daggers,Feb 18 2016,83,1855,6,215578,1,4.99
+423230,423230,Furi,Furi,Jul 5 2016,75,534,10,32642,33,24.99
+423580,423580,Project Highrise,Project Highrise,Sep 8 2016,74,315,7,55957,78,19.99
+426790,426790,Grow Up,Grow Up,Aug 16 2016,71,432,12,37663,18,9.99
+427660,427660,NightCry,NightCry,Mar 28 2016,46,136,18,3946,16,24.99
+427810,427810,CALENDULA,CALENDULA,Feb 2 2016,70,191,14,4663,8,6.99
+427820,427820,Hitman GO: Definitive Edition,Hitman GO: Definitive Edition,Feb 23 2016,72,258,7,23495,26,7.99
+428220,428220,TurnOn,TurnOn,Jun 1 2016,67,135,25,2870,82,14.99
+428750,428750,Neon Chrome,Neon Chrome,Apr 28 2016,74,165,19,8609,14,14.99
+429680,429680,Spellweaver,Spellweaver,Feb 1 2016,63,916,8,194774,20,0
+431250,431250,Mushroom Wars,Mushroom Wars,Apr 7 2016,80,126,9,13989,15,9.99
+433280,433280,Warlords Battlecry III,Warlords Battlecry III,Jan 22 2016,73,135,10,10044,0,9.99
+435120,435120,Rusty Lake Hotel,Rusty Lake Hotel,Jan 29 2016,65,339,7,24571,0,1.99
+435530,435530,The Final Station,The Final Station,Aug 30 2016,76,751,6,27979,10,14.99
+438430,438430,Valentino Rossi The Game,Valentino Rossi The Game,Jun 16 2016,72,127,10,10402,35,49.99
+439190,439190,Stories: The Path of Destinies,Stories: The Path of Destinies,Apr 12 2016,74,501,14,32642,37,14.99
+440880,440880,The Count Lucanor,The Count Lucanor,Mar 3 2016,78,203,7,6457,32,9.99
+447500,447500,Shattered Skies,Shattered Skies,Jul 21 2016,57,1212,8,42685,0,24.99
+448280,448280,Job Simulator,Job Simulator,Apr 5 2016,68,460,10,111735,0,29.99
+448370,448370,IS Defense,IS Defense,Apr 19 2016,50,598,9,10761,39,5.99
+448510,448510,Overcooked,Overcooked,Aug 3 2016,81,599,11,71202,12,16.99
+449300,449300,Planar Conquest,Planar Conquest,May 30 2016,53,211,18,17756,73,24.99
+452420,452420,Koihime Enbu,Koihime Enbu,May 19 2016,68,113,5,8250,47,39.99
+458000,458000,March of the Living,March of the Living,Apr 20 2016,63,389,14,12375,14,14.99
+460700,460700,Song of the Deep,Song of the Deep,Jul 11 2016,76,178,5,18114,10,14.99
+474750,474750,Reigns,Reigns,Aug 11 2016,77,1154,9,178991,13,2.99
+477160,477160,Human: Fall Flat,Human: Fall Flat,Jul 22 2016,70,526,5,45734,47,14.99
+485870,485870,Super Duper Party Pooper,Super Duper Party Pooper,Jun 6 2016,40,101,18,13272,26,0.99
+499520,499520,The Turing Test,The Turing Test,Aug 30 2016,77,469,19,25288,15,19.99
+517710,517710,Redout,Redout,Sep 2 2016,79,575,13,29055,34,34.99
+456610,456610,Pro Evolution Soccer 2017,Pro Evolution Soccer 2017,Sep 14 2016,69,1057,5,92724,0,39.99
+289070,289070,Sid Meier's Civilization VI,Sid Meiers Civilization(r) VI,Oct 20 2016,94,7201,3,1363057,100,59.99
+360430,360430,Mafia III,Mafia III,Oct 6 2016,61,13524,23,390265,55,59.99
+397950,397950,Clustertruck,Clustertruck,Sep 27 2016,77,1231,7,111376,18,14.99
+403640,403640,Dishonored 2,Dishonored 2,Nov 11 2016,86,12451,8,333232,50,59.99
+415200,415200,Motorsport Manager,Motorsport Manager,Nov 9 2016,82,1150,9,52908,54,34.99
+507490,507490,Ashes of the Singularity: Escalation,Ashes of the Singularity: Escalation,Nov 10 2016,81,150,6,9685,54,39.99
+538870,538870,EVE: Valkyrie,EVE: Valkyrie,Nov 17 2016,69,101,6,1793,33,59.99
